@@ -1,7 +1,8 @@
 # IHH Singapore: Parkway Shenton の戦略的再検討 — 売却・投資張替えの是非と張替え先業態
 
-**作成日**: 2026年8月27日 / **改訂**: 2026年8月31日(v2)
+**作成日**: 2026年8月27日 / **改訂**: 2026年8月31日(v3)
 **v2改訂内容**: (1) iXchange(TPA)をParkway Shenton傘下と誤記していた点を訂正——IHH年次報告書の子会社一覧により、iXchange Pte LtdとParkway Shenton Pte Ltdはいずれも**Parkway Holdings Limited直下の兄弟会社**であることを確認(「Parkway Shenton Business Group」は法的所有関係ではなくマーケティング上の呼称)。これに伴いカーブアウト設計を簡素化。(2) 張替え先の深掘りセクション(第6章)を新設——Icon Cancer Centre/Icon Groupへの出資案、消化器内視鏡、眼科、循環器、IVF等の具体的ターゲットと取引プライシングを追加。
+**v3改訂内容**: 補論(第9章)を新設——(1) IHHがParkway Shentonを強化する理由の実証と推奨の再検証(結論を一部修正: GP診療P&Lの「売却」を「Hirslanden型パートナーシップ優先・売却は次善」へ格下げ)、(2) 先進国の場所貸し型病院による専門医グループ出資事例、(3) テナント(Icon)出資の双方のメリット・デメリット、(4) 保険者Steerage強化下での専門医グループ出資の意義。IHH SG入院数の4四半期連続減少(▲6〜▲10%)、GEによるMount Elizabeth事前承認停止(2025年6月)等の新規事実を反映。
 **位置づけ**: 「7地域 医療システム市場構造調査」(healthcaremarketstructure.md) および「IHHグループ4領域深掘り」(ihhdeepdive4areas.md) の補論。IHH Healthcare非上場化後のMajority株主の立場から、シンガポール事業のプライマリケア子会社 Parkway Shenton を売却し、Physician Practice Management (PPM) や著名医師とのJV型クリニック等へ投資を張り替えるべきかを検討する。
 **検討の前提**: IHH SingaporeはMount Elizabeth (Orchard/Novena)、Gleneagles、Parkway Eastの民間急性期4病院(セグメント収入RM61.3億=約S$18.5億, FY2024)を中核とし、Healthier SG(フォーミュラリ導入による薬価差益の解消、クラスター人頭払い、3地域割り)によってGPクリニックの収益性と行動インセンティブが構造変化するなかで、Parkway Shentonの保有意義を問う。
 
@@ -228,6 +229,99 @@ SG専門医療の取引価格は極端に二極化している。**希少で病�
 
 ---
 
+## 9. 補論(v3): 4つの追加論点 — 強化戦略の理由・先進国事例・Icon出資の損得・Steerage下の意義
+
+### 9-1. IHHがParkway Shentonを「強化」する理由と、推奨の再検証
+
+**IHH SG病院事業は想定以上の圧力下にある(実データ)**
+
+| 指標 | 実績 | 出典 |
+|---|---|---|
+| SG入院数(四半期・前年比) | 1Q25 **▲6%** → 3Q25 **▲8%** → 4Q25 **▲10%**(13,293件) → 1Q26 **▲8%**(13,400件) | The Star/Kenanga決算ノート 2025-26 |
+| SG病床稼働率 | **約50%**(1Q26)→51%(2Q26)。グループ平均68%を大きく下回る | The Star/Minichart 2026 |
+| 入院単価 | FY24 +12%(RM61,528)→1Q26 **▲3%**(RM61,186)に転落 | IHH AR2024/The Star |
+| SG収入 | 2Q26 **▲10%**(RM13.67億)——グループ最弱市場 | Business Today 2026年8月 |
+| 民間:公立の患者シェア | 2010年15:85→**10:90**へ縮小。IPライダーの解約・ダウングレードは**年約10万人** | Ong Ye Kung保健相 国会答弁 2026年1月 |
+| 保険者の実力行使 | **Great Easternが2025年6月17日からMount Elizabeth 2病院への事前承認発行を停止**(同種治療で他民間病院比20-30%高いと主張)。IHH側(Yong Yih Ming氏)は「協議中の一方的措置に驚いた」と反論、MOHが仲介 | Mothership/Yahoo-ST 2025年6月 |
+
+IHH自身、FY25〜1Q26の入院減少を「**公立医療利用への構造的シフト**」+中東情勢による医療ツーリズム減+Mount Elizabeth Orchard改装(Project Renaissance、FY25中は病床の約半分閉鎖、1Q26に全18病棟再開)の複合と説明している。
+
+**経営陣の対応(=Parkway Shenton強化の理由)は「縮む入院を守る」のではなく「ケアの流出先を自社で保有する」戦略である**:
+1. **病床投資の抑制**: グループ増床4,000床目標を2030年へ2年延期、FY26設備投資をRM35億→約RM25億へ削減。「保険者の厳格な審査を踏まえ、入院より日帰り手技を支える資本配分に組み替えた」と明言。
+2. **外来・日帰りへのデカント**: 2025年に外来センター3拠点(Mount Elizabeth Royal Square、Gleneagles MediCentre香港、Parkway MediCentre上海新天地)を開設。「低acuity症例を病院から退避させ、コスト効率の高いケアモデルを支える」と公式説明。
+3. **保険者との固定価格パッケージ**: 医師と合意した定額パッケージを保険会社へ提供、料金改定を年2〜3%にキャップ。2Q26には「主要保険者との新パッケージ投入、今後さらに価格競争力のあるパッケージ」を予告。
+4. **予防・ロンジェビティの自費市場**: 2026年7月に予防医療プログラム「**Healthspan**」をシンガポール先行で開始——「病院・専門医・プライマリケアクリニックの既存ネットワークに完全統合」と明記され、GP網はその入口。グループCEO Prem Kumar Nair: 「US$10億あれば病院増設ではなく外来・ゲノミクス・がん予防・ロンジェビティに投じる」「ケアのピラミッドを逆転させる」。
+5. **政府との整合**: Healthier SG/PCN評議会への参画は、民間病院への逆風下で政策パートナーの座を維持する意味を持つ。
+6. **組織設計が意図を物語る**: **Yong Yih Ming氏がMount Elizabeth病院CEOとParkway Shenton CEO(Chief of Out-Of-Hospital Services)を兼務**——病院とアウト・オブ・ホスピタルを一人の指揮下に置き、「入院か外来か」ではなく「エピソード全体をIHH内で完結させる」設計。
+
+**推奨の再検証(結論の一部修正)**: v2で「GP診療P&Lは売却」とした推奨は、以下の通り修正する。
+- **張替え(専門医グループ・ASCへの投資)は再確認、むしろ格上げ**。入院減少が現実である以上、site-of-careシフトの受け皿を自社資産で持つことはROI改善策ではなく**防衛上の必須手**である(9-4参照)。経営陣のRoyal Square・MediCentre路線は本レポートの推奨と同方向であり、Majority株主はこれを加速(Icon・GI等のインオーガニック追加)すればよい。
+- **GP診療P&Lの扱いは「売却推奨」から「Hirslandenパートナーシップ型を第一候補、売却は次善」へ格下げ**。理由: (a) v2の売却論拠は「GPは入院送客の主経路ではない」だったが、Steerage激化はGPの価値の意味を変えた——入院ファネルではなく、**保険者向け「低コスト完結型ネットワーク商品」の入口ノード**としての価値(固定価格パッケージ、Singlife CareCollab、Healthspanの前提)。(b) 資産規模が小さく売却しても資本はほぼ浮かない一方、ネットワーク商品の完全性は失われる。(c) 民間病院が政策的逆風下にある今、Healthier SGからの離脱は政府関係コストが従来想定より大きい。——ただしGPの**P&Lリスクと運営負荷を自社で抱え続ける必然性はない**。スイスHirslandenが2023年にGP診療センター3拠点をMigros系Medbaseへ移管しつつ、放射線診断は自社主導JVで残し「統合ケアパスは共同構築」とした型(9-2)が、売却(Healius型)よりも優れた解となる: **P&Lと運営はプライマリケア専業(Sheares/Fullerton/Medbase型パートナー)へ、経路・ブランド・データ連携はJV契約でIHHに残す**。
+- 修正後のC案: 「GP診療P&L=パートナーシップ移管(第一候補)or売却(次善)、UCC・法人健診=保持、張替え=GI内視鏡→Icon→ASC横展開」の順は不変。
+
+### 9-2. 先進国における「場所貸し型」急性期病院の専門医グループ出資事例
+
+| 事例(国) | 内容 | ストラクチャー | 結果・教訓 |
+|---|---|---|---|
+| **Helios/Asklepios/Sana等(独)** | 2004年法改正以降、外来専門医診療所をMVZ(医療供給センター)として大量買収。2023年末で**全MVZ約5,000のうち47.7%(2,336)が病院保有**、Heliosは~120 MVZ。狙いは紹介・入院の囲い込み(Einweisermanagement)と外来シフト(2024年Hybrid-DRG=入外同一報酬で外来手術の内製化が直接収益化) | 100%子会社化・医師は雇用 | スケールは達成。ただし開業医団体(KBV)の強い反発、連邦参議院がMVZ規制法を決議(2023)——**「大家がテナントを買う」戦略は規制リスクを自ら呼ぶ** |
+| **Hirslanden/Mediclinic(スイス)** | Belegarzt(独立提携医~2,000人)モデルの堂々たる「場所貸し」。買ったのは**施設型資産のみ**——外来手術センター(OPERA Zumikonを医師オーナーから買収2020)、放射線、ゲノム医療(Hirslanden Precise)。**2023年、GP診療センター3拠点をスタッフごとMedbase(Migros系)へ移管**し、放射線は自社主導のJVに | 施設保有+提携医温存。GPはパートナーへ | **本件への最重要テンプレート**。「提携医と競合する外来は持たず、提携医が使う施設を持つ」「プライマリケアは専業パートナーに任せ、統合ケアパスだけ共同構築」。Belegarzt離反は起きていない |
+| **Swiss Medical Network(スイス)** | 医療センター60超を買収し、保険会社Visanaと統合ケア地域「Réseau de l'Arc」(2024)・専用保険商品Vivaを構築 | センター保有+保険JV | 病院グループが「保険者と組んだ人口健康モデル」の完結を狙う欧州先行例 |
+| **HCA UK(英)** | ロンドンの場所貸し型病院群。**LOC(London Oncology Clinic)をコンサルタント創業医から過半取得(2011年頃)**——創業医は持分・臨床統治を保持。Roodlane(法人向けGP/産業保健)買収、The Christie NHSトラストと私費がんJV(2009) | 過半+創業医マイノリティ残し | LOCはHCAの外来がんプラットフォームとして成功。ただし**CMA(競争当局)が2014年に紹介対価・優遇の禁止命令**——アライメント施策は規制の影を呼んだ |
+| **Spire(英)** | GP/産業保健のDoctors Clinic Groupを約£12mで買収(2022) | 100%買収 | 存続しているが希薄化要因でリストラ——**GP網の病院グループ保有は英国でも収益貢献せず** |
+| **HCA(米)** | Sarah Cannon(がん研究)は独立医師グループTennessee Oncologyと**10年近い共同保有**を経て2012年に取得、2022年にMcKesson(US Oncology)と研究JV(McKesson 51%/HCA 49%) | 段階的パートナーシップ→JV | 「著名医師グループとまず共同保有」の成功例。一方、米国の医師「雇用」全般は1人年▲$30万の赤字 |
+| **Tenet/USPI(米)** | 医師を買わず、**ASC施設単位で医師・地域医療システムと3者エクイティ**(医師パートナー4,000人超) | 施設レベル少数持分 | 場所貸しモデルと最も整合的な「雇わず整合させる」定番解 |
+| **Ramsay(豪)** | VMO(独立専門医)モデル。専門医グループは買わず、放射線治療はGenesisCareと施設JV。給与制の心理クリニック網(~20拠点)を自前展開したが、**2025年に17拠点閉鎖** | 施設JV/自前クリニック | **失敗例**: 場所貸し病院の中核能力(施設運営・医師関係)は「クリニシャンを雇って診療所を経営する」能力に転用できない |
+
+**教訓の要約**: (1) 紹介囲い込みは効く(米研究: 病院保有化で当該医師の入院の~8割が保有病院へ、独立医は~4割)が、その分だけ非買収テナントの反発と規制介入を招く。(2) 成功はすべて「**施設・プラットフォーム型**」(ASC、外来がんセンター、研究基盤)で、失敗はすべて「**クリニシャンの時間を給与で買う型**」(Ramsay心理、米雇用、SpireのGP)。(3) 創業医の持分・臨床統治を残した案件(LOC、USPI、Sarah Cannon)が雇用転換型に勝る。(4) Hirslandenの「テナントと競合する資産は買わない・医師から買う・GPは専業に任せる」が場所貸しモデル維持との両立解。
+
+### 9-3. テナント(Icon型事業者)への出資・買収: 双方のメリット・デメリット
+
+**IHH側のメリット**
+1. **第二アンカーの確保による契約交渉力回復**: PCC(TalkMed)が競合資本Tamarindの傘下となった今、館内にもう一つの腫瘍グループを持つことは契約更改の保険となる(米国で病院が複数の独立グループを併存させる構図)。
+2. **能力の内製化**: 放射線治療・調剤コンパウンディング(Slade: 年100万件超の輸液調製)というSGで持たない機能と、豪州で磨かれた運営標準を獲得。
+3. **保険者ネットワークの取り込み**: IconのPrudential優先ネットワーク(外来がん治療のキャッシュレス化)は、Steerage下で「保険者が選ぶ外来がんサイト」をIHH経済圏に入れることを意味する(9-4)。
+4. **地域シナジーの既往**: マレーシアでIsland Hospital・Prince Court(いずれもIHH)内にIconセンターが稼働済み——統合リスクが低い「実績ある間柄」。
+5. **防衛**: Icon(またはそのアジア事業)が保険者(Greater China入札でAIAがショートリスト入り)や競合プラットフォームに買われた場合、外来がんのSteerage先がIHHの支配外に確定してしまう。その先回り。
+
+**IHH側のデメリット・リスク**
+1. **場所貸しモデルの中立性毀損**: 保有した瞬間、館内の他の独立腫瘍内科医(TalkMed/PCC医師団、OncoCare、個人開業医)から見て大家が競合になる。米国のエビデンス通り紹介行動は所有に反応するため、**非買収テナントの離反・入院移し(Farrer Park等へ)**が起こり得る。Hirslandenの教訓(テナントと競合する資産は買わない)に反する取引であることを自覚し、TalkMed契約の再確認を先行させるべき。
+2. **買収対象の一部はそもそも競合病院を養う**: Iconの旗艦はFarrer Park、Mount Alverniaにも放射線治療つきセンター——買収してもこれらの症例はIHH病院に来ない(逆にFarrer Park側がIconに退去を迫るリスクすらある)。
+3. **バリュエーションとレバレッジ**: EQT取得16.5倍・グループTLB約A$11億。GenesisCareの破綻が示す通り過大払いは致命的。
+4. **運営能力の壁**: 医師グループ経営は場所貸しの中核能力ではない(Ramsayの教訓)。創業医の持分・統治を残すLOC/Sarah Cannon型が必須。
+5. **CCCS審査**(民間がん市場はTamarind vs Iconの複占に近く、病院最大手による一角取得は精査対象)。
+
+**Icon/EQT側のメリット**
+1. **EQTの出口**: 保有5年目・Greater Chinaカーブアウト進行中のEQTにとり、アジア事業の戦略売却またはIHHという戦略株主の参画は、残るANZ事業のExit(IPO/売却)をde-riskする。
+2. **テナント地位の恒久化と成長導線**: SG(IHH 4病院)・マレーシア(Island/Prince Court)での立地・増床、さらにIHHの10市場(トルコAcıbadem、インド、香港)への横展開オプション。放射線治療は装置・バンカーの資本集約が重く(リニアック~US$4m+、施設~US$6m+)、IHHの資本とアジアの患者基盤は成長制約を外す。
+3. **患者パイプラインへの接続**: IHHの国際患者チャネル(20都市超の紹介網)、iXchange/Singlifeの保険導線、Healthspan等の検診→がん診断フロー。
+4. **薬剤調達・コンパウンディングの規模**: IHH 80超病院との調達統合はIconの医薬品バーティカルに直接効く。
+
+**Icon側のデメリット**
+1. **マルチホスピタル中立性の喪失**: Farrer Park・Mount Alvernia・(香港・中国の提携病院)から見てIconは「IHHの子会社」となり、既存立地の契約更新・新規院内出店で不利に。医師にとっても「どの病院にも紹介できる独立性」が薄れ、**採用力・医師リテンションの毀損**リスク。
+2. **経済条件の従属**: 大家兼株主となったIHHが施設費・薬剤マージン・移転価格で自社病院有利に配分を歪める懸念(ガバナンス設計次第)。
+3. **高値売却オプションの放棄**: 保険者(AIA等)や他プラットフォームとの競争入札に比べ、相対でのIHH取引は価格が抑えられやすい。
+4. SMC倫理規定下で、IHH傘下となった後の紹介実務が「誘引」と見られないよう運用の透明化コストが増す。
+
+**含意**: 双方の損得を踏まえた最適構造は、(i) まず**施設内JV・地域展開JV**(IconのSunsuria型)でIHH施設内の共同センターを増やし、(ii) 実績を基に**SG/ASEANカーブアウトの共同保有(IHH過半・Icon経営陣/医師持分残し)**または**グループ・マイノリティ+アジア独占提携**へ進む段階戦略。一気の全部買収は、Icon側の中立性価値とIHH側の館内政治の両方を同時に壊すため下策。
+
+### 9-4. 保険者Steerageが強まり入院が減る中で、専門医グループに出資する意義
+
+**前提の確認**: Steerageはもはや仮定ではない。SG入院▲6〜▲10%×4四半期、GEの事前承認停止、2026年4月ライダー新規制(免責の自己負担化、コペイキャップ倍増かつ「パネル医+事前承認」のみ適用=誘導の制度化)、Prudentialによる外来がん(Icon)・日帰り手術(Royal Square)への誘導、民間:公立10:90への患者流出。
+
+**米国のエビデンスが示す答えは二面的である**:
+- **紹介捕捉は効く**: 医師を保有すれば紹介・症例は保有側へ流れる(保有医師の入院の~8割が自病院へ、画像検査はほぼ1対1でサイト移動)。**しかし米国でその利得の源泉は主に「単価引き上げ」**(買収後に医師価格~14%上昇、病院外来はASC比+78%)であり、それこそがSteerage・site-neutral政策・MOH料金ベンチマークが狙い撃つ対象。**「高コストな入院サイトを守るための医師保有」は負ける構成**である。
+- **勝つ構成は「医師+低コストサイト」のセット保有**: Optum(医師9万人+ASC群)は、医師とASCを併せ持つことで保険者側から症例の行き先とマージンを同時に支配した。豪州では保険者Medibankが**病院を飛ばして専門医42人と直接JVで無ギャップ短期滞在病院(Adeney)を建設**——病院が低コスト供給を拒めば、保険者は医師と直接組んでしまうことが実証された。逆に高コスト入院設備とレバレッジを抱えて保険者と対決したHealthscopeは2025年に経営破綻した。
+
+**したがってIHHにとって専門医グループ出資の意義は、「入院減少を止める」ことではなく次の4点にある**:
+1. **Steerageの着地先を自社資産にする**: 保険者が症例を外来・日帰りへ誘導するのは止められない。誘導された先(ASC・外来がんセンター・内視鏡センター)を自社が保有し医師と持分で結ばれていれば、**入院マージンは失っても症例とASCマージン(~40%)はグループ内に残る**。Royal Square×PRUPanelはこの型の第一号であり、専門医のエクイティ・ロックインがまだ欠けている。
+2. **固定価格パッケージの供給能力**: 保険者に定額バンドルを売るには医師フィーを含めた原価の支配が要る。独立医の寄せ集めでは packaging できない——専門医グループとの資本関係は、IHHが既に始めた「保険者向け固定価格パッケージ・フィー上昇2〜3%キャップ」戦略の実行基盤そのもの。
+3. **敵対的垂直統合の防止**: 保険者・競合プラットフォーム(Tamarind、HMI/Apollo、AIAのIcon China入札)が admitters を買い集めており、**放置すればIHHは「誰かの所有する医師群に選ばれるのを待つ大家」に転落**する。医師グループへの出資は、保険者が病院を飛ばして医師と組む(Medibank型)シナリオへの保険でもある。
+4. **単価ではなく回転で稼ぐ移行の実装**: MOHベンチマークとSteerageで単価上昇は封じられている。ASC/専門医グループの経済は「症例数×回転×稼働」から生まれ、Narayana/USPI型の運営に近い。高acuity入院(改装後のMount Elizabeth)+高回転外来(ASC・専門医グループ)という二層構造への移行が、Majority株主のExitストーリーになる。
+
+**留意**: 米国の教訓通り、医師保有の利得を「価格」に求めれば規制と保険者の反撃を招く。SGでは料金ベンチマーク(遵守率~90%)とCMA型の紹介誘引規制(SMC ECEG)が既にあるため、**出資の効果測定は単価ではなく症例捕捉率・稼働・原価で行う**こと。
+
+---
+
 ## 主要出典
 
 - MOH Singapore: Healthier SG White Paper (2022) / Chronic Tier発表 (2023-24) / Capitation説明 (2023) / 登録データ (2025-26) / Ong Ye Kung保健相スピーチ 3rd Singapore Primary Care Conference (2026年5月) / PQM入札 (2025) / IPライダー新基準 (2025) / 手術料・費用ベンチマーク (2018-2025) / デイサージェリーセンター数 国会答弁 (2023)
@@ -236,5 +330,6 @@ SG専門医療の取引価格は極端に二極化している。**希少で病�
 - Icon関連: EQTプレスリリース (2021) / AVCJ・KWM・DealStreetAsia (Icon買収 2021-22) / Cahill・Latham & Watkins (TLBファイナンス 2022) / ION Analytics/Mergermarket (Greater Chinaカーブアウト・AIAショートリスト) / Icon Group各リリース (SG 2016-24、Sunsuria JV・Island Hospital・Prince Court 2024、Bali 2025) / Prudential plc (Icon優先ネットワーク 2024年11月) / TalkMed Composite Document (2025年6月: PCC=Parkway Hospitals Singaporeの一部門) / Tamarind Health・65 Equity Partners・CCCS (2024-25) / VMG Health・GenesisCare (Chapter 11 2023-24)
 - 専門医療ターゲット: TalkMed FY24 AGM資料 (PAT S$27.5百万) / HC Surgical Specialists FY2025-26決算 / ISEC Healthcare決算・Aier出資 (2019-26) / HMI (Eagle Eye 2021、Harley Street 2024) / Templewater (Novena Heart 2023) / Alpha IVF (Bursa、FY2025 PAT率32.5%) / Singapore Paincare非公開化 (2025) / SBC Medical-AHH (SEC 10-K 2025) / Livingstone Health・Alliance Healthcare決算 / gutCARE・Alfa Medicus/Novena Surgery・Cura Day Surgery各社サイト
 - 取引情報・業態事例: Bloomberg (Fullerton 2016-2024) / 三菱商事リリース (2025年8月) / AVCJ (EQT-HMI 2019) / Apollo (2023-25) / SGX開示 (SMG 2022-23, TalkMed 2024, Alliance FY2025) / The Edge Singapore (Healthway-OUE 2023) / Sheares Healthcare (2021) / Tenet/USPI決算 (2024-25) / Kaufman Hall・AMGA (雇用医師損失) / Healthcare Dive (Envision・APP破綻 2023) / Healius-BGH (2020) / Ramsay / HCA UK (2024-25) / SMC ECEG 2016・SMA解説 (2017) / HCSA ASC規則 (2023) / PLB Insights・PropertyGuru (医療スイート価格 2023-26)
+- 補論(v3)追加出典: The Star・Kenanga・MIDF・TA・RHB・DBS (IHH四半期決算・SG入院数 2025-26) / Business Today・Minichart (2Q26決算 2026年8月27日) / The Edge Malaysia (CFOインタビュー・capex再検討) / Fortune・Medical Channel Asia・Outlook Business (Prem Kumar Nair発言・FutureHealth.NOW 2026) / IHH Newsroom (Royal Square・Healthspan・MediCentre拡張・SG経営体制) / Mothership・Yahoo/ST・MustShareNews (GE事前承認停止 2025年6月) / MOH (IPライダー新規制 2025年11月・COS 2026・民間病院請求データ) / Ong Ye Kung国会答弁 (民間:公立10:90、ライダー解約年10万人 2026年1月) / Investment Moats (IP保険者MAS収支 2024) / KBV・Ärzteblatt・Bundesrat・Hans-Böckler (独MVZ 2023-24) / Hirslanden・medinside・kma-online (Medbase提携 2023、OPERA Zumikon 2020) / Swiss Medical Network・Réseau de l'Arc (2024-25) / CMA Private Healthcare Market Investigation Order (2014)・Competition Commission (LOC買収経緯 2013) / Spire決算 (DCG 2022-25) / McKesson・HCA (Sarah Cannon研究JV 2022) / Tennessee Oncology (2023) / NBER w21497 Baker et al. (2015)・Capps/Dranove/Ody (2018)・Health Affairs各論文 (垂直統合と価格・紹介捕捉 2014-2025) / STAT・Becker's・Brown SPH (UnitedHealth/Optum 2023-25) / Medibank (East Sydney Private・Adeney Private Hospital JV 2023) / Bupa Australia (Members First・Partnered Health 2026) / ABC News・RSM・Bloomberg (Healthscope破綻 2025) / ABC News (Ramsay Psychology閉鎖 2025)
 
 ※注記: Parkway Shenton単体・Icon Group・各医師グループの財務の多くは非開示であり、本稿の規模感・価格レンジは開示資料・第三者推計・類似取引からの推定である。実行判断の前に、(1) 社内管理会計による紹介寄与・事業別P&Lの検証、(2) PCC(TalkMed)契約条項の精査、(3) UCC医師の雇用主体を含むカーブアウト会計、(4) EQT・対象医師グループとの予備的打診によるバリュエーション検証を推奨する。
