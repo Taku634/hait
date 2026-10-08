@@ -1,0 +1,539 @@
+{
+ "n_total": 1295,
+ "n_with_profile": 1289,
+ "by_hospital_listed": {
+  "GEH": 485,
+  "ME": 1048,
+  "MEH": 689,
+  "PEH": 195,
+  "MNH": 580
+ },
+ "hospital_combos": {
+  "ME|MEH": 378,
+  "ME|MNH": 254,
+  "GEH": 211,
+  "GEH|ME|MEH|MNH": 86,
+  "ME|MEH|MNH": 70,
+  "GEH|ME|MNH": 63,
+  "GEH|ME|MEH": 38,
+  "GEH|ME|MEH|MNH|PEH": 38,
+  "PEH": 28,
+  "ME|MNH|PEH": 27,
+  "ME|MEH|MNH|PEH": 27,
+  "GEH|ME|MEH|PEH": 26,
+  "ME|MEH|PEH": 26,
+  "GEH|ME|MNH|PEH": 15,
+  "GEH|PEH": 8
+ },
+ "gender": {
+  "Male": 959,
+  "Female": 330,
+  "null": 6
+ },
+ "specialty": {
+  "General Surgery": 147,
+  "Orthopaedic Surgery": 144,
+  "Ophthalmology": 98,
+  "Obstetrics & Gynaecology": 95,
+  "Cardiology": 79,
+  "Gastroenterology": 68,
+  "Otorhinolaryngology / ENT": 65,
+  "Anaesthesiology": 50,
+  "Medical Oncology": 48,
+  "Paediatric Medicine": 46,
+  "Urology": 43,
+  "Dermatology": 37,
+  "Intensive Care Medicine": 33,
+  "Plastic Surgery": 32,
+  "Diagnostic Radiology": 31,
+  "Endocrinology": 25,
+  "Oral & Maxillofacial Surgery": 23,
+  "Neurosurgery": 23,
+  "Psychiatry": 22,
+  "Respiratory Medicine": 21,
+  "Renal Medicine": 20,
+  "Cardiothoracic Surgery": 19,
+  "Neurology": 19,
+  "Hand Surgery": 18,
+  "Rheumatology": 13,
+  "Haematology": 12,
+  "Infectious Diseases": 10,
+  "Radiation Oncology": 9,
+  "Prosthodontics": 7,
+  "Orthodontics": 7,
+  "Endodontics": 5,
+  "Paediatric Surgery": 4,
+  "Paediatric Dentistry": 4,
+  "Internal Medicine": 4,
+  "Nuclear Medicine": 3,
+  "Sports Medicine": 2,
+  "Periodontology": 2,
+  "Geriatric Medicine": 2,
+  "Dental public health": 2,
+  "Rehabilitation Medicine": 1,
+  "Pathology": 1,
+  "Palliative Medicine": 1
+ },
+ "age_band": {
+  "50-59": 219,
+  "60-69": 127,
+  "null": 644,
+  "40-49": 242,
+  "70+": 45,
+  "<40": 18
+ },
+ "fdy_source": {
+  "qual": 233,
+  "null": 644,
+  "text_grad": 262,
+  "text_years": 147,
+  "earliest_qual": 9
+ },
+ "years_since_degree": {
+  "n": 651,
+  "median": 27,
+  "mean": 28.5,
+  "p25": 20,
+  "p75": 35
+ },
+ "buildings": {
+  "Mount Elizabeth Medical Centre (3 Mount Elizabeth)": 653,
+  "Mount Elizabeth Novena Specialist Centre (38 Irrawaddy Rd)": 468,
+  "Gleneagles Medical Centre (6 Napier Rd)": 352,
+  "Parkway East Medical Centre (319 Joo Chiat Pl)": 178,
+  "Gleneagles Hospital Annexe (6A Napier Rd)": 120,
+  "Paragon Medical (290 Orchard Rd)": 64,
+  "Royal Square at Novena (101 Irrawaddy Rd)": 22,
+  "Parkway MediCentre (IHH community clinic)": 16,
+  "Lucky Plaza (304 Orchard Rd)": 13,
+  "Novena Medical Center (10 Sinaran Dr)": 7,
+  "Other: Mount Elizabeth Hospital 3, Level 2 Mount Elizabeth Hospital SG 228510": 2,
+  "Parkway East Hospital (321 Joo Chiat Pl)": 2,
+  "Novena Specialist Center (8 Sinaran Dr)": 2,
+  "Camden Medical Centre (1 Orchard Blvd)": 2,
+  "HMI Medical Centre / Farrer Park (12 Farrer Park Station Rd)": 1,
+  "Other: 260 Orchard Road #05-01 Mount Elizabeth @ The Heeren SG 238855": 1,
+  "Farrer Park Medical Centre / Connexion": 1,
+  "Other: 111 Somerset Road #04-15 TripleOne Somerset SG 238164": 1
+ },
+ "on_ihh_campus": {
+  "true": 1207,
+  "false": 88
+ },
+ "campus_combo": {
+  "MEH": 349,
+  "GEH": 206,
+  "MNH": 199,
+  "GEH|MEH": 66,
+  "Orchard-other": 59,
+  "GEH|MNH": 57,
+  "GEH|MEH|MNH": 55,
+  "MEH|MNH": 55,
+  "MEH|PEH": 29,
+  "PEH": 28,
+  "GEH|MEH|MNH|PEH": 27,
+  "MEH|MNH|PEH": 26,
+  "MNH|PEH": 22,
+  "GEH|MEH|PEH": 20,
+  "Novena-other": 19,
+  "GEH|MNH|PEH": 14,
+  "MEH|Orchard-other": 10,
+  "GEH|PEH": 7,
+  "": 6,
+  "GEH|IHH-community": 6,
+  "IHH-community|MEH": 5,
+  "Novena-other|Orchard-other": 3,
+  "GEH|Novena-other": 3,
+  "GEH|MEH|MNH|Orchard-other": 2,
+  "GEH|MNH|other": 2,
+  "IHH-community": 2,
+  "Orchard-other|PEH": 2,
+  "GEH|Orchard-other": 1,
+  "Farrer Park|GEH|MEH|MNH|PEH": 1,
+  "GEH|MEH|Novena-other": 1
+ },
+ "group": {
+  "(none identified)": 989,
+  "Foundation Healthcare": 89,
+  "Tamarind Health": 45,
+  "HMI Medical": 30,
+  "OUE Healthcare / Healthway": 25,
+  "HC Surgical Specialists": 13,
+  "Singapore Medical Group (SMG)": 12,
+  "Orthopaedics International": 12,
+  "Eye & Retina Surgeons": 12,
+  "Icon Group": 10,
+  "Specialist Dental Group": 10,
+  "gutCARE": 8,
+  "Doctor Anywhere / AHS": 8,
+  "Curie Oncology": 7,
+  "Beyond Medical Group": 5,
+  "Fullerton Health": 5,
+  "Alfa Medicus (ICG)": 5,
+  "ISEC Healthcare (Aier)": 3,
+  "Cardiac Care Partners": 2,
+  "Singapore Paincare": 2,
+  "Royal Healthcare (Sojitz)": 1,
+  "AARO": 1,
+  "ISEC Healthcare (Aier)|Singapore Medical Group (SMG)": 1
+ },
+ "group_any": {
+  "Foundation Healthcare": 89,
+  "Tamarind Health": 45,
+  "HMI Medical": 30,
+  "OUE Healthcare / Healthway": 25,
+  "Singapore Medical Group (SMG)": 13,
+  "HC Surgical Specialists": 13,
+  "Orthopaedics International": 12,
+  "Eye & Retina Surgeons": 12,
+  "Icon Group": 10,
+  "Specialist Dental Group": 10,
+  "gutCARE": 8,
+  "Doctor Anywhere / AHS": 8,
+  "Curie Oncology": 7,
+  "Beyond Medical Group": 5,
+  "Fullerton Health": 5,
+  "Alfa Medicus (ICG)": 5,
+  "ISEC Healthcare (Aier)": 4,
+  "Cardiac Care Partners": 2,
+  "Singapore Paincare": 2,
+  "Royal Healthcare (Sojitz)": 1,
+  "AARO": 1
+ },
+ "ihh_flags": {
+  "also at Parkway MediCentre": 16,
+  "IHH hospital department / centre": 31
+ },
+ "n_clinics": {
+  "2": 251,
+  "1": 847,
+  "5": 4,
+  "3": 135,
+  "4": 52,
+  "0": 6
+ },
+ "insurance_panel": {
+  "Prudential": 941,
+  "HSBC Life": 652,
+  "Singlife": 635,
+  "Great Eastern": 597,
+  "Income": 554,
+  "AIA": 523
+ },
+ "specialty_median_years": {
+  "Orthopaedic Surgery": [
+   92,
+   25.0
+  ],
+  "General Surgery": [
+   91,
+   26
+  ],
+  "Cardiology": [
+   47,
+   29
+  ],
+  "Ophthalmology": [
+   44,
+   25.0
+  ],
+  "Obstetrics & Gynaecology": [
+   42,
+   25.5
+  ],
+  "Otorhinolaryngology / ENT": [
+   42,
+   29.0
+  ],
+  "Gastroenterology": [
+   41,
+   28
+  ],
+  "Paediatric Medicine": [
+   28,
+   29.0
+  ],
+  "Urology": [
+   23,
+   30
+  ],
+  "Medical Oncology": [
+   19,
+   26
+  ],
+  "Dermatology": [
+   17,
+   25
+  ],
+  "Neurosurgery": [
+   15,
+   26
+  ],
+  "Endocrinology": [
+   13,
+   32
+  ],
+  "Respiratory Medicine": [
+   12,
+   28.5
+  ],
+  "Hand Surgery": [
+   12,
+   26.5
+  ],
+  "Renal Medicine": [
+   11,
+   28
+  ],
+  "Plastic Surgery": [
+   11,
+   23
+  ],
+  "Neurology": [
+   10,
+   26.0
+  ],
+  "Cardiothoracic Surgery": [
+   9,
+   25
+  ],
+  "Intensive Care Medicine": [
+   9,
+   25
+  ],
+  "Anaesthesiology": [
+   8,
+   33.0
+  ],
+  "Rheumatology": [
+   8,
+   27.5
+  ],
+  "Haematology": [
+   7,
+   27
+  ],
+  "Infectious Diseases": [
+   6,
+   34.5
+  ],
+  "Psychiatry": [
+   6,
+   31.5
+  ],
+  "Radiation Oncology": [
+   6,
+   28.0
+  ],
+  "Diagnostic Radiology": [
+   6,
+   30.0
+  ],
+  "Oral & Maxillofacial Surgery": [
+   4,
+   43.0
+  ],
+  "Paediatric Surgery": [
+   3,
+   36
+  ],
+  "Internal Medicine": [
+   2,
+   25.0
+  ],
+  "Paediatric Dentistry": [
+   2,
+   23.5
+  ],
+  "Prosthodontics": [
+   1,
+   10
+  ],
+  "Sports Medicine": [
+   1,
+   20
+  ],
+  "Nuclear Medicine": [
+   1,
+   20
+  ],
+  "Endodontics": [
+   1,
+   34
+  ],
+  "Geriatric Medicine": [
+   1,
+   35
+  ]
+ },
+ "specialty_group_share": {
+  "General Surgery": [
+   147,
+   33
+  ],
+  "Orthopaedic Surgery": [
+   144,
+   39
+  ],
+  "Ophthalmology": [
+   98,
+   38
+  ],
+  "Obstetrics & Gynaecology": [
+   95,
+   9
+  ],
+  "Cardiology": [
+   79,
+   29
+  ],
+  "Gastroenterology": [
+   68,
+   15
+  ],
+  "Otorhinolaryngology / ENT": [
+   65,
+   18
+  ],
+  "Anaesthesiology": [
+   50,
+   6
+  ],
+  "Medical Oncology": [
+   48,
+   43
+  ],
+  "Paediatric Medicine": [
+   46,
+   3
+  ],
+  "Urology": [
+   43,
+   20
+  ],
+  "Dermatology": [
+   37,
+   0
+  ],
+  "Intensive Care Medicine": [
+   33,
+   6
+  ],
+  "Plastic Surgery": [
+   32,
+   0
+  ],
+  "Diagnostic Radiology": [
+   31,
+   0
+  ],
+  "Endocrinology": [
+   25,
+   2
+  ],
+  "Oral & Maxillofacial Surgery": [
+   23,
+   7
+  ],
+  "Neurosurgery": [
+   23,
+   3
+  ],
+  "Psychiatry": [
+   22,
+   0
+  ],
+  "Respiratory Medicine": [
+   21,
+   4
+  ],
+  "Renal Medicine": [
+   20,
+   0
+  ],
+  "Cardiothoracic Surgery": [
+   19,
+   1
+  ],
+  "Neurology": [
+   19,
+   1
+  ],
+  "Hand Surgery": [
+   18,
+   7
+  ],
+  "Rheumatology": [
+   13,
+   0
+  ],
+  "Haematology": [
+   12,
+   5
+  ],
+  "Infectious Diseases": [
+   10,
+   0
+  ],
+  "Radiation Oncology": [
+   9,
+   4
+  ],
+  "Prosthodontics": [
+   7,
+   4
+  ],
+  "Orthodontics": [
+   7,
+   0
+  ],
+  "Endodontics": [
+   5,
+   1
+  ],
+  "Paediatric Surgery": [
+   4,
+   1
+  ],
+  "Paediatric Dentistry": [
+   4,
+   1
+  ],
+  "Internal Medicine": [
+   4,
+   1
+  ],
+  "Nuclear Medicine": [
+   3,
+   0
+  ],
+  "Sports Medicine": [
+   2,
+   1
+  ],
+  "Periodontology": [
+   2,
+   2
+  ],
+  "Geriatric Medicine": [
+   2,
+   0
+  ],
+  "Dental public health": [
+   2,
+   1
+  ],
+  "Rehabilitation Medicine": [
+   1,
+   0
+  ],
+  "Pathology": [
+   1,
+   0
+  ],
+  "Palliative Medicine": [
+   1,
+   1
+  ]
+ }
+}
