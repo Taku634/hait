@@ -1,6 +1,6 @@
 # シンガポールにおける保険会社「パネル医師」指定の難しさ — IP保険者7社の選定基準・定員管理・除外リスクの実態
 
-**作成日**: 2026年10月13日(同日改訂: SMA資料・LIA反論・AMS専門医数を原文で確認し、B区分をA区分に更新)
+**作成日**: 2026年10月13日(同日改訂: SMA資料・LIA反論・AMS専門医数を原文で確認しB区分をA区分に更新。⑩に「クリニック外治療とパネル要件、複数拠点・クリニック共用」の補論を追加)
 **位置づけ**: IHH Singapore戦略シリーズ(sg-specialist-network-business-models.md、sg-specialist-group-typology.md、ihh-mitsui-specialist-network-acquisition.md)の補助文書。既存文書が「2026年4月以降の新IPライダーでは自己負担上限がパネル医または事前承認の場合のみ適用されるため、パネル参加がネットワークの集患力を左右する」と指摘したのを受け、本書は**私立専門医がIP(Integrated Shield Plan)保険者のパネルに入ること自体がどの程度難しいのか**を、公開情報に基づいて検証する。
 **表記ルール**: 【確認】=出典で裏付けた事実、【算出】=出典の数値から本書が計算した値、【非公開】=公開情報で確認できなかった事項(推測で埋めない)、【分析】=確認済み事実の比較から導いた本書の整理。出典は巻末で「A=原文を取得して本文確認」「B=検索エンジン経由で該当内容を確認(原文を取得できなかったもの)」に区分した。初版ではSMA資料がB区分だったが、改訂版ではSMA・LIA・AMS資料を原文で取得しA区分に更新した。
 
@@ -150,6 +150,55 @@
 
 ---
 
+## ⑩ 補論: 「主たるクリニック外」での治療とパネル要件、複数拠点・クリニック共用の実態
+
+**問い**: (1) 専門医が自らのメインのクリニック外(他病院での手術・入院等)で治療を提供する場合、パネル要件は変化するか。例えばThomsonでPrudentialのパネルに指定された専門医がIHH病院でPrudential保険を用いて治療できるか。(2) 医師は複数の病院に自らのクリニックを持つことが一般的か、他の専門医のクリニックを借りて治療することが一般的か。
+
+### 10-1. 結論
+
+1. **「パネル要件が医師に付くか、医師×施設の組み合わせに付くか」は保険者で異なる**【分析】。Prudentialは**医師×施設**(両方が参加していることが条件)、GE・AIA・Income・HSBC Lifeは原則**医師**に付く(ただしGEのPrime系プランと事前承認証明書〔PAC〕には施設条件がある)。
+2. **ThomsonでPrudentialのPPC(PRUPanel Connect)に入った専門医が、IHH病院(Mount Elizabeth等)で治療した場合、その請求は「非パネル」扱いになる**【確認】。PrudentialのFAQは「専門医がempanelされた病院・日帰り手術センターで治療を受けること」を条件とし、請求は専門医のクリニックではなく提携病院のビジネスオフィスからe-fileされなければならない。IHH系で提携施設はMount Elizabeth Royal Square(日帰り手術センター)のみ【確認】。
+3. **複数病院での診療は一般的だが、「複数のクリニック」ではなく「1つのクリニック+複数病院での認定(accreditation / admitting privileges)」が標準形である**【確認/算出】。IHH 4病院の公式ディレクトリ1,295人のうち、クリニックが1か所のみの医師は847人(65%)、複数の建物にクリニックを持つ医師は426人(33%)。一方、2病院以上の認定を持つ医師は424人(33%)、認定を持つIHH病院にクリニックがない医師は199人(15%)おり、243人(19%)はThomsonの専門医名簿にも掲載されている【算出】。
+4. **他医師のクリニック共用は「一般的」と断定できる定量データはないが、制度的には珍しくない**【確認/分析】。IHH認定医の43%(559人)は3人以上の医師が名を連ねる同名クリニック(グループ診療)に属し、Paragonでは「複数の専門医で共用する改装済みクリニック(看護・事務スタッフ共用)」の賃貸募集があり、SMGとAurum Landは2021年に専門医向け「従量課金型(pay-per-use)の医療コワーキング」Core Clinicを設立した【確認(B)】。報道は「私立専門医間のスペース共用はシンガポールでは既にかなり一般的」としている【確認(B)】。
+
+### 10-2. 保険者別: パネル給付が「施設」に依存するか
+
+| 保険者 | パネルの単位 | 自院のクリニック外(他病院)で治療した場合 | 根拠 |
+|---|---|---|---|
+| **Prudential**(PPC) | **医師×提携医療機関(HI)**。「提携病院に雇用されている、または提携病院で診療している専門医」をHIが推薦。「提携病院に雇用されていても自動的には参加者にならない」 | **非パネル扱い**。FAQ: パネル請求となるのは「PPC専門医が、その専門医がempanelされているPPC病院/日帰り手術センターで治療した場合」のみ。請求は提携HIのビジネスオフィスからe-file(クリニック経由は不可。HC Surgical・Ascent ENT・ENT Surgeons・Asian Healthcare Specialists・Icon等の指定クリニックは例外)。パンフレット: 「非パネル提供者には、パネル提供者病院で診療する**非参加**私立専門医も含まれる」。EP(Extended Panel)専門医は「PPC・非PPCどちらのHIでも治療可」だが、事前承認が必須で、LOGの上乗せ等は付かない。提携私立病院はMount Alvernia・Raffles・Thomsonの3院+日帰り手術センター11(Mount Elizabeth Royal Squareを含む)+Icon系外来腫瘍センター9 | Prudential PPC FAQ、PPC T&C 1.4、EPページ、PRUShieldパンフレット2021年6月版【確認】 |
+| **Great Eastern** | **医師**(Panel Provider)。ただし(a) GTC2 Prime/GSH P Primeは「Panel Provider**かつ**提携医療機関(Mount Alvernia・Farrer Park・Raffles・Thomson等。Gleneagles・Mount Elizabeth各院は非提携)」で治療した場合のみ自己負担上限・控除額の優遇、(b) PACは「専門医が公立病院、またはパネルの私立病院/日帰り手術センターで診療する場合」のみ発行、2025年6月17日以降Mount Elizabeth(Orchard・Novena)ではPAC発行停止 | 標準プラン: 自己負担上限(S$6,000)は「公立病院または**Panel Providerによる治療**」で適用され、病院は不問。Prime系: 非提携病院では自己負担上限・共同保険の優遇なし。PAC: Mount Elizabethでは不発行(eLOGは可) | GE商品ページ(2026年8月17日時点)、Health Connectページ【確認】 |
+| **AIA**(AQHP) | **医師**(AQHP専門医)+全公立病院・国立専門センター。「AIA Preferred Providersは全公立病院と、AIAが承認・随時改定するリスト上の全医療サービス提供者」 | 自己負担上限は「公立病院での治療、またはAQHPによる治療、または非AQHPでAIAが事前承認した治療」で適用。病院条件の記載なし。2025年1月のRaffles Hospitalとの提携でRaffles所属の私立専門医90人超をAQHPに追加(病院単位の追加例) | MOH IP比較表2025年1月 Note(2)、AIAインフォグラフィック、AIA-Raffles MoU報道【確認/確認(B)】 |
+| **Income** | **医師または機関**。「Panelまたはpreferred partnerとは、当社が承認した登録医、専門医、病院または医療機関」。リストはincome.com.sg/specialist-panel | 年間限度額S$250万は「私立病院・公立病院・コミュニティ病院における**パネル専門医**による治療」を前提。病院条件の明示なし | MOH IP比較表2025年1月 Note(11)(12)【確認】 |
+| **HSBC Life** | **医師**(Fullerton Health管理のSP panel) | LOGは「私立病院、私立日帰り手術センター、私立専門医クリニック」向けに事前承認で発行。自院で日帰り手術を行うパネル医にはe-filing設備が必須。病院条件の記載なし | HSBC Life Shield panel & LOGページ、LIA比較表2025年【確認】 |
+| **Singlife / RHI** | 医師(Singlifeは「preferred medical providers」、RHIはRaffles Medical Group医師中心) | Singlife: 非パネル提供者では請求可能額の50%のみ(病院条件の有無は原文未確認)。RHIは自社グループ病院中心の運営モデル | Singlife商品ページ(B)、SMAランキング調査注記【確認(B)/確認】 |
+
+**含意**【分析】:
+- Prudentialの「医師×施設」モデルは、**専門医がどこで手術するかを保険者が実質的に決める**仕組みである。Thomson・Mount Alvernia・Rafflesで同じ医師が同じ手術をすればパネル(自己負担上限・eLOG最大S$30,000・請求連動保険料の免除)、Mount Elizabeth・Gleneagles・Farrer Parkで行えば非パネルになる。2026年4月以降の新ライダーでは自己負担上限がパネル/事前承認請求にのみ適用されるため【確認】、この誘導効果はさらに強まる。
+- GEは医師単位を維持しつつ、Prime系商品とPACの運用で施設誘導を行っている。Mount ElizabethでのPAC停止は「パネル医のまま、施設だけを事実上外す」手法である。
+- IHH病院を主拠点とする専門医にとって、Prudential加入者の症例をパネル条件で扱う唯一の経路は、提携日帰り手術センター(Mount Elizabeth Royal Square等)またはThomson・Mount Alvernia・Rafflesでの認定取得と、そこでの手術実施である。
+
+### 10-3. 複数病院での診療の実態(IHH 4病院ディレクトリ1,295人の一次データ)
+
+| 指標 | 人数 | 比率 | 出典 |
+|---|---|---|---|
+| クリニック1か所のみ | 847 | 65% | 本リポジトリ `data/ihh-sg-specialists-directory-2026-10.csv`【算出】 |
+| クリニック2か所 / 3か所 / 4か所以上 | 251 / 135 / 56 | 19% / 10% / 4% | 同上 |
+| 複数の建物にクリニックを持つ | 426 | 33% | 同上 |
+| 2病院以上のIHH認定を持つ | 424 | 33% | 同上(認定延べ1,949件: MEH 689・MNH 580・GEH 485・PEH 195) |
+| 認定を持つIHH病院の少なくとも1つにクリニックがない(=クリニック外の病院で入院・手術) | 199 | 15% | 同上。内訳: Mount Elizabeth Novena 112、Mount Elizabeth Orchard 78、Gleneagles 14、Parkway East 15 |
+| Thomson Medical Centreの専門医名簿にも掲載 | 243 | 19% | 同上 |
+| 3人以上の医師が名を連ねる同名クリニックに属する | 559 | 43% | 同上(5人以上は426人、33%) |
+
+- **病院側の制度**: 病院ごとに「practising / admitting privileges(診療・入院権限)」の申請が必要で、Farrer Park Hospitalの申請書(FORM-MA-009 R18、2026年3月版)は「SMC専門医登録5年以上、かつ公立病院等でコンサルタント2年以上」「申請料S$1,090(非返還)」「賠償責任保険・BCLS・過去2年のPeer Review Learning記録」を要件とし、Hospital Privileging and Credentialing Committeeが審査する。同院は「他で診療する専門医に当院への診療拡張を招請する」と明記しており、外部開業医の受入が前提の制度である【確認】。Mount Alverniaも「accreditation and clinical privileges」をMedical Affairs部門で受け付け、「300人超のオンキャンパス専門医、約1,400人の認定医」と紹介されている【確認(B)】。Mount Elizabeth(Orchard)は「Medical Centre内の専門医370人超、入院権限を持つ医師1,161人」とされ、入院権限保有者の大半はキャンパス外に拠点を持つ【確認(B)】。
+- **公立病院との兼務**: IHHディレクトリの経歴文には「SGH・TTSH・KTPHのvisiting consultant」「Ng Teng Fong General Hospitalのvisiting consultant」などの記載があり、私立開業後も公立病院の訪問医を兼ねる例がある【確認】。
+- **解釈**【分析】: シンガポールの私立専門医の標準形は「分譲/賃貸メディカルスイートに1つの外来クリニックを持ち、複数病院の入院・手術権限を保有して、患者の保険・希望に応じて手術場所を選ぶ」である。複数クリニックを持つ医師は3割で、その多くはIHHキャンパス間(Orchard・Novena・Gleneagles)の2拠点である。したがって「パネルが医師×施設に付く」Prudential型は、医師の既存の行動様式(複数病院での手術)と最も衝突する設計であり、GE型(医師単位+PAC・Prime系で施設誘導)はそれより緩やかである。
+
+### 10-4. クリニック共用(他医師のクリニックを借りる)の実態
+
+- **定量データは【非公開】**。SMC・MOHはクリニック共用や訪問診療の統計を公表していない。HCSA(医療サービス法)下では免許はサービス単位で事業者(licensee)に付与され、個々の医師が複数の免許施設で診療することを禁じる規定は確認できなかった【確認(B)】。
+- **確認できた形態**: (a) 同名クリニックへの複数医師の参加(IHH認定医の43%)、(b) 「複数の専門医で共用する改装済みクリニック、看護・事務スタッフ共用」のParagonでの賃貸募集【確認(B)】、(c) SMG×Aurum Landの医療コワーキングCore Clinic(2021年JV、2022年4月i12 Katongに3スイートで開業、従量課金)【確認(B)】、(d) Icon Cancer Centreの「Visiting Medical and Radiation Oncologists」のように、ネットワーク施設で診療する訪問医(sg-specialist-network-business-models.md)【確認】。報道は「私立専門医間のスペース共用はシンガポールでは既にかなり一般的だが、スケジュール調整が必要」と評している【確認(B)】。
+- **保険パネルとの関係**【分析】: GE・AIA・Income・HSBC Lifeのように医師単位でパネルが付く場合、クリニックを借りても医師のパネル地位は変わらない。Prudentialの場合、提携HI内のクリニックを借りて診療し、その施設で手術・e-filingすればパネル扱いになり得るため、**「提携HI内のクリニック共用」が非提携病院拠点の医師にとっての現実的な迂回路**になる(Thomson Specialists等の名簿掲載243人はその例と整合する)。ただしPrudentialは「提携HIによる推薦と選定(資格・懲戒歴)」を要するため、場所を借りただけでは自動的に参加できない【確認】。
+
 ## ⑨ 本調査で確認できなかった事項【非公開】
 
 - 各保険者の申請数・承認数・採択率、待機リストの人数と待機期間。
@@ -157,6 +206,8 @@
 - パネル料金表の具体額と、MOH料金ベンチマークのどの位置に設定されているか(SMAの「下限付近」は医師側の主張、GEの「ベンチマーク連動」は保険者側の主張で、第三者検証は確認できず)。
 - 除外・拒否された医師に対する保険者内部の再審査手続きの有無。
 - MHICパネル作業部会(2025年10月設置表明)の成果物。
+- 私立専門医のクリニック共用・訪問診療の件数、複数病院の入院権限保有数の全国統計(IHH 4病院分は本リポジトリの一次データで代替)。
+- Singlife・RHIのパネル給付における施設条件の有無(Singlifeサイトは本環境から取得不能)。
 
 ---
 
@@ -199,8 +250,30 @@
 32. Health Insurance Task Force「Managing the Cost of Health Insurance in Singapore」2016年10月13日(LIA掲載PDF、パネル勧告は第56〜57項) — https://www.lia.org.sg/media/1521/managingsingaporehealthinsurancecost_hitf_20161013.pdf
 33. MOH「Managed Care Companies」(国会答弁、2016年9月14日) — https://www.moh.gov.sg/newsroom/managed-care-companies/
 
+34. Prudential「PRUPanel Connect FAQ」 — https://www.prudential.com.sg/en/prupanel-connect/
+35. Prudential「PRUPanel Connect Terms & Conditions」 — https://www.prudential.com.sg/ppc-tnc
+36. Prudential「Extended Panel」 — https://www.prudential.com.sg/ppc-ep
+37. Prudential「PRUExtra」商品ページ — https://www.prudential.com.sg/products/health-insurance/medical/pruextra
+38. Prudential「PRUShield eBrochure」2021年6月版(Panel/Non-panel Providerの定義) — https://www.prudential.com.sg/-/media/project/prudential/pdf/partners-1/prushield/prushield_ebrochure_english.pdf
+39. Great Eastern「GREAT SupremeHealth(Private Hospital)」商品ページ(2026年8月17日時点) — https://www.greateasternlife.com/sg/en/personal-insurance/our-products/health-insurance/great-supremehealth-private-hospital.html
+40. HSBC Life「HSBC Life Shield Panel & Letter of Guarantee」 — https://www.insurance.hsbc.com.sg/health/products/shield/panel-and-letter-of-guarantee/
+41. MOH「Comparison of IPs (Jan 2025)(Private hospital IP)」(Note 2・8・11・12) — https://isomer-user-content.by.gov.sg/3/bbc1316b-67bd-4ec6-8cbc-e1ca88248ef6/Comparison%20of%20IPs%20(Jan%202025)(Private%20hospital%20IP).pdf
+42. Farrer Park Hospital「Apply for Practicing Privileges」およびFORM-MA-009 R18(2026年3月) — https://www.farrerpark.com/medical-professionals/apply-for-practicing-privileges.html / https://www.farrerpark.com/dam/jcr:60442491-12a0-43a9-aefb-36f64549e406/FORM-MA-009%20Application%20for%20Specialist%20Practising%20and%20or%20Admitting%20Privileges%20R18.pdf
+43. Mount Elizabeth専門医プロファイル(複数病院・公立病院visiting consultantの記載例) — https://www.mountelizabeth.com.sg/patient-services/specialists/profile/chin-pak-lin ほか
+44. 本リポジトリ `ihh-sg-medical-suite-specialists.md` および `data/ihh-sg-specialists-directory-2026-10.csv`(IHH 4病院ディレクトリ1,295人、2026年10月8日取得)
+
 **B = 検索エンジン経由で該当内容を確認(原文を取得できなかったもの)**
 
-34. Income Insurance「Enhanced IncomeShield」(新ライダーの3段階自己負担。サイトが自動アクセスを拒否〔HTTP 403〕) — https://www.income.com.sg/health-insurance/enhanced-incomeshield
-35. Singapore Law Watch(ST転載)「Insurer Great Eastern pauses pre-authorisation certificates for Mount Elizabeth admissions」2025年6月(ページは取得できたが記事本文は30日で非掲載) — https://www.singaporelawwatch.sg/Headlines/insurer-great-eastern-pauses-pre-authorisation-certificates-for-mount-elizabeth-admissions
-36. SMC倫理規程2016年版(2017年7月1日施行)のTPA手数料規定と段階制手数料への移行 — 検索エンジン経由のみ(SMA 2023年11月会長フォーラム脚注はSMC ECEG 2016年版 https://bit.ly/3po1ST3 を参照)
+45. Mount Alvernia Hospital「Doctors' Accreditation」 — https://mtalvernia.sg/doctors_portal/doctors-accreditation/
+46. Parkway Cancer Centre「Hospitals & Facilities」(Mount Elizabeth: Medical Centre専門医370人超、入院権限1,161人) — https://www.parkwaycancercentre.com/sg/about-us/hospitals-facilities
+47. EdgeProp「Core Collective opens in i12 Katong, launches Singapore's first medical co-working space Core Clinic」2022年 — https://edgeprop.sg/property-news/core-collective-opens-i12-katong-launches-singapore’s-first-medical-co-working-space-core-clinic
+48. BioSpectrum Asia「Singapore announces first co-working medical space」2021年 — https://www.biospectrumasia.com/news/54/19271/singapore-announces-first-co-working-medical-space.html
+49. SRX「The Paragon (D9), Retail - For Rent」(複数専門医共用クリニックの募集) — https://www.srx.com.sg/listings/119079221/for-rent-the-paragon
+50. AIA「AIA HealthShield Gold Max changes infographic」(自己負担上限の適用条件) — https://www.aia.com.sg/content/dam/sg/en/docs/product_brochures/medical-protection/aia-healthshield-gold-max-changes-infographic.pdf
+51. Insurance Business Asia「AIA Singapore expands coverage through hospital deal」2025年1月(Raffles専門医90人超のAQHP追加) — https://www.insurancebusinessmag.com/asia/news/breaking-news/aia-singapore-expands-coverage-through-hospital-deal-522021.aspx
+52. Rajah & Tann「Phase 2 of Healthcare Services Act Commences on 26 June 2023」(サービス単位免許) — https://www.rajahtannasia.com/viewpoints/phase-2-of-healthcare-services-act-commences-on-26-june-2023/
+
+
+53. Income Insurance「Enhanced IncomeShield」(新ライダーの3段階自己負担。サイトが自動アクセスを拒否〔HTTP 403〕) — https://www.income.com.sg/health-insurance/enhanced-incomeshield
+54. Singapore Law Watch(ST転載)「Insurer Great Eastern pauses pre-authorisation certificates for Mount Elizabeth admissions」2025年6月(ページは取得できたが記事本文は30日で非掲載) — https://www.singaporelawwatch.sg/Headlines/insurer-great-eastern-pauses-pre-authorisation-certificates-for-mount-elizabeth-admissions
+55. SMC倫理規程2016年版(2017年7月1日施行)のTPA手数料規定と段階制手数料への移行 — 検索エンジン経由のみ(SMA 2023年11月会長フォーラム脚注はSMC ECEG 2016年版 https://bit.ly/3po1ST3 を参照)
