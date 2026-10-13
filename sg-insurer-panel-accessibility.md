@@ -1,8 +1,8 @@
 # シンガポールにおける保険会社「パネル医師」指定の難しさ — IP保険者7社の選定基準・定員管理・除外リスクの実態
 
-**作成日**: 2026年10月13日
+**作成日**: 2026年10月13日(同日改訂: SMA資料・LIA反論・AMS専門医数を原文で確認し、B区分をA区分に更新)
 **位置づけ**: IHH Singapore戦略シリーズ(sg-specialist-network-business-models.md、sg-specialist-group-typology.md、ihh-mitsui-specialist-network-acquisition.md)の補助文書。既存文書が「2026年4月以降の新IPライダーでは自己負担上限がパネル医または事前承認の場合のみ適用されるため、パネル参加がネットワークの集患力を左右する」と指摘したのを受け、本書は**私立専門医がIP(Integrated Shield Plan)保険者のパネルに入ること自体がどの程度難しいのか**を、公開情報に基づいて検証する。
-**表記ルール**: 【確認】=出典で裏付けた事実、【算出】=出典の数値から本書が計算した値、【非公開】=公開情報で確認できなかった事項(推測で埋めない)、【分析】=確認済み事実の比較から導いた本書の整理。出典は巻末で「A=原文を取得して本文確認」「B=検索エンジン経由で該当内容を確認(原文サイトが本調査環境から遮断)」に区分した。
+**表記ルール**: 【確認】=出典で裏付けた事実、【算出】=出典の数値から本書が計算した値、【非公開】=公開情報で確認できなかった事項(推測で埋めない)、【分析】=確認済み事実の比較から導いた本書の整理。出典は巻末で「A=原文を取得して本文確認」「B=検索エンジン経由で該当内容を確認(原文を取得できなかったもの)」に区分した。初版ではSMA資料がB区分だったが、改訂版ではSMA・LIA・AMS資料を原文で取得しA区分に更新した。
 
 ---
 
@@ -10,8 +10,8 @@
 
 1. **論点の分解**: 「パネル指定の難しさ」を (a) 形式要件(資格・経験年数・懲戒歴)、(b) 定員・需給による選別、(c) 料金受容条件、(d) 申請経路の構造(個人申請か医療機関経由か)、(e) 透明性・不服申立ての有無、(f) 指定後の除外リスク、の6要素に分けて検証した。
 2. **一次資料の優先**: MOH(保健省)の国会答弁・プレスリリース・公式統計ページ、LIA(生命保険協会)が公表する保険者7社の「パネル申請プロセス・要件・考慮事項」比較表(2022年1月、2024年7月、2025年2月の3版)、保険会社の公式ページ(Prudential、Great Eastern)を原文で取得した。
-3. **医師側の見解の確認**: SMA(シンガポール医師会)の立場表明(2021年3月)、IP保険者ランキング調査(2021年・2022年)、会長フォーラム(2023年6月、2024年9月)、ST紙投書(2025年9月)は、本調査環境からSMAサイト(sma.org.sg)への接続が遮断されていたため、検索エンジンのスニペットおよびMOHの応答文、AsiaOne報道(原文取得)で内容を確認した(B区分)。
-4. **保険者側の見解の確認**: LIAの2021年3月31日付の反論(B区分)、MOHの2021〜2025年の国会答弁(A区分)で確認した。
+3. **医師側の見解の確認**: SMA(シンガポール医師会)の立場表明(2021年3月25日、全10ページ)、専門医333人調査(2020年9〜10月実施、2021年4月公表)、IP保険者ランキング調査(2021年分・2022年分)、ST紙投書(2021年7月)、会長フォーラム(2023年6月、2023年11月、2024年9月)、年次報告書(第65回・第66回)を原文PDF/HTMLで取得して確認した(A区分)。
+4. **保険者側の見解の確認**: LIAの2021年3月31日付の反論(プレスリリース配信版を原文取得、A区分)、MOHの2021〜2025年の国会答弁(A区分)で確認した。
 5. **時系列の整理**: 2016年HITF(健康保険タスクフォース)→2019年パネル拡大要請→2021年MHIC(多者間医療保険委員会)設置→2022年Extended Panel→2024年GE(Great Eastern)のパネル見直し→2025年6月GEのマウントエリザベス事前承認停止→2025年9〜10月国会質疑・MHICパネル作業部会設置→2026年4月新ライダー、の順に追った。
 6. **制約の明示**: 各保険者の実際の採択率(申請数に対する承認数)、専門科別の定員数、パネル料金表の具体額は、いずれの経路でも公開情報を確認できなかった(【非公開】)。
 
@@ -20,11 +20,11 @@
 ## ① Executive Summary
 
 1. **形式要件自体は高くないが、「定員」と「料金受容」で選別される構造である**【分析】。LIA公表の比較表(2025年2月25日版)によれば、7社の一般要件はおおむね「SMC(医療評議会)専門医登録」「専門医経験5年以上(Prudentialはコンサルタント級以上)」「懲戒・訴訟歴なし」に収斂する【確認】。しかしAIA・GE・HSBC Life・Singlifeは「請求パターン・顧客基盤に基づき専門科ごとに必要人数を算定する」と明記し、AIAとIncomeは「待機リスト」の存在を認め、Incomeは「処理は申請順とは限らない」と記している【確認】。つまり要件を満たしても枠がなければ入れない。
-2. **各社のパネルは私立専門医全体の約3割にとどまる**【算出】。MOH公表の2025年主パネル人数はPrudential 957、HSBC Life 894、GE 814、Singlife 705、AIA 684、Income 648、Raffles Health Insurance(RHI)198【確認】。私立専門医総数2,325人(SMC年報2024をAMSが引用、B区分)で割ると、RHIを除く6社の平均(約784人)は**約34%**、最大のPrudentialでも**約41%**に相当する【算出】。SMAは2021年3月に「多くの保険者で各パネルに私立専門医の約21%しか入っていない」と指摘しており【確認(B)】、改善はしたが「どこかの1社には入れる」(MOH: 2021年11月時点で稼働中の私立専門医1,235人の約80%が少なくとも1社のパネルに所属)状態と「主要7社すべてに入れる」状態の間には依然大きな差がある【確認/分析】。
+2. **各社のパネルは私立専門医全体の約3割にとどまる**【算出】。MOH公表の2025年主パネル人数はPrudential 957、HSBC Life 894、GE 814、Singlife 705、AIA 684、Income 648、Raffles Health Insurance(RHI)198【確認】。私立専門医総数2,325人(SMC年報2024をAMS〔医学アカデミー〕Master's Messageが引用、A区分)で割ると、RHIを除く6社の平均(約784人)は**約34%**、最大のPrudentialでも**約41%**に相当する【算出】。SMAは2021年3月に「多くの保険者で各パネルに私立専門医の約21%しか入っていない」(AMSが2020年6月に実施した調査に基づく)と指摘しており【確認】、改善はしたが「どこかの1社には入れる」(MOH: 2021年11月時点で稼働中の私立専門医1,235人の約80%が少なくとも1社のパネルに所属)状態と「主要7社すべてに入れる」状態の間には依然大きな差がある【確認/分析】。
 3. **Prudentialは個人申請を受け付けない**【確認】。同社のPRUPanel Connect(PPC)は「医療機関主導(HI-led)モデル」で、専門医は提携医療機関に雇用されるか提携機関内で開業し、機関が推薦する形でのみ参加できる【確認】。提携私立病院はMount Alvernia、Raffles Hospital、Thomson Medical Centreの3院で、IHHの4病院は含まれず、IHH系ではMount Elizabeth Royal Square(日帰り手術センター)のみが掲載されている(2025年10月14日時点リスト)【確認】。IHH病院を拠点とする専門医にとっては、国内最大パネル(957人)への入口が構造的に閉じている【分析】。
-4. **料金受容が実質的な参加条件である**【確認】。GEは「当社パネル料金への同意」、Incomeは「契約条件に同意しない専門医はオンボードしない」、HSBC Lifeは「パネル料金への合意と遵守」、Prudentialは「合意済み料金ベンチマークの遵守」を明記【確認】。SMAは2021年に「保険者の償還水準はMOH料金ベンチマークの下限付近に集中している」と批判し、LIAは「SMAは全私立専門医の収容とベンチマーク上限での報酬を求めているが、それは保険料上昇を招く」と反論した【確認(AsiaOne・B)】。MOHは2025年10月、「パネル料金レンジを大幅に上回る医師や不適切な請求をする医師を保険者が除外するのは、シグナルを送るためである」と、料金による除外を容認する立場を示した【確認】。
-5. **指定後の除外リスクは年単位で現実化している**【確認】。MOH統計では、2024年にGEが「計画的パネル見直し」で126人を離脱させ(同年の加入74人)、2023年にSinglifeがTPA(第三者管理会社)変更に伴い78人を離脱させた【確認】。MOHは「過度なパネルの入れ替え(churn)は避けるべき」とし、2025年10月にMHIC傘下にパネル問題の作業部会を設置すると表明した【確認】。SMAは2025年9月30日付ST紙投書で「パネル専門医の入れ替え率の上限設定」「保険者と施設提供者との商業的取り決めの開示義務化」を含む規制を求めた【確認(B)】。
-6. **透明性と不服申立ての制度は未整備である**【確認/分析】。MOHは2021年5月に「選定基準の透明化を保険者に奨励した」と述べ、LIAは2022年1月から各社の基準・連絡先を一覧化したPDFを公開している【確認】。しかしSMAの2021年調査では「医師選定基準の透明性」で全社が中間点(3/5)未満、「パネルの包摂性」で中間点超は1社のみ(2022年調査では4社に改善)【確認(B)】。パネル参加の拒否・除外に対する独立した不服申立て手続きは確認できず、2021年11月設置のCCRP(臨床請求紛争解決プロセス)は請求紛争のみを対象とする【確認】。
+4. **料金受容が実質的な参加条件である**【確認】。GEは「当社パネル料金への同意」、Incomeは「契約条件に同意しない専門医はオンボードしない」、HSBC Lifeは「パネル料金への合意と遵守」、Prudentialは「合意済み料金ベンチマークの遵守」を明記【確認】。SMAは2021年3月の立場表明で「1社を除き、各社の料金表はベンチマークの下限付近に集中し、大半は中間点にも達していない。1社は下限を下回る償還を続けている」と批判し、LIAは同月31日に「SMAは全私立専門医の収容とベンチマーク上限での報酬を求めているが、外科医料金ベンチマークの上限/下限比は平均1.8倍であり、調整なしに進めれば保険料上昇を招く」と反論した【確認】。MOHは2025年10月、「パネル料金レンジを大幅に上回る医師や不適切な請求をする医師を保険者が除外するのは、シグナルを送るためである」と、料金による除外を容認する立場を示した【確認】。
+5. **指定後の除外リスクは年単位で現実化している**【確認】。MOH統計では、2024年にGEが「計画的パネル見直し」で126人を離脱させ(同年の加入74人)、2023年にSinglifeがTPA(第三者管理会社)変更に伴い78人を離脱させた【確認】。MOHは「過度なパネルの入れ替え(churn)は避けるべき」とし、2025年10月にMHIC傘下にパネル問題の作業部会を設置すると表明した【確認】。SMAは2025年9月30日付ST紙投書で「パネル専門医の入れ替えの制限」「保険者と施設提供者との商業的取り決め、および優先施設を使わない加入者・パネル医への罰則の開示義務化」「補償・請求に影響する変更の十分な予告期間を伴う周知」を規制検討項目として挙げた【確認(SMA第66回年次報告書)】。
+6. **透明性と不服申立ての制度は未整備である**【確認/分析】。MOHは2021年5月に「選定基準の透明化を保険者に奨励した」と述べ、LIAは2022年1月から各社の基準・連絡先を一覧化したPDFを公開している【確認】。しかしSMAのランキング調査では「医師選定基準の透明性」で2021年分・2022年分とも全社が中間点(3/5)未満、「パネルの包摂性」で中間点超は2021年分が1社のみ、2022年分で4社に改善【確認】。パネル参加の拒否・除外に対する独立した不服申立て手続きは確認できず、2021年11月設置のCCRP(臨床請求紛争解決プロセス)は請求紛争のみを対象とする【確認】。
 7. **2026年4月以降、パネルの価値は上がり、入れない不利益も拡大する**【確認/分析】。新IPライダーの自己負担上限(年S$6,000)は「パネルまたは事前承認を受けた請求」にのみ適用され【確認】、Incomeの新ライダーはパネル/Extended Panel/その他の3段階で自己負担率を変える【確認(B)】。MOHは2025年9月に「ほとんどの保険者は600人以上の私立専門医をパネルに持つ」「専門科レベルで十分なカバレッジを確保するよう保険者と協働する」と述べたが、専門科別の最低人数や契約期間の規制には踏み込まなかった【確認】。
 
 ---
@@ -34,7 +34,7 @@
 - **IP保険者は7社**: AIA、Great Eastern(GE)、HSBC Life(旧AXA)、Income Insurance、Prudential、Raffles Health Insurance(RHI)、Singlife(旧Aviva)【確認】。MOHは「主パネル(main panel)は保険者と密接に協働する提供者ネットワークで、事前承認や低い自己負担などの追加給付を受けられる」と定義する【確認】。
 - **Extended Panel(EP)**: 2022年4月から業界枠組みとして導入。MHICの勧告に基づき、他社パネル医を受診しても主要なパネル給付を維持できる仕組み【確認】。HSBC Lifeは「EPは契約ベースなので、他社パネル医でEP入りを希望する場合はFullerton Healthのネットワーク窓口に連絡を」と記す【確認】。
 - **非パネル医受診の扱い**: MOHは「非パネル医を使っても契約上の給付は全て維持される」としつつ、「事前承認は契約上の給付ではなく保険者が提供する事務的取り決めで、7社中5社が提供」と説明【確認】。報道ベースではIncomeとSinglifeが事前承認を行っていない【確認(ST 2025年6月24日)】。
-- **パネル制度の起源**: 2016年10月のHITF報告が「保険者は適切な場合に優先提供者パネルの利用を検討すべき」と勧告【確認(B)】。MOHは2021年に「2019年8月以降、一部保険者はパネルを40%以上拡大した」と述べている【確認】。
+- **パネル制度の起源**: 2016年10月のHITF報告(第57項)が「IP保険者は適切な場合に優先提供者パネルの採用を検討すべき」と勧告。同時に「パネルに関するガイドラインを公開し、提供者の**選定方法、パネルの料金取り決め、どの場合にパネルを使わないと補償が影響されるか**を開示すべき」「パネルの存在によって患者の提供者選択は制限されないことを明示すべき」「パネルは通常TPAを通じて形成されており、TPAとの手数料取り決めはSMC倫理規程に沿うべき」と求めた【確認】。SMAは2021年に「この開示勧告を実装した保険者は1社もない」と批判した【確認】。MOHは2021年に「2019年8月以降、一部保険者はパネルを40%以上拡大した」と述べている【確認】。
 
 ---
 
@@ -77,7 +77,7 @@
 
 ### 私立専門医総数との比較【算出】
 
-- 私立専門医総数: **2,325人**(専門医7,200人の32.3%。AMS〔医学アカデミー〕Master's Message 2025年10月がSMC年報2024を引用、B区分)【確認(B)】。MOHは2021年11月時点で「稼働中の私立専門医1,235人」と述べている【確認】ため、定義(登録ベースか稼働ベースか)で数字は大きく異なる点に注意。
+- 私立専門医総数: **2,325人**(専門医7,200人の32.3%。AMS Master's Message 2025年10月10日がSMC年報2024を引用。2024年の新規専門医登録は国内養成279人+海外養成32人=311人)【確認】。SMAは2020年調査の時点で「私立開業専門医は約1,500人」と見積もっていた【確認】。MOHは2021年11月時点で「稼働中の私立専門医1,235人」と述べている【確認】ため、定義(登録ベースか稼働ベースか)で数字は大きく異なる点に注意。
 - 2025年主パネル人数 ÷ 2,325人: Prudential 41%、HSBC Life 38%、GE 35%、Singlife 30%、AIA 29%、Income 28%、RHI 9%【算出】。6社平均(RHI除く)約784人=約34%【算出】。稼働ベース1,235人を分母にすると各社5〜8割に跳ね上がるため、「パネルの狭さ」の評価は分母の定義に依存する【分析】。
 - 2025年の新規加入は7社合計642人【算出】だが、同一医師が複数社に加入し得るため、実人数はこれより少ない【分析】。RHIは2024年加入0人、2025年加入3人で、実質的に新規受入を止めている【算出/分析】。
 
@@ -85,7 +85,7 @@
 
 - 2021年5月(AsiaOne報道): AIA 380人超、Aviva 300人超、AXA 300人超、GE 私立300人超、Income 400人超、Prudential 700人超、RHI 150人超【確認(A)】。
 - 2021年11月(MOH): 2021年初以降、私立専門医のパネル在籍はGEで最大63%増、RHI 7%増〜Prudential 49%増。大半の保険者は2021年末までに500人以上(RHIは250人)を約束。私立医療機関の請求の80〜90%はパネル提供者由来と見込む【確認】。
-- 2022年7月(Extended Panel導入時の報道、B区分): EP導入前の7社のパネルは「200人未満〜約750人」で、EPにより患者は1,000人超の私立専門医から選べるようになった【確認(B)】。
+- 2022年7月11日(Asia Advisers Network報道): 2022年5月末時点で7社のパネルは「200人未満〜約750人」。EPにより患者は1,000人超の私立専門医から選べるようになり、IncomeとSinglife以外は即時適用、両社は同年4月以降の契約更新時から適用【確認】。SMA会長は2023年6月、「パネル導入当初は各社200〜300人で私立専門医全体の約20%、LIAは2022年に各社500人以上を約束した」と記している【確認】。
 - 2025年9月(MOH国会答弁): 「ほとんどの保険者は600人以上の私立専門医をパネルに持つ」【確認】。
 
 ---
@@ -95,10 +95,10 @@
 | 要素 | 結論 | 根拠 |
 |---|---|---|
 | (a) 形式要件 | **低いハードル**。専門医登録+5年+懲戒歴なし | LIA比較表【確認】 |
-| (b) 定員・需給 | **主要な障壁**。専門科別に人数を算定し、待機リストあり。処理は申請順でない | AIA・GE・HSBC Life・Income・Singlifeの回答【確認】。SMA会長は2024年9月に「一部IP保険者はすでに新規専門医のパネル受入を停止した」と指摘【確認(B)】 |
-| (c) 料金受容 | **実質的な参加条件**。パネル料金への同意が必須。SMAは「ベンチマーク下限付近」と批判、LIAは上限での報酬要求を否定 | GE・HSBC Life・Income・Prudentialの回答【確認】、AsiaOne 2021年5月15日【確認】、LIA 2021年3月31日【確認(B)】 |
+| (b) 定員・需給 | **主要な障壁**。専門科別に人数を算定し、待機リストあり。処理は申請順でない | AIA・GE・HSBC Life・Income・Singlifeの回答【確認】。SMAの2020年調査では「パネル加入を申請したが不成功または待機リスト」の専門医が保険者別に回答者の10%(RHI)〜34%(AIA)【確認】。SMA会長は2023年6月に「包摂性の改善は頭打ちの懸念があり、現場の声では一部IP保険者はすでに新規専門医の受入を停止している」と記述【確認】 |
+| (c) 料金受容 | **実質的な参加条件**。パネル料金への同意が必須。SMAは「1社を除き下限付近」と批判、LIAは「上限/下限比は平均1.8倍で、上限での報酬は保険料増を招く」と反論 | GE・HSBC Life・Income・Prudentialの回答【確認】、SMA立場表明2021年3月25日【確認】、LIA反論2021年3月31日【確認】。SMA 2020年調査では、Incomeを除く全社でパネル医の多数が「通常料金より低い」と回答。受容可能な最低報酬は中間点64%・上限22%・下限13%、ベンチマーク未満は0%【確認】 |
 | (d) 申請経路 | **Prudentialは医療機関経由のみ**。HSBC LifeとSinglifeはTPA/第三者経由。IHH病院はPrudential提携外 | LIA比較表【確認】、Prudential PPCページ(2025年10月14日時点リスト)【確認】 |
-| (e) 透明性・不服申立て | **基準は公開済み、個別判断は非公開**。拒否・除外の独立審査は確認できず | MOH 2021年5月10日答弁【確認】、LIA比較表(2022〜2025)【確認】、SMA調査2021・2022【確認(B)】、CCRPは請求紛争のみ【確認】 |
+| (e) 透明性・不服申立て | **基準は公開済み、個別判断は非公開**。拒否・除外の独立審査は確認できず | MOH 2021年5月10日答弁【確認】、LIA比較表(2022〜2025)【確認】、SMAランキング調査2021年分・2022年分【確認】、CCRPは請求紛争のみ【確認】。SMAは2021年3月に独自の「IP・健康保険苦情委員会」設置を表明【確認】 |
 | (f) 除外リスク | **現実化**。GE 2024年126人離脱、Singlife 2023年78人離脱。MOHは料金超過・不適切請求による除外を容認しつつ過度なchurnを牽制 | MOH統計【確認】、MOH 2025年10月6日【確認】 |
 
 ### 補足: 保険者と医療機関の関係がパネル医に波及する例【確認】
@@ -111,16 +111,19 @@
 
 ## ⑥ 医師側・保険者側・規制当局の見解
 
-### SMA(医師側)【確認(B)、一部A】
-- 2021年3月25日「Troubled IPs」立場表明: 「高度に排他的なパネル(多くの保険者で各パネルに私立専門医の約21%)」「優先提供者の選定基準の不透明さ」「確立された料金ベンチマークへの不服従」を問題提起【確認(B)】。
-- 2021年4月調査: 専門医の大半がIPパネルの運用に問題を感じ、「一部パネルに入るのが困難」「パネル報酬が低い」「事前承認の書類負担が過大」を列挙【確認(B)】。
-- 2021年ランキング調査(回答210人、87%が専門医): 「パネルの包摂性」で中間点超は1社のみ、「医師選定基準の透明性」で全社が中間点未満【確認(B)】。2022年調査(回答152人、82%が専門医): 包摂性で中間点超が4社に改善。SMA自身が「私立専門医の10%未満の意見に基づく」と限界を注記【確認(B)】。
-- 2024年9月会長フォーラム: 「一部IP保険者はすでに新規専門医のパネル受入を停止している」【確認(B)】。
-- 2025年9月30日ST投書(Ng Chee Kwan会長): 「患者ケアを保険者の商業的判断より優先する規制」を求め、パネル専門医の入れ替え上限や保険者・施設間の商業的取り決めの開示義務化を提案【確認(B、MOH応答文で題名・日付はA)】。
+### SMA(医師会)【確認(A)】
+- **2021年3月25日「Troubled IPs」立場表明**(第61期理事会、全10ページ): HITF勧告は原則支持するが、LIA加盟社の実装は支持できないとして3点を列挙。(a)「多くのIP保険者で各パネルに私立専門医の約21%しか入っていない高度に排他的なパネル」(AMSが2020年6月に実施した調査、AMS・CFPS・SMA連名のMOH宛書簡2020年9月の附属資料に基づく)、(b)「優先提供者に含める医師の選定基準の不透明さ」(「LIAとの複数回の協議にもかかわらず、1社も基準を公表していない」「どの医師も加入者も、秘密の基準を構成する定量的・定性的尺度を知らない」)、(c)「1社を除き上限・下限の両方を尊重せず、料金表は下限付近に集中。大半は中間点にも達せず、1社は下限未満で償還を続ける」。「MOH料金ベンチマークがある以上、高度に排他的なパネルの合理的根拠はなく、パネルは原則包摂的で、除外は実績の悪い医師に限るべき」と主張。IP保険者のランキング調査と苦情委員会の設置を表明【確認】。
+- **2020年9月18日〜10月2日実施の専門医調査**(2021年4月公表、回答333人、97%が私立。SMAは当時の私立開業専門医を約1,500人と見積もり、回答率約22%): 保険者別に「パネル在籍」12%(RHI)〜39%(Income)、「加入を希望しない」35%(AIA)〜71%(RHI)、「**申請したが不成功または待機リスト**」10%(RHI)〜34%(AIA)。Incomeを除く全社でパネル医の多数が「通常料金より低い」と回答。53%の専門医が「患者の1/4超がパネル外のため他院へ流出」、57%が「選択肢が限られ適切なパネル専門医へ紹介できなかった経験あり」、63%が「全専門医のパネル加入を認めるべき」。受容可能な最低報酬は中間点64%・上限22%・下限13%で、ベンチマーク未満を受け入れる回答は0%【確認】。SMAは2021年7月のST投書で「回答者の99%がベンチマーク内の報酬を受容しており、『専門医がベンチマークの全範囲を受け入れない』というST記事の記述は誤り」「加入を希望しながら認められなかった専門医が最大34%いる事実は変わらない」と反論【確認】。
+- **ランキング調査2021年分**(2022年1月5日〜2月5日実施、回答210人、87%が専門医、98%が私立): 「パネルの包摂性」(1〜5)はAIA 3.01、Income 2.90、GE 2.95、Prudential 2.71、Aviva 2.68、AXA 2.60、RHI 1.66で、中間点3を超えたのはAIAのみ。「医師選定基準の透明性」はPrudential 2.72が最高で全社が3未満(RHI 1.81が最低)。「MOHベンチマークに対する料金表の適切さ」はIncome 3.2のみが3超(Aviva 1.69が最低)。「非パネル医の受診を阻む障壁の少なさ」は全社3未満【確認】。
+- **ランキング調査2022年分**(2023年2月17日〜3月16日実施、回答152人、82%が専門医、97%が私立): 「包摂性」はAIA 3.42、Income 3.26、Prudential 3.06、GE 3.01が3超、AXA 2.97、Singlife 2.89、RHI 1.71。「透明性」は引き続き全社3未満。「料金表の適切さ」はIncome 3.36とAIA 3.24の2社が3超。SMAは「医師が料金ベンチマークに従う限りパネルは不要」との立場を再確認【確認】。
+- **2023年6月会長フォーラム(Ng Chee Kwan会長)**: 「パネル導入当初は各社200〜300人で私立専門医全体の約20%」「一部保険者はMOHベンチマークの下限に料金を固定」「LIAは2022年に各社500人以上を約束」「包摂性は改善したが頭打ちの懸念があり、現場の声では一部IP保険者はすでに新規専門医の受入を停止している」。改善案として「EP(Extended Panel)を全専門医に開放し、開業直後で主パネルに入れない若手の受け皿にする」「EP在籍6〜12カ月後に主パネルへ移行を認める」「7社中4社がEPをウェブサイトに記載していない状況の改善」「報酬は少なくともベンチマーク中間点」を提案【確認】。
+- **2024年9月会長フォーラム**: ランキング調査は2022年・2023年の2回実施。ST社説(2024年7月17日)が調査を引用しつつ「回答者が私立専門医の10%未満」と限界を指摘したことを受け、参加を呼びかけ【確認】。
+- **2025年9月30日ST投書**(第66回年次報告書の記載): 国会質疑を受け、「パネル専門医の入れ替えの制限」「保険者と施設提供者との商業的取り決め、および優先施設を使わない加入者・パネル医への罰則の開示義務化」「補償・請求に影響する変更の十分な予告期間を伴う周知」を規制検討項目として提案。MHICでは「パネル専門医の入れ替え」「保険者・病院間の取り決めの透明性」を会員の懸念として伝達【確認】。第65回年次報告書(2024/25年度)でも「パネル保険医への公正な扱い」と「保険者のパネル統計の公表」をMHICで主張したと記載【確認】。
 
-### LIA(保険者側)【確認(B)、一部A】
-- 2021年3月31日反論: 「SMAは全私立専門医のパネル収容とMOHベンチマーク上限での報酬を求めているが、調整なしに進めれば費用増と保険料上昇を招く」「選定基準の指針はLIAサイトで公開済み」【確認(B)】。
-- AsiaOne 2021年5月15日: LIAは「より多くの医師をパネルに追加し得る」「透明性向上に同意し、選定基準をLIAサイトに掲載する」と表明【確認(A)】。その後2022年1月から比較表を公開【確認(A)】。
+### LIA(生命保険協会)【確認(A)】
+- **2021年3月31日反論**: 「HITFの全勧告は実装済み」「LIAはパネル管理ガイドラインを最近更新し、IP保険者は選定基準を説明すべきとする指針をLIAサイトで公開している」「SMAも臨床の質の指標と過剰治療防止ガイドラインを示すべきで、それが保険者のパネル採否判断を根拠あるものにする」「SMAは全私立専門医の収容とMOHベンチマーク上限での報酬を求めているが、外科医料金ベンチマークの上限/下限比は平均1.8倍であり、調整なしに進めれば費用増と保険料上昇を招く」「保険者はパネル利用率を高めるため包括的なパネルを持つ動機がある」【確認】。
+- **2021年5月(AsiaOne報道)**: LIAは「より多くの医師をパネルに追加し得る」「透明性向上に同意し、選定基準をLIAサイトに掲載する」と表明【確認】。その後2022年1月から7社比較表を公開し、2024年7月・2025年2月に更新【確認】。
+- **2022年(SMA会長フォーラム経由)**: 各社500人以上のパネルと標準化された事前承認フォームの採用を表明【確認】。
 
 ### MOH(規制当局)【確認(A)】
 - 2021年5月10日: 「選定基準の透明化を保険者に奨励」「各社が独立に決めており競争法違反ではない」「医師は倫理的理由でパネル参加を断ることもできる」「私立専門医の70%超が少なくとも1社のパネルに所属」【確認】。
@@ -133,7 +136,7 @@
 
 ## ⑦ 他国・他制度との簡易比較(参考)
 
-- **法人向けTPA(GP)パネル**: SMAは2023年11月の意見募集で、TPAの管理手数料控除後にGPの手取りがS$2〜10に下がる例や、専門医の手術料がMOHベンチマーク下限を下回る例を挙げた【確認(B)】。SMCは2016年12月の助言を経て2017年7月1日施行の倫理規程で、医師の診療報酬の割合に基づく第三者手数料を禁止し、TPAは段階制の定額手数料に移行した【確認(B)】。IPパネルとは別制度だが、「パネル参加=料金受容」という構造は共通する【分析】。
+- **法人向けTPA(GP)パネル**: SMA会長は2023年11月の意見募集で、「TPAは1990年代から存在し、2003年・2015年の調査で高い不満(2015年は56%)」「管理手数料控除後のGP診察料がS$2〜10に下がる例(BMC Primary Care 2022掲載論文を引用)」「専門医の手術料は一貫してMOHベンチマーク下限未満」「TPAは近年IP保険者のパネル管理も担い、収集する患者情報が増加」「多くの医師は診療所を維持するためTPAと契約せざるを得ない」と記した【確認】。MOHは2016年9月の国会答弁で「TPAが医師に患者紹介ごとの手数料、特に医師の請求額の一定割合を求める契約」への懸念を認め、SMCが医師とTPA間の報酬分配を倫理規程の対象に加える改訂を進めていると答えた【確認】。改訂規程の施行日(2017年7月1日)とTPAの段階制定額手数料への移行は検索エンジン経由の確認にとどまる【確認(B)】。IPパネルとは別制度だが、「パネル参加=料金受容」という構造は共通する【分析】。
 - **IPパネルの不服申立て**: 2021年11月設置のCCRP(AMS事務局、5人パネル、政策保有者S$50・医師S$200・機関S$500の手数料)は「正当な治療の請求拒否」「過剰請求」「過剰診療」の紛争を扱い、パネル参加・除外の紛争は対象外【確認】。
 
 ---
@@ -153,7 +156,6 @@
 - 専門科ごとの定員(「必要人数」)の具体値。
 - パネル料金表の具体額と、MOH料金ベンチマークのどの位置に設定されているか(SMAの「下限付近」は医師側の主張、GEの「ベンチマーク連動」は保険者側の主張で、第三者検証は確認できず)。
 - 除外・拒否された医師に対する保険者内部の再審査手続きの有無。
-- SMAの2021年・2022年調査の保険者別スコア(原文PDFが本環境から取得不能)。
 - MHICパネル作業部会(2025年10月設置表明)の成果物。
 
 ---
@@ -180,18 +182,25 @@
 16. The Straits Times(Salma Khalik)「Some good may come out of uproar over health insurance pre-authorisation」2025年6月24日(Great Eastern Lifepediaに転載) — https://www.greateasternlife.com/sg/en/personal-insurance/lifepedia/medical-coverage/hospitalisation/some-good-may-come-out-of-uproar-over-health-insurance-pre-authorisation.html
 17. AsiaOne「Panel vs non-panel doctors: What's the difference…」2021年5月15日 — https://www.asiaone.com/lifestyle/panel-vs-non-panel-doctors-whats-difference-and-which-specialist-should-you-see
 
-**B = 検索エンジン経由で該当内容を確認(原文サイトが本調査環境から遮断)**
+18. SMA「SMA 61st Council Position Statement on Troubled Integrated Shield Plans (IPs)」2021年3月25日(PDF全10ページ) — https://www.sma.org.sg/UploadedImg/PositionAdvisories/14052021_11345_PM_SMA%20Council%20-%20Position%20Statement%20on%20Integrated%20Shield%20Plans.pdf (HTML版: https://www.sma.org.sg/positionstatement/sma-position-statements-issued/22)
+19. SMA News「Survey on Integrated Shield Plan Providers」(Ng Chee Kwan)2021年4月号 — https://www.sma.org.sg/UploadedImg/1621775810_2021AprSurvey.pdf
+20. SMA News「SMA's Letter to Straits Times Forum on SMA Survey on Integrated Shield Plans」2021年7月号 — https://www.sma.org.sg/news/2021/July/SMAs-Letter-to-Straits-Times-Forum-on-SMA-Survey-on-Integrated-Shield-Plans
+21. SMA News「SMA Integrated Shield Plan Providers' Ranking Survey 2021」2022年4月号 — https://www.sma.org.sg/UploadedImg/1652236283_2022AprSurvey.pdf
+22. SMA News「SMA Integrated Shield Plan Providers' Ranking Survey 2022」2023年6月号 — https://www.sma.org.sg/UploadedImg/1689741887_2023JunSurvey.pdf
+23. SMA News President's Forum「Implementation of IP Panels: Has It Improved?」(Ng Chee Kwan)2023年6月号 — https://www.sma.org.sg/UploadedImg/1689740650_2023JunPF.pdf
+24. SMA News President's Forum「Third-Party Administrators: A Call for Feedback」2023年11月号 — https://www.sma.org.sg/UploadedImg/1700732661_2023NovPF.pdf
+25. SMA News President's Forum「SMA Surveys: A Call to Participate」2024年9月号 — https://www.sma.org.sg/UploadedImg/1727674887_2024SepPF.pdf
+26. SMA 65th Annual Report 2024/2025 — https://www.sma.org.sg/UploadedImg/files/01-SMA65thAnnualReport.pdf
+27. SMA 66th Annual Report 2025/2026(ST投書2025年9月30日の規制提案項目を記載) — https://www.sma.org.sg/UploadedImg/files/01-SMA66thAnnualReport2.pdf
+28. SMA News Opinion「Taking the Next Step with Health Connective」2021年12月号(MHIC設置経緯) — https://www.sma.org.sg/UploadedImg/1641870099_2021DecOpinion.pdf
+29. LIA「Industry response to Position Statement on Integrated Shield Plans (IPs) by the SMA」2021年3月31日(Media OutReach配信版) — https://www.media-outreach.vn/news/singapore/2021/03/31/71596/life-insurance-association-singapore-industry-response-to-position-statement-on-integrated-shield-plans-ips-by-the-singapore-medical-association-sma-focus-needs-to-be-on-identifying-the-best-wa/
+30. Asia Advisers Network「Insured patients with IP riders now potentially have choice of more than 1,000 specialists」2022年7月11日 — https://www.asiaadvisersnetwork.com/Article?aid=80989
+31. AMS Master's Message「Medical Manpower: A Third Way to Progress Professionally」2025年10月10日(SMC年報2024の専門医数を引用) — https://mastersmessage.ams.edu.sg/2025/10/10/medical-manpower-a-third-way-to-progress-professionally-october-2025/
+32. Health Insurance Task Force「Managing the Cost of Health Insurance in Singapore」2016年10月13日(LIA掲載PDF、パネル勧告は第56〜57項) — https://www.lia.org.sg/media/1521/managingsingaporehealthinsurancecost_hitf_20161013.pdf
+33. MOH「Managed Care Companies」(国会答弁、2016年9月14日) — https://www.moh.gov.sg/newsroom/managed-care-companies/
 
-18. SMA「SMA 61st Council Position Statement on Troubled Integrated Shield Plans (IPs)」2021年3月25日 — https://sma.org.sg/positionstatement/sma-position-statements-issued/22
-19. SMA「Survey on Integrated Shield Plan Providers」2021年4月 — https://sma.org.sg/news/year/2021/month/april/survey-on-integrated-shield-plan-providers
-20. SMA「Integrated Shield Plan Providers' Ranking Survey 2021」2022年4月 — https://www.sma.org.sg/news/2022/April/SMA-Integrated-Shield-Plan-Providers-Ranking-Survey-2021
-21. SMA「Integrated Shield Plan Providers' Ranking Survey 2022」2023年6月 — https://www.sma.org.sg/news/2023/June/SMA-Integrated-Shield-Plan-Providers-Ranking-Survey-2022
-22. SMA President's Forum 2024年9月(PDF) — https://sma.org.sg/UploadedImg/1727674887_2024SepPF.pdf
-23. SMA「Third-Party Administrators: A Call for Feedback」2023年11月 — https://sma.org.sg/news/2023/November/Third-Party-Administrators-A-Call-for-Feedback
-24. SMA 65th Annual Report 2024/2025(ST投書2025年9月30日の記載) — https://www.sma.org.sg/UploadedImg/files/01-SMA65thAnnualReport.pdf
-25. LIA「Industry response to Position Statement on Integrated Shield Plans (IPs) by the SMA」2021年3月31日(プレスリリース配信の転載) — https://www.media-outreach.vn/news/singapore/2021/03/31/71596/life-insurance-association-singapore-industry-response-to-position-statement-on-integrated-shield-plans-ips-by-the-singapore-medical-association-sma-focus-needs-to-be-on-identifying-the-best-wa/ (LIA側の関連ページ: https://www.lia.org.sg/industry-initiatives/industry-initiatives/)
-26. Asia Advisers Network「Insured patients with IP riders now potentially have choice of more than 1,000 specialists」2022年7月 — https://www.asiaadvisersnetwork.com/Article?aid=80989
-27. AMS Master's Message「Medical Manpower: A Third Way to Progress Professionally」2025年10月10日(SMC年報2024の専門医数を引用) — https://mastersmessage.ams.edu.sg/2025/10/10/medical-manpower-a-third-way-to-progress-professionally-october-2025/
-28. MOH「Health Insurance Task Force Report」2016年 — https://www.moh.gov.sg/newsroom/health-insurance-task-force-report/
-29. Income Insurance「Enhanced IncomeShield」(新ライダーの3段階自己負担) — https://www.income.com.sg/health-insurance/enhanced-incomeshield
-30. Singapore Law Watch(ST転載)「Insurer Great Eastern pauses pre-authorisation certificates for Mount Elizabeth admissions」2025年6月 — https://www.singaporelawwatch.sg/Headlines/insurer-great-eastern-pauses-pre-authorisation-certificates-for-mount-elizabeth-admissions
+**B = 検索エンジン経由で該当内容を確認(原文を取得できなかったもの)**
+
+34. Income Insurance「Enhanced IncomeShield」(新ライダーの3段階自己負担。サイトが自動アクセスを拒否〔HTTP 403〕) — https://www.income.com.sg/health-insurance/enhanced-incomeshield
+35. Singapore Law Watch(ST転載)「Insurer Great Eastern pauses pre-authorisation certificates for Mount Elizabeth admissions」2025年6月(ページは取得できたが記事本文は30日で非掲載) — https://www.singaporelawwatch.sg/Headlines/insurer-great-eastern-pauses-pre-authorisation-certificates-for-mount-elizabeth-admissions
+36. SMC倫理規程2016年版(2017年7月1日施行)のTPA手数料規定と段階制手数料への移行 — 検索エンジン経由のみ(SMA 2023年11月会長フォーラム脚注はSMC ECEG 2016年版 https://bit.ly/3po1ST3 を参照)
