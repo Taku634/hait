@@ -1,0 +1,113 @@
+file,name,specialty,grad_year,grad_src,est_age,clinic,bio_len,public_head
+p_abel-soh-wah-ek.html,Dr Abel Soh Wah Ek,Endocrinology,2000,grad,51,"Abel Soh Diabetes, Thyroid and Endocrine Clinic",1452,False
+p_aileen-seah-ai-lin.html,Dr Aileen Seah Ai Lin,General Surgery,1995,grad,56,,1487,False
+p_alvin-tan-chin-kwong.html,Dr Alvin Tan Chin Kwong,Orthopaedic Surgery,2005,grad,46,,2490,False
+p_andrew-yam-kean-tuck.html,Dr Andrew Yam Kean Tuck,Hand Surgery,1997,grad,54,,1729,False
+p_andy-wee-teck-huat.html,Dr Andy Wee Teck Huat,Orthopaedic Surgery,1999,grad,52,,2057,True
+p_angelin-tan-yean-swee.html,Dr Angelin Tan Yean Swee,Paediatric Medicine,1983,grad,68,,932,False
+p_annabel-chew-chee-yen.html,Dr Annabel Chew Chee Yen,Ophthalmology,,,,,3582,True
+p_antony-westwood-gardner.html,Dr Antony Westwood Gardner,Orthopaedic Surgery,,,,,1090,False
+p_ben-choey-wei-yen.html,Dr Ben Choey Wei Yen,Obstetrics & Gynaecology,1999,grad,52,,1686,False
+p_bernard-kwok-wing-kuin.html,Dr Bernard Kwok Wing Kuin,Cardiology,1990,grad,61,,1526,False
+p_brian-khoo-chung-hoe.html,Dr Brian Khoo Chung Hoe,Cardiology,1998,grad,53,,2002,True
+p_brian-lee-pheng-hui.html,Dr Brian Lee Pheng Hui,Orthopaedic Surgery,1986,grad,65,,1630,True
+p_calvin-ong-jianming.html,Dr Calvin Ong Jianming,General Surgery,2008,grad,43,,1236,False
+p_chan-chung-yip.html,Dr Chan Chung Yip,General Surgery,1997,grad,54,,1660,False
+p_chang-tou-choong.html,Dr Chang Tou Choong,Obstetrics & Gynaecology,1985,grad,66,,1793,False
+p_charles-tsang-bih-shiou.html,Dr Charles Tsang Bih Shiou,General Surgery,1987,grad,64,,2121,False
+p_chong-chew-wei.html,Dr Chong Chew Wei,Hand Surgery,2002,grad,49,,2216,False
+p_christina-ong.html,Dr Christina Ong,Paediatric Medicine,2001,years_min,50,,3790,False
+p_chua-tju-siang.html,Dr Chua Tju Siang,Gastroenterology,,,,,2510,False
+p_chua-wei-liang.html,Dr Chua Wei Liang,Orthopaedic Surgery,2006,grad,45,,1263,True
+p_clement-lye-poh-wah.html,Dr Clement Lye Poh Wah,Oral & Maxillofacial Surgery,2009,grad,42,,1164,False
+p_daniel-lee-jin-keat.html,Dr Daniel Lee Jin Keat,General Surgery,,,,,1215,False
+p_dean-koh-chi-siong.html,Dr Dean Koh Chi Siong,General Surgery,,,,,1729,False
+p_deanna-khoo.html,Dr Deanna Khoo,Cardiology,,,,,1863,False
+p_denis-cheong-mun-onn.html,Dr Denis Cheong Mun Onn,General Surgery,1983,grad,68,,1389,True
+p_desmond-ho-yu-mun.html,Dr Desmond Ho Yu Mun,Anaesthesiology,,,,,970,False
+p_dinesh-nair.html,Dr Dinesh Nair,Cardiology,,,,,1464,False
+p_dr-debbie-hong-pooi-mun.html,"Dr Hong Pooi Mun, Debbie",Oral & Maxillofacial Surgery,,,,Winston Tan Oral Maxillofacial Surgery Mount Elizabeth Novena Specialist Centre,1016,False
+p_edward-cheong-chee-keong.html,Dr Edward Cheong Chee Keong,General Surgery,,,,,2809,False
+p_eunice-chua-kah-mui.html,Dr Eunice Chua Kah Mui,Obstetrics & Gynaecology,1985,grad,66,,660,False
+p_fong-yang.html,Dr Fong Yang,Obstetrics & Gynaecology,1993,years_min,58,,1131,False
+p_fong-yoke-fai.html,Dr Fong Yoke Fai,Obstetrics & Gynaecology,,,,,1173,False
+p_foo-chek-siang.html,Dr Foo Chek Siang,General Surgery,1997,grad,54,,1867,True
+p_frances-lim-sheau-huei.html,Dr Frances Lim Sheau Huei,General Surgery,,,,,1128,True
+p_gamaliel-tan-yu-heng.html,Dr Gamaliel Tan Yu-Heng,Orthopaedic Surgery,,,,,1440,True
+p_geraldine-tan-pei-lin.html,Dr Geraldine Tan Pei Lin,Obstetrics & Gynaecology,1994,grad,57,,1088,True
+p_gideon-wee-tze-haur.html,Dr Gideon Wee Tze Haur,Oral & Maxillofacial Surgery,2003,grad,48,,1317,False
+p_glenn-bonney.html,Dr Glenn Bonney,General Surgery,,,,,1489,False
+p_glenn-tan-yin-kiat.html,Dr Glenn Tan Yin Kiat,Anaesthesiology,,,,,1610,False
+p_goh-yau-hong.html,Dr Goh Yau Hong,Otorhinolaryngology (ENT),1990,grad,61,,1717,False
+p_han-hong-juan.html,Dr Han Hong Juan,Otorhinolaryngology (ENT),1998,grad,53,,2041,True
+p_harold-heah-hon-wei.html,Dr Harold Heah Hon Wei,Otorhinolaryngology (ENT),,,,,1899,True
+p_ho-choon-kiat.html,Dr Ho Choon Kiat,General Surgery,1994,grad,57,,3399,True
+p_ivan-ng-hua-bak.html,Dr Ivan Ng Hua Bak,Neurosurgery,1990,grad,61,,1107,True
+p_jane-tan-jye-yng.html,Dr Jane Tan Jye Yng,General Surgery,1997,grad,54,,1576,False
+p_janice-wong-tzen-yuen.html,Dr Janice Wong Tzen Yuen,Paediatric Medicine,1996,grad,55,,1109,False
+p_jason-see-jia-hao.html,Dr Jason See Jia Hao,Cardiology,2005,grad,46,,1406,False
+p_john-lee-song-en.html,Dr John Lee Song En,Anaesthesiology,2011,grad,40,,933,False
+p_jonathan-tan-jit-ern.html,Dr Jonathan Tan Jit Ern,Anaesthesiology,,,,,1094,True
+p_kenneth-oo-kian-kwan.html,Dr Kenneth Oo Kian Kwan,Otorhinolaryngology (ENT),1997,grad,54,,2337,True
+p_kenneth-sheah-ban-joo.html,Dr Kenneth Sheah Ban Joo,Diagnostic Radiology,,,,,1014,False
+p_kevin-lee-boon-leng.html,Dr Kevin Lee Boon Leng,Orthopaedic Surgery,1996,grad,55,,1157,False
+p_kevin-wong-jian-hao.html,Dr Kevin Wong Jian Hao,Hand Surgery,2003,grad,48,,1363,False
+p_koh-cheng-huat.html,Dr Koh Cheng Huat,Obstetrics & Gynaecology,1981,grad,70,,805,False
+p_lee-keat-hong.html,Dr Lee Keat Hong,Gastroenterology,,,,,931,False
+p_lee-wai-yen.html,Dr Lee Wai Yen,Obstetrics & Gynaecology,2007,grad,44,,2659,True
+p_lee-yee-mun.html,Dr Lee Yee Mun,Urology,1992,grad,59,,1676,True
+p_leonard-ang-pek-kiang.html,Dr Leonard Ang Pek Kiang,Ophthalmology,1996,years_min,55,,1546,True
+p_leong-kwok-wah.html,Dr Leong Kwok Wah,Anaesthesiology,2001,grad,50,,1322,False
+p_li-yung-hua.html,Dr Li Yung Hua,Orthopaedic Surgery,,,,,1544,True
+p_liew-woei-kang.html,Dr Liew Woei Kang,Paediatric Medicine,1997,grad,54,,1531,False
+p_lim-ing-haan.html,Dr Lim Ing Haan,Cardiology,,,,,1461,False
+p_lim-ing-ruen.html,Dr Lim Ing Ruen,Otorhinolaryngology (ENT),1995,grad,56,,1922,False
+p_lim-khong-hee.html,Dr Lim Khong Hee,General Surgery,,,,,1334,True
+p_lim-ming-jian.html,Dr Lim Ming Jian,Anaesthesiology,2010,grad,41,,1114,False
+p_loke-kah-leong.html,Dr Loke Kah Leong,Obstetrics & Gynaecology,1981,grad,70,,1200,False
+p_loo-wai-mun.html,Dr Loo Wai Mun,Gastroenterology,,,,,1628,False
+p_madeleine-tan-guek-cheng.html,Dr Madeleine Tan Guek Cheng,Obstetrics & Gynaecology,1971,grad,80,,671,False
+p_mark-tan.html,Dr Mark Tan,Orthopaedic Surgery,,,,,949,False
+p_melvin-liew-kang-ming.html,Dr Melvin Liew Kang Ming,Oral & Maxillofacial Surgery,,,,,1121,True
+p_melvin-look-chee-meng.html,Dr Melvin Look Chee Meng,General Surgery,,,,,1511,False
+p_nikolas-wanahita.html,Dr Nikolas Wanahita,Cardiology,,,,,1845,False
+p_ong-sea-hing.html,Dr Ong Sea Hing,Cardiology,,,,,1413,False
+p_paul-ong-jau-lueng.html,Dr Paul Ong Jau Lueng,Cardiology,,,,,1451,True
+p_paul-tseng-seng-loke.html,Dr Paul Tseng Seng Loke,Obstetrics & Gynaecology,1981,grad,70,,885,False
+p_paul-wong-wing-yan.html,Dr Paul Wong Wing-Yan,Anaesthesiology,,,,,2369,False
+p_peng-yeong-pin.html,Dr Peng Yeong Pin,Hand Surgery,1993,grad,58,,1643,False
+p_phua-soo-mear.html,Dr Phua Soo Mear,Obstetrics & Gynaecology,1983,grad,68,,754,False
+p_sabrina-ng.html,Dr Sabrina Ng,Oral & Maxillofacial Surgery,,,,Winston Tan Oral Maxillofacial Surgery Mount Elizabeth Novena Specialist Centre,2572,True
+p_sam-peh-oon-hui.html,Dr Sam Peh Oon Hui,Urology,1989,grad,62,,1987,False
+p_see-hooi-geok.html,Dr See Hooi Geok,Anaesthesiology,,,,,976,True
+p_seng-zhi-quan.html,Dr Seng Zhi Quan,Anaesthesiology,2011,grad,40,,882,False
+p_serene-leo-seok-lynn.html,Dr Serene Leo Seok Lynn,Anaesthesiology,2002,grad,49,,1339,False
+p_serene-lim-liqing.html,Dr Serene Lim Liqing,Obstetrics & Gynaecology,2006,grad,45,,3010,False
+p_shaun-loh-ray-han.html,Dr Shaun Loh Ray Han,Otorhinolaryngology (ENT),2006,years_min,45,,1991,True
+p_shilla-mariah-yussof.html,Dr Shilla Mariah Yussof,Obstetrics & Gynaecology,2008,grad,43,,1365,True
+p_shirley-goh.html,Dr Shirley Goh,Anaesthesiology,,,,,1435,True
+p_soon-chao-yang.html,Dr Soon Chao Yang,Cardiology,,,,,1134,False
+p_stephen-tsao-kin-kwok.html,Dr Stephen Tsao Kin Kwok,Gastroenterology,,,,,1186,True
+p_sulaiman-yusof.html,Dr Sulaiman Yusof,General Surgery,2002,grad,49,,1154,False
+p_suresh-paranjothy.html,Dr Suresh Paranjothy,Anaesthesiology,,,,,1345,False
+p_tan-bo-chuan.html,Dr Tan Bo Chuan,General Surgery,,,,,3455,True
+p_tan-hon-sen.html,Dr Paul Tan Hon Sen,Anaesthesiology,,,,,1262,False
+p_tan-jian-jing.html,Dr Tan Jian Jing,Cardiology,2006,grad,45,,1193,False
+p_tan-kar-su.html,Dr Tan Kar-Su,Otorhinolaryngology (ENT),,,,,1776,True
+p_tan-liang-hui.html,Dr David Tan Liang Hui,Anaesthesiology,2000,grad,51,,550,False
+p_tan-ter-chyan.html,Dr Tan Ter Chyan,Hand Surgery,1995,grad,56,,1623,False
+p_tan-wee-khin.html,Dr Tan Wee Khin,Obstetrics & Gynaecology,1966,grad,85,,657,False
+p_tay-guan-tzu.html,Dr Tay Guan Tzu,Orthopaedic Surgery,,,,,1755,False
+p_tay-hin-ngan.html,Dr Tay Hin Ngan,Otorhinolaryngology (ENT),,,,,2234,True
+p_tay-ze-yun.html,Dr Tay Ze Yun,Otorhinolaryngology (ENT),2008,grad,43,,1417,True
+p_toh-choon-lai.html,Dr Toh Choon Lai,Orthopaedic Surgery,,,,,1859,True
+p_victor-keng.html,Dr Victor Keng,General Surgery,1990,grad,61,,1673,True
+p_victor-seah-wee-teck.html,Dr Victor Seah Wee Teck,Orthopaedic Surgery,2000,grad,51,,1954,False
+p_vincent-ng-yew-poh.html,Dr Vincent Ng Yew Poh,Neurosurgery,2009,years_min,42,,1114,True
+p_wee-chee-keong.html,Dr Wee Chee Keong,Neurology,2009,grad,42,,1705,True
+p_winston-chew-yoon-chong.html,Dr Winston Chew Yoon Chong,Hand Surgery,1989,grad,62,,1305,False
+p_winston-tan-kwong-shen.html,Dr Winston Tan Kwong Shen,Oral & Maxillofacial Surgery,2001,years_min,50,,2255,False
+p_wong-her-shann.html,Dr Wong Her Shann,Anaesthesiology,1998,grad,53,,602,False
+p_wong-soong-kuan.html,Dr Wong Soong Kuan,General Surgery,1988,grad,63,,1134,False
+p_yeo-chong-jin.html,Dr Yeo Chong Jin,Hand Surgery,2001,grad,50,,993,False
+p_yeo-sow-nam.html,Dr Yeo Sow Nam,Anaesthesiology,,,,,1651,False
