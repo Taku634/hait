@@ -1,6 +1,6 @@
 # シンガポール主要専門医グループ4社のビジネスモデル比較 — Foundation Healthcare・Tamarind Health・HMI Medical・OUE Healthcare/Healthway: 医師インセンティブ設計と成長戦略
 
-**作成日**: 2026年10月13日
+**作成日**: 2026年10月13日(同日、Apollo・65 Equity Partners・BioSpectrumの原文確認を追加)
 **位置づけ**: IHH Singapore戦略シリーズ(sg-specialist-network-business-models.md、sg-specialist-group-typology.md、ihh-mitsui-specialist-network-acquisition.md)の姉妹文書。前2文書は多数のプレイヤーを横並びにしたが、本書はFrost & Sullivanが「主要民間専門医グループ(専門医20人超)」と認定した層に属する**4社に絞り、Foundation Healthcareの上場目論見書(2026年7月1日、SGX)を軸資料として、①ビジネスモデル、②医師へのインセンティブ設計、③成長戦略を深掘り**する。
 **表記ルール**: 【確認】=出典原文で裏付けた事実、【算出】=出典の数値から本書が計算した値、【推定】=複数事実から本書が同定した事項、【非公開】=公開情報で確認できなかった事項(推測で埋めない)、【分析】=確認済み事実の比較から導いた本書の整理。出典は「A=原文PDF/ページを取得して本文確認」「B=検索エンジン経由で要旨を確認」に区分し巻末に記載。
 
@@ -238,7 +238,8 @@
 - A(姉妹文書で原文確認): [TalkMed Composite Document(2025年6月30日)](https://links.sgx.com/1.0.0/corporate-announcements/55PEO68YLXWC6SCL/850256_TalkMed%20-%20Composite%20Document.pdf) — 再投資内訳、7年ベスティング、Leaver、拒否権
 - B: [Tamarind Health「次の段階」リリース(2025年10月15日、tirto.id転載)](https://tirto.id/tamarind-health-marks-next-phase-as-asias-leading-integrated-oncology-platform-hjF5) — 36センター・6市場・500人超・18万来院
 - B: [Goodwin: Hong Kong Women's Imaging Group買収(2026年5月)](https://www.goodwinlaw.com/en/news-and-events/news/2026/05/announcements-privateequity-ma-goodwin-advised-on-hong-kong-womens-imaging-group-acquisition)
-- B: [BioSpectrum Asia: Rare Cancer Centre(2026年9月30日)](https://www.biospectrumasia.com/news/54/28457/tamarind-health-launches-rare-cancer-centre-in-singapore.html)
+- A: [BioSpectrum Asia: Rare Cancer Centre(2026年9月30日)](https://www.biospectrumasia.com/news/54/28457/tamarind-health-launches-rare-cancer-centre-in-singapore.html) — 血液腫瘍・肉腫・希少皮膚がん・神経内分泌腫瘍・脳腫瘍、地域患者の単一窓口
+- A: [65 Equity Partners: Tamarind Healthポートフォリオ](https://www.65equitypartners.com/?p=1342) — 投資2023年12月・2025年9月、「創業医と提携して設立」、構成ブランド一覧
 - B: [HMGとOncoCareの戦略協力(2026年7月)](https://www.malaymail.com/amp/news/money/mediaoutreach/2026/07/09/hmg-and-oncocare-sign-pan-asian-strategic-cooperation-agreement-joining-forces-to-build-a-pan-asian-closed-loop-medical-ecosystem-to-provide-one-stop-full-cycle-care-for-cross-border-cancer-patients/475253)
 - B: [CCCS承認報道(Yahoo Finance)](https://sg.finance.yahoo.com/news/singapore-competition-watchdog-clears-tamarind-012522113.html)
 
@@ -249,7 +250,7 @@
 - A: [Lifescan Imaging買収(2026年8月13日)](https://www.hmimedical.com/news-resources/in-the-news/hmi-medical-strengthens-diagnostic-capabilities-to-support-singapores-shift-beyond-hospital-care)
 - B: [Morgan Lewis: Harley Street「最大51%」売却(2024年1月)](https://www.morganlewis.com/news/2024/01/morgan-lewis-represents-harley-street-shareholders-in-majority-stake-sale-of-heart-and-vascular-centre)
 - B: [Advanced Urology過半数取得(2024年10月11日、PR Newswire/Manila Times転載)](https://www.manilatimes.net/2024/10/11/tmt-newswire/pr-newswire/hmi-medical-announces-partnership-with-advanced-urology-associates-to-expand-its-specialist-service-offerings/1983025)
-- B: [Apollo Hybrid Valueの出資(2023年6月26日)](https://www.apollo.com/insights-news/pressreleases/2023/06/apollo-hybrid-value-funds-to-invest-in-panasia-health-s-health-management-international-2694401)
+- A: [Apollo Hybrid Valueの出資(2023年6月26日)](https://www.apollo.com/insights-news/pressreleases/2023/06/apollo-hybrid-value-funds-to-invest-in-panasia-health-s-health-management-international-2694401) — CEO Chin Wei Jia「統合型ヘルスケア・プラットフォーム」、Apollo Matt Michelini「アジアでのHybrid Value 4件目の投資」
 - B: [Regency Kuching着工報道(2026年7月)](https://www.hmimedical.com/news-resources/in-the-news)
 
 ### OUE Healthcare / Healthway
