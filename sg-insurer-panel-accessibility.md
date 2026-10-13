@@ -1,6 +1,6 @@
 # シンガポールにおける保険会社「パネル医師」指定の難しさ — IP保険者7社の選定基準・定員管理・除外リスクの実態
 
-**作成日**: 2026年10月13日(同日改訂: SMA資料・LIA反論・AMS専門医数を原文で確認しB区分をA区分に更新。⑩に「クリニック外治療とパネル要件、複数拠点・クリニック共用」の補論を追加)
+**作成日**: 2026年10月13日(同日改訂: SMA資料・LIA反論・AMS専門医数を原文で確認しB区分をA区分に更新。⑩「クリニック外治療とパネル要件、複数拠点・クリニック共用」、⑪「専門医グループ所属とパネル参加の関係(一次データ分析)」を追加)
 **位置づけ**: IHH Singapore戦略シリーズ(sg-specialist-network-business-models.md、sg-specialist-group-typology.md、ihh-mitsui-specialist-network-acquisition.md)の補助文書。既存文書が「2026年4月以降の新IPライダーでは自己負担上限がパネル医または事前承認の場合のみ適用されるため、パネル参加がネットワークの集患力を左右する」と指摘したのを受け、本書は**私立専門医がIP(Integrated Shield Plan)保険者のパネルに入ること自体がどの程度難しいのか**を、公開情報に基づいて検証する。
 **表記ルール**: 【確認】=出典で裏付けた事実、【算出】=出典の数値から本書が計算した値、【非公開】=公開情報で確認できなかった事項(推測で埋めない)、【分析】=確認済み事実の比較から導いた本書の整理。出典は巻末で「A=原文を取得して本文確認」「B=検索エンジン経由で該当内容を確認(原文を取得できなかったもの)」に区分した。初版ではSMA資料がB区分だったが、改訂版ではSMA・LIA・AMS資料を原文で取得しA区分に更新した。
 
@@ -199,6 +199,65 @@
 - **確認できた形態**: (a) 同名クリニックへの複数医師の参加(IHH認定医の43%)、(b) 「複数の専門医で共用する改装済みクリニック、看護・事務スタッフ共用」のParagonでの賃貸募集【確認(B)】、(c) SMG×Aurum Landの医療コワーキングCore Clinic(2021年JV、2022年4月i12 Katongに3スイートで開業、従量課金)【確認(B)】、(d) Icon Cancer Centreの「Visiting Medical and Radiation Oncologists」のように、ネットワーク施設で診療する訪問医(sg-specialist-network-business-models.md)【確認】。報道は「私立専門医間のスペース共用はシンガポールでは既にかなり一般的だが、スケジュール調整が必要」と評している【確認(B)】。
 - **保険パネルとの関係**【分析】: GE・AIA・Income・HSBC Lifeのように医師単位でパネルが付く場合、クリニックを借りても医師のパネル地位は変わらない。Prudentialの場合、提携HI内のクリニックを借りて診療し、その施設で手術・e-filingすればパネル扱いになり得るため、**「提携HI内のクリニック共用」が非提携病院拠点の医師にとっての現実的な迂回路**になる(Thomson Specialists等の名簿掲載243人はその例と整合する)。ただしPrudentialは「提携HIによる推薦と選定(資格・懲戒歴)」を要するため、場所を借りただけでは自動的に参加できない【確認】。
 
+## ⑪ 補論: 専門医グループ(Foundation Healthcare・Icon・Curie等)への所属はパネル入りを容易にするか
+
+**結論**: **容易にする。** IHH 4病院ディレクトリ1,295人の一次データでは、企業型グループ所属医は独立開業医に比べ、少なくとも1社のパネルに入っている比率が92%対69%、6社全てに入っている比率が43%対9%、平均パネル数が4.4社対2.6社で、専門科と卒後年数で層別しても優位は残る【算出】。Foundation Healthcareは上場目論見書で「麻酔科・放射線科を除く専門医の97%超が2社以上の保険者・TPAに所属」と開示し、「ソロ・小規模開業医が複数パネルの要件を満たし続けるのは重い運用負担であり、中央集権的な支払者対応機能を持つ統合プラットフォームは構造的に有利」と明記している【確認】。ただし、この相関には**逆の因果(既にパネルに入っている医師をグループが採用する)**が含まれ、観察データだけでは「所属が原因で入りやすくなる」効果の大きさは分離できない【分析】。
+
+### 11-1. 一次データ: IHH認定医1,295人のパネル参加(2026年10月時点)
+
+データ: IHH 4病院の公式プロファイルに表示される「Insurance Panel」欄(AIA・Great Eastern・HSBC Life・Income・Prudential・Singlifeの6社。表示はIP限定で、Prudentialには「ポリシーとライダーによってはExtended Panel給付の対象となり得る」との注記が付く)【確認】。グループ所属は診療所ブランドと公式名簿の氏名照合で判定(ihh-sg-medical-suite-specialists.md §5)。
+
+| 区分 | 人数 | 1社以上 | 4社以上 | 6社全て | 平均パネル数 |
+|---|---|---|---|---|---|
+| **企業型グループ所属** | 306 | **92%** | **76%** | **43%** | **4.43** |
+| **独立開業医** | 989 | 69% | 39% | 9% | 2.57 |
+| 　独立・単独クリニック | 521 | 69% | 33% | 7% | 2.38 |
+| 　独立・2〜4人クリニック | 270 | 69% | 41% | 9% | 2.66 |
+| 　独立・5人以上クリニック | 192 | 68% | 54% | 17% | 3.02 |
+
+グループ別(所属医の平均パネル数、6社全ての比率): Icon 6.00(100%)、gutCARE 5.75(88%)、Tamarind Health〔TalkMed/OncoCare〕5.53(78%)、Curie Oncology 5.43(57%)、Beyond Medical 5.00(20%)、HMI Medical 4.87(40%)、OUE Healthcare系 4.76(48%)、Orthopaedics International 4.75(50%)、Doctor Anywhere/AHS 4.62(38%)、**Foundation Healthcare 4.49(38%)**、HC Surgical 3.77(8%)、SMG 3.67(33%)。例外はEye & Retina Surgeons 1.50と歯科のSpecialist Dental Group 0.30(歯科はIPパネル対象外)【算出】。
+
+**層別比較(同じ専門科内)**【算出】: 腫瘍内科=グループ5.77対独立2.60、一般外科=5.12対3.57、消化器=5.20対3.49、整形外科=4.59対3.85、ENT=4.17対2.81、循環器=4.24対3.84、眼科=3.71対3.10、泌尿器=4.10対3.87。全ての主要科でグループ所属が上回るが、循環器・泌尿器・眼科では差が小さい。
+
+**層別比較(卒後年数)**【算出】: 15〜24年=グループ4.45対独立3.51、25〜34年=5.40対3.22、35年以上=4.83対2.26。卒後15年未満はグループ側が4人しかおらず比較不能。
+
+**Mantel-Haenszel層別オッズ比**(パネル対象外の麻酔・ICU・放射線・精神科・歯科系を除く1,106人、グループ所属=1)【算出】:
+
+| アウトカム | 粗OR | 専門科で層別 | 卒後年数で層別 | 専門科×年数で層別 |
+|---|---|---|---|---|
+| 1社以上 | 4.85 | 4.06 | 4.58 | 3.85 |
+| 4社以上 | 4.42 | 2.93 | 4.30 | 2.55 |
+| 6社全て | 7.07 | 4.22 | 7.50 | 4.45 |
+| Great Easternに所属 | 6.87 | 5.90 | 6.73 | 5.58 |
+| Prudentialに所属 | 4.73 | 3.82 | 4.48 | 3.78 |
+| AIAに所属 | 3.29 | 2.48 | 3.43 | 2.29 |
+| Incomeに所属 | 2.55 | 2.04 | 2.51 | 1.88 |
+
+専門科と年数を同時に調整しても、グループ所属医が「1社以上」に入っているオッズは独立医の約3.9倍、「6社全て」は約4.5倍である。保険者別ではGreat Eastern(5.6倍)とPrudential(3.8倍)で差が大きく、Income(1.9倍)で小さい【算出】。
+
+### 11-2. なぜグループ所属が有利に働くか(確認できた機構)
+
+1. **保険者側が「機関・グループ単位」で枠を開けている**【確認】。
+   - Prudential PPCは医療機関主導で、個人申請を受け付けない。例外的に「クリニック経由のe-fileでもパネル扱い」とする指定クリニックは、HC Surgical Specialists、Ascent ENT、ENT Surgeons Medical Centre、Asian Healthcare Specialists、Icon Cancer Centreで、いずれも企業型または大型グループである。Iconは2024年11月に外来化学療法・放射線治療のキャッシュレス提携を結んだ【確認】。
+   - AIAは2025年1月、Raffles Hospitalとの覚書で同院の私立専門医90人超をAQHPに一括追加し、パネルを約700人に拡大した【確認】。
+   - Incomeの評価項目に「医療機関との戦略的提携」「臨床アウトカムの提出」がある【確認】。後者は個人開業医より、データ基盤を持つグループが満たしやすい【分析】。
+2. **グループが保険者と包括契約を結び、所属医の加入手続きを代行している**【確認】。Foundation Healthcareは2024年にGreat Easternと「所属専門医のGEパネル加入枠組みの構築(加入条件・手続きの研修、加入クリニックでの請求事務フローの実装)と、GE加入者への診療の質・費用の監視システム(料金表遵守のモニタリング、ケースレビュー支援)」で戦略的提携を結び、TPAとも法人保険プログラムの専門医クリニックパネル指定契約を締結した。同社の自社プラットフォームAVAには、支払者が専門医と電子契約を結ぶと「自動的に当該支払者のパネルに追加される」ネットワーク管理機能がある【確認】。本データでFoundation所属医のGEパネル参加率が87%(独立医36%)と最も差が開くのは、この提携と整合する【算出/分析】。
+3. **目論見書が「規模の経済」を明文化している**【確認】。Foundation Healthcareの目論見書は、「保険者は臨床資格・経験年数、専門科カバレッジ、過去の請求プロファイルと臨床アウトカム、料金ベンチマークに対する費用競争力、提供者プラットフォームの管理・ガバナンス水準で専門医を評価する。ソロ・小規模開業医がこれを継続的に満たし複数保険者のパネル地位を維持するのは相当な運用上の負担であり、中央集権的ガバナンス・標準化された臨床プロトコル・専任の支払者対応機能を持つ統合プラットフォームは本質的に有利」「新規開業医やソロ開業医が複数パネルの要件を満たす実績とインフラを築くのは時間と資源を要する」「パネルの広さは構築が難しく維持に継続投資を要する構造的な競争優位(moat)」と記す。同時にリスク要因として「保険者との関係、特に所属専門医のパネル加入は、専門医の獲得・維持の主要な原動力であり、保険者が加入契約を更新しない、パネルを狭める等の場合、患者流入と専門医の確保の双方が損なわれる」と開示している【確認】。HC Surgicalも2025年次報告書で「グループとしての主要保険パネルへの加入が、ネットワーク全体で患者のアクセスを高めている」と述べている【確認】。
+4. **若手の入口としての機能**【確認/分析】。SMA会長は2023年に「開業直後の若い世代は主パネルに入れない」と述べ、EP(Extended Panel)経由の加入を提案した【確認】。グループ所属は、保険者の請求データ上の「診療パターン」実績がない新規開業医に、グループの包括契約と機関推薦という代替経路を与える【分析】。本データでは卒後15年未満のグループ所属医が4人しかおらず、この効果は定量的には検証できない【算出】。
+
+### 11-3. 解釈上の注意
+
+- **逆の因果と選択**: グループは買収・採用時にパネル所属状況を評価し得るため、「パネルに入っている医師がグループに集まる」経路が含まれる。Foundation Healthcareの目論見書自身が、パネル加入を「専門医の獲得・維持の主要な原動力」と呼んでいる【確認】。本データの相関は上限値として読むべきである【分析】。
+- **データの性質**: IHHプロファイルの表示はIHH側が管理する自己申告情報で、Prudentialの表示はEP対象を含む可能性がある。パネル欄が空欄の334人には、麻酔科(70%が空欄)・放射線科(100%)・ICU(73%)・精神科(91%)・歯科系のように制度上パネル対象外の科が多く含まれる。これらを除いた1,106人で再計算しても、グループ所属医の優位(1社以上95%対80%、平均4.64対3.00)は変わらない【算出】。
+- **グループ間の差**: HC Surgical(平均3.77、6社全て8%)やSMG(3.67)はFoundation(4.49)やTamarind(5.53)より低く、「グループ所属=全社パネル」ではない。腫瘍内科系(Icon・Tamarind・Curie)が最も高いのは、Cancer Drug List導入以降に外来がん治療の保険者ネットワーク化が進んだこと(sg-specialist-network-business-models.md)と整合する【分析】。
+- **保険者別の差**: Incomeのオッズ比が最も小さい(層別1.9倍)。Incomeは2018年にRaffles Health Insuranceと共同でパネルを構築し、評価項目に「性別・人種・診療場所の多様性」を含めるなど、個人単位の選定色が強い【確認/分析】。
+
+### 11-4. IHH戦略への含意【分析】
+
+- 医師グループの取り込みは「パネル参加率の高い医師群をまとめて確保する」効果を持つ。本データではFoundation所属医の92%・Tamarind所属医の100%がPrudentialパネルに入っている一方、独立医は67%である。
+- 逆に言えば、IHHが独立開業医(全体の76%)の支援を行う場合、「支払者対応機能(加入手続き・請求事務・事前承認・アウトカムデータ)の提供」が、グループが提供している最大の付加価値のひとつである。Foundation HealthcareのAVAや、SMAが支援したHealth Connective(sg-specialist-network-business-models.md参照、現在はFoundation傘下のプログラム名)が狙うのはこの機能である【確認/分析】。
+- Prudentialの機関主導モデルでは、IHH施設自体が提携HIでない限り、所属医師の数を増やしてもPrudentialパネルの効果は得られない(⑩参照)。グループ取り込みの効果は、医師単位でパネルが付くGE・AIA・Income・HSBC Life・Singlifeで主に発現する。
+
 ## ⑨ 本調査で確認できなかった事項【非公開】
 
 - 各保険者の申請数・承認数・採択率、待機リストの人数と待機期間。
@@ -261,6 +320,11 @@
 42. Farrer Park Hospital「Apply for Practicing Privileges」およびFORM-MA-009 R18(2026年3月) — https://www.farrerpark.com/medical-professionals/apply-for-practicing-privileges.html / https://www.farrerpark.com/dam/jcr:60442491-12a0-43a9-aefb-36f64549e406/FORM-MA-009%20Application%20for%20Specialist%20Practising%20and%20or%20Admitting%20Privileges%20R18.pdf
 43. Mount Elizabeth専門医プロファイル(複数病院・公立病院visiting consultantの記載例) — https://www.mountelizabeth.com.sg/patient-services/specialists/profile/chin-pak-lin ほか
 44. 本リポジトリ `ihh-sg-medical-suite-specialists.md` および `data/ihh-sg-specialists-directory-2026-10.csv`(IHH 4病院ディレクトリ1,295人、2026年10月8日取得)
+44a. Foundation Healthcare Holdings「Final Prospectus dated 1 July 2026」(SGX。パネル加入率97%超、GEとの提携、産業概況のパネル評価基準) — https://links.sgx.com/FileOpen/Foundation_Healthcare_Holdings_Limited_-_Final_Prospectus_dated_1_July_2026.ashx?App=IPO&FileID=6749
+44b. HC Surgical Specialists「Annual Report 2025」(CEO's Statement「Insurance Panels: Enhancing Access and Affordability」) — https://links.sgx.com/1.0.0/corporate-announcements/NGK2ZKIN8F7EMNDS/858526_HC%20Surgical%20AR2025.pdf
+44c. Asia Advisers Network「AIA partners with Raffles Hospital to boost accessibility of quality healthcare」2025年1月 — https://www.asiaadvisersnetwork.com/Article?aid=90597
+44d. KGI Securities「Foundation Healthcare Holdings IPO Note」2026年 — https://www.kgieworld.sg/securities/resources/ck/files/docs/research/FOUNDATION%20HEALTH%20IPO%20NOTE.pdf
+44e. Mount Elizabeth専門医プロファイル(Insurance Panel欄の注記「^Specialists may qualify for Extended Panel (EP) benefits depending on your policy and riders」) — https://www.mountelizabeth.com.sg/patient-services/specialists/profile/lim-si-jing-joline
 
 **B = 検索エンジン経由で該当内容を確認(原文を取得できなかったもの)**
 
@@ -272,6 +336,7 @@
 50. AIA「AIA HealthShield Gold Max changes infographic」(自己負担上限の適用条件) — https://www.aia.com.sg/content/dam/sg/en/docs/product_brochures/medical-protection/aia-healthshield-gold-max-changes-infographic.pdf
 51. Insurance Business Asia「AIA Singapore expands coverage through hospital deal」2025年1月(Raffles専門医90人超のAQHP追加) — https://www.insurancebusinessmag.com/asia/news/breaking-news/aia-singapore-expands-coverage-through-hospital-deal-522021.aspx
 52. Rajah & Tann「Phase 2 of Healthcare Services Act Commences on 26 June 2023」(サービス単位免許) — https://www.rajahtannasia.com/viewpoints/phase-2-of-healthcare-services-act-commences-on-26-june-2023/
+52a. Prudential plc「Prudential expands preferred healthcare network in partnership with Icon Cancer Centre」2024年11月14日 — https://www.prudentialplc.com/en/newsroom/company-news/2024/prudential-expands-preferred-healthcare-network-in-partnership-with-icon-cancer-centre/
 
 
 53. Income Insurance「Enhanced IncomeShield」(新ライダーの3段階自己負担。サイトが自動アクセスを拒否〔HTTP 403〕) — https://www.income.com.sg/health-insurance/enhanced-incomeshield
