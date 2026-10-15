@@ -166,29 +166,37 @@
 - **氏名照合**【推定】: 35グループの公式サイトから収集した医師名簿1,183名と、3トークン以上の氏名一致で照合（Foundationは名簿112名のうち上場目論見書の108名と整合）。Thomson Medical（614名、受入専門医の名簿）とRaffles（255名）は「グループ所属」ではなく「他院ディレクトリにも掲載」として別集計した。
 - **未判定の限界**【未確認】: Novena Heart Centre（Tamarind）、Advanced Urology（HMI）、StarMed、SOG、O2 Healthcare、Orthopaedics International、Asian Healthcare Specialists等は公式サイトがネットワーク制限で取得できず、診療所名照合のみで判定した。したがって所属率24%は下限値である。
 
-### 6-2. グループ別の所属医師数（1,295人中）
+### 6-2. グループ別の所属医師数（1,295人中）とグループ全体の医師数
 
-| グループ（資本） | 所属医師数 | 主な科 | 主なブランド・備考 |
-|---|---|---|---|
-| **Foundation Healthcare**（SGX上場2026年7月、SeaTown/Temasek系） | **89** | 一般外科21、整形13、循環器11、ENT 8、手外科6、口腔外科6 | PanAsia Surgery、Pinnacle Orthopaedic、Lang Eye、Colorectal Clinic Associates、Nexus Surgical、Orthopaedic Associates、Winston Tan OMS等。公式名簿112人のうち73人（65%）がIHH認定医 |
-| **Tamarind Health**（Templewater＋65 Equity Partners） | **45** | 腫瘍内科26、循環器6、一般外科5、血液4 | Parkway Cancer Centre/TalkMed（15）、OncoCare（16＋女性がんクリニック4）、Solis Breast Care（5）。Novena Heart Centreは名簿未取得のため過小 |
-| **HMI Medical**（EQT＋Apollo） | **30** | 眼科16、泌尿器8、循環器4 | Eagle Eye Centre（17）、Advanced Urology Associates（8）、Harley Street Heart & Vascular（5） |
-| **OUE Healthcare／Healthway**（OUE） | **25** | 呼吸器・ENT・泌尿器・循環器 | O2 Lung Centre／The Respiratory Practice（9）、Nobel ENT/Heart/Paediatric Surgery、Urohealth |
-| **Singapore Medical Group**（CHA Healthcare） | 13 | 産婦人科5、眼科2、腫瘍2 | Astra Women's Specialists、The Cancer Centre、LSC Eye等。SMG名簿53人の多くはIHH外の拠点で診療 |
-| **HC Surgical Specialists**（Catalist） | 13 | 一般外科・大腸・整形 | 医師名を冠した子会社診療所（Lai Endoscopy、Heah Colorectal、LS Lee Surgery等） |
-| Orthopaedics International | 12 | 整形外科 | 独立系の整形外科グループ |
-| Eye & Retina Surgeons | 12 | 眼科 | Camden・Novena拠点の眼科グループ |
-| **Icon Group**（EQT） | 10 | 腫瘍内科10 | Icon Cancer Centre Mount Elizabeth／Gleneagles／Novena／Orchard |
-| Specialist Dental Group | 10 | 歯科 | MEMC・Gleneagles Medical Centre |
-| gutCARE | 8 | 消化器8 | 全8人がIHH認定医 |
-| Doctor Anywhere／Asian Healthcare Specialists | 8 | 整形・泌尿器 | 旧AHS（整形外科・泌尿器） |
-| Curie Oncology | 7 | 腫瘍内科 | Gleneagles・Novena |
-| Beyond Medical Group、Fullerton Health（The ENT Clinic）、Alfa Medicus（ICG） | 各5 | — | — |
-| ISEC（Aier）、Cardiac Care Partners、Singapore Paincare、Royal Healthcare（Sojitz）、AARO | 1〜4 | — | — |
-| **企業型グループ所属 合計** | **306（24%）** | | |
-| （参考）IHH病院部門（放射線科26人等） | 31 | 画像診断 | 独立開業医ではなくIHH雇用・部門契約 |
-| （参考）Parkway MediCentreでも診療 | 16 | — | IHHのコミュニティ外来を第2拠点とする独立医 |
+**表の見方**: 「IHH認定医のうち所属（A）」は、IHH SG公式ディレクトリに載る認定専門医1,295人のうち、各グループへの所属が判定できた人数である（§6-1の診療所名照合と氏名照合の和集合）。グループの医師総数ではない。比較のため、IHH外で診療する医師も含めたグループ全体の医師数（B）を並べた。Bは各社の公式名簿（2026年10月取得、`data/sg-specialist-group-doctor-lists-2026-10.json`）、Foundation目論見書のFrost & Sullivan表（2026年3月末）、各社開示による。名簿を取得できなかったグループは「不明」とした。
 
+| グループ（資本） | IHH認定医のうち所属（A） | グループ全体の医師数（IHH外含む、B） | A/Bの目安 | 主な科 | 主なブランド・備考 |
+|---|---|---|---|---|---|
+| **Foundation Healthcare**（SGX上場2026年7月、SeaTown/Temasek系） | **89** | **112**（公式名簿、2026年10月13日）／108（目論見書、2026年3月末） | 名簿照合で73/112＝**65%** | 一般外科21、整形13、循環器11、ENT 8、手外科6、口腔外科6 | PanAsia Surgery、Pinnacle Orthopaedic、Lang Eye、Colorectal Clinic Associates、Nexus Surgical、Orthopaedic Associates、Winston Tan OMS等。Aの89人のうち16人は診療所名のみで判定（公式名簿112人に名前がない） |
+| **Tamarind Health**（Templewater＋65 Equity Partners） | **45** | SG専門医**53**（F&S Player 1、同定は推定）。内訳：OncoCare 16（公式名簿）、Parkway Cancer Centre約19（PCC公表）、Solis 11（乳腺外科7・放射線3・病理1、公式名簿）、Novena Heart 5。6市場全体では「医師・スタッフ500人超」 | 45/53≈85%【推定】 | 腫瘍内科26、循環器6、一般外科5、血液4 | Parkway Cancer Centre/TalkMed（15）、OncoCare（16＋女性がんクリニック4）、Solis Breast Care（5）。Novena Heart Centreは名簿未取得のためAは過小 |
+| **HMI Medical**（EQT＋Apollo） | **30** | SG専門医**37**（F&S Player 4、同定は推定）。内訳：Eagle Eye 21（公式名簿）、Advanced Urology 8（F&S泌尿器8）、Harley Street 5（公式名簿）。SG＋MYのグループ全体は「医師400人超」 | 30/37≈81%【推定】。Eagle Eyeは17/21＝81% | 眼科16、泌尿器8、循環器4 | Eagle Eye Centre（17）、Advanced Urology Associates（8）、Harley Street Heart & Vascular（5） |
+| **OUE Healthcare／Healthway**（OUE） | **25** | O2 Healthcare 15（2025年末）。Nobel・Urohealth等は不明。Healthway全体（130超クリニック）はGP中心で比較できない | O2は9/15＝60% | 呼吸器・ENT・泌尿器・循環器 | O2 Lung Centre／The Respiratory Practice（9）、Nobel ENT/Heart/Paediatric Surgery、Urohealth |
+| **Singapore Medical Group**（CHA Healthcare） | 13 | **53**（公式名簿、医師のみ）／39（F&S Player 2、同定は推定） | 13/53＝25% | 産婦人科5、眼科2、腫瘍2 | Astra Women's Specialists、The Cancer Centre、LSC Eye等。多くはIHH外の拠点で診療 |
+| **HC Surgical Specialists**（Catalist） | 13 | 11（公式名簿の専門医、GP除く） | A＞B（診療所名照合が名簿外の医師を拾うため） | 一般外科・大腸・整形 | 医師名を冠した子会社診療所（Lai Endoscopy、Heah Colorectal、LS Lee Surgery等） |
+| Orthopaedics International | 12 | 不明（名簿取得不可） | — | 整形外科 | 独立系の整形外科グループ |
+| Eye & Retina Surgeons | 12 | 不明（名簿取得不可） | — | 眼科 | Camden・Novena拠点の眼科グループ |
+| **Icon Group**（EQT） | 10 | 常勤13（公式名簿）＋客員約85 | 10/13≈77%（常勤ベース） | 腫瘍内科10 | Icon Cancer Centre Mount Elizabeth／Gleneagles／Novena／Orchard |
+| Specialist Dental Group | 10 | 不明（名簿取得不可） | — | 歯科 | MEMC・Gleneagles Medical Centre |
+| gutCARE | 8 | 8（公式名簿） | **100%** | 消化器8 | 全員がIHH認定医 |
+| Doctor Anywhere／Asian Healthcare Specialists | 8 | 14（専門医、DA開示） | 8/14≈57% | 整形・泌尿器 | 旧AHS（整形外科・泌尿器） |
+| Curie Oncology | 7 | 18（公式名簿、MY・PHの医師を含む） | SG分は不明 | 腫瘍内科 | Gleneagles・Novena |
+| Beyond Medical Group | 5 | 24（公式名簿、美容医・家庭医を含む）／「医師20人」 | 約21〜25% | — | — |
+| Fullerton Health（The ENT Clinic） | 5 | 5（Fullerton開示） | **100%** | ENT | — |
+| Alfa Medicus（ICG） | 5 | 不明（ブランドサイト取得不可） | — | — | — |
+| ISEC（Aier）、Cardiac Care Partners、Singapore Paincare、Royal Healthcare（Sojitz）、AARO | 1〜4 | Cardiac Care Partners 2（2/2）、AARO 7（1/7）、他は不明 | — | — | — |
+| **企業型グループ所属 合計** | **306（24%）** | （グループ間で母数の定義が異なるため合計しない） | | | |
+| （参考）IHH病院部門（放射線科26人等） | 31 | — | — | 画像診断 | 独立開業医ではなくIHH雇用・部門契約 |
+| （参考）Parkway MediCentreでも診療 | 16 | — | — | — | IHHのコミュニティ外来を第2拠点とする独立医 |
+| （参考）Thomson Medicalのディレクトリにも掲載 | 249 | 614（GP・歯科を含む） | 41% | — | 所属ではなく受入医の名簿（§6-4） |
+| （参考）Raffles Medical Groupのディレクトリにも掲載 | 12 | 255（GP・歯科を含む） | 5% | — | 同上 |
+
+- **A/Bの読み方**: 公式名簿が全員分取れたグループ（Foundation、SMG、gutCARE、Icon常勤、Eagle Eye等）のA/Bは「グループの医師のうちIHHで入院・手術権限を持つ割合」を表す。名簿が部分的、またはBがFrost & Sullivan表の推定同定によるグループ（Tamarind・HMI）は目安である。AがBを上回るHC Surgicalは、診療所名照合が名簿外の医師（客員・名簿未更新）も数えた結果である。
+- **含意**【分析】: Foundation（65%）、Tamarind・HMI（約8割）、gutCARE・The ENT Clinic（100%）はIHH依存が高く、SMG（25%）・Beyond（約2割）は主にIHH外で診療する。
 - **病院別の所属率**: Mount Elizabeth Novena 39%（225/580）、Parkway East 41%（79/195）、Gleneagles 32%（157/485）、Mount Elizabeth Orchard 30%（207/689）。新しいキャンパスほどグループ所属率が高い【推定】。
 - **科別の所属率**（§5-1表）: 腫瘍内科90%（Tamarind・Icon・Curie・OncoCareでほぼ全員）、泌尿器47%、眼科39%、循環器37%、ENT 28%、整形27%、一般外科22%、消化器22%、産婦人科9%、皮膚科・形成外科・精神科・画像診断・腎臓0%。
 
@@ -238,6 +246,8 @@
 - メディカルスイート: [Mount Elizabeth Novena Hospital（「more than 250 specialist physician suites」）](https://www.mountelizabeth.com.sg/why-choose-us/mount-elizabeth-novena-hospital)、[Mount Elizabeth Hospital（278床）](https://www.mountelizabeth.com.sg/why-choose-us/mount-elizabeth-hospital)、[Gleneagles Hospital（221床）](https://www.gleneagles.com.sg/why-choose-us)、[Wikipedia: Mount Elizabeth Hospital（MEMCは民間専門医のみ、SMC認定専門医に限る、31専門科）](https://en.wikipedia.org/wiki/Mount_Elizabeth_Hospital)。
 - SMC: [Singapore Medical Council Annual Report 2025（go.gov.sg/smc-annual-report-2025）](https://file.go.gov.sg/smc-annual-report-2025.pdf) — 2025年12月末の専門医7,634人、民間2,426人（32.3%）、Table 3-2 専門科別・部門別人数、新規専門医登録479人（民間35人）。[SMC年次報告一覧](https://www.healthprofessionals.gov.sg/smc/publications-newsroom/smc-annual-reports)。
 - 専門医グループ公式名簿（`data/sg-specialist-group-doctor-lists-2026-10.json`）: [Foundation Healthcare](https://www.foundationhealthcare.sg/specialists/)、[SMG](https://smg.sg/specialists-and-partners/)、[OncoCare](https://oncocare.sg/specialists/)、[Tamarind Health拠点一覧](https://tamarindhealth.com/our-network/our-centres/)、[Eagle Eye Centre](https://eagleeyecentre.com.sg/doctors/)、[Harley Street Heart](https://www.harleystreet.sg/heart/)、[Icon Cancer Centre Singapore](https://iconcancercentre.sg/doctors/)、[gutCARE](https://www.gutcare.com.sg/doctors/)、[HC Surgical Specialists](https://www.hcsurgicalspecialists.com/en/our-specialist-surgeons-and-general-practitioners/specialist-surgeons)、[Beyond Medical Group](https://beyondmedical.com.sg/our-doctors/)、[Curie Oncology](https://curieoncology.com.sg/our-team/)、[PanAsia Surgery](https://www.panasiasurg.com/our-doctors-and-general-surgeons-in-singapore/)、[Cardiac Care Partners](https://www.cardiaccarepartners.com/our-doctors/)、[Alfa Medicus](https://www.alfamedicus.com/care/)、[Thomson Medical（サイトマップ経由）](https://www.thomsonmedical.com/find-an-expert)、[Raffles Medical Group](https://www.rafflesmedicalgroup.com/doctor/)、[AARO](https://aaro.sg/)。
+
+- §6-2のグループ全体の医師数（B）: [Foundation Healthcare上場目論見書（2026年7月1日、Frost & Sullivan主要グループ表 C-17〜C-18）](https://links.sgx.com/FileOpen/Foundation_Healthcare_Holdings_Limited_-_Final_Prospectus_dated_1_July_2026.ashx?App=IPO&FileID=6749)、[OUE Healthcare AGM資料（O2専門医15人）](https://links.sgx.com/FileOpen/OUEH%20AGM%20Presentation.ashx?App=Announcement&FileID=885613)、[Doctor Anywhere（AHS専門医14人）](https://doctoranywhere.com/blog/2022/12/21/doctor-anywhere-singapore-listed-asian-healthcare-specialists/)、[Fullerton Health（The ENT Clinic専門医5人）](https://www.fullertonhealth.com/fullerton-health-deepens-specialty-care-capabilities-through-acquisition-of-singapore-based-otolaryngology-practice-the-ent-clinic/)、[Tamarind Health（医師・スタッフ500人超）](https://www.prnewswire.com/apac/news-releases/tamarind-health-marks-next-phase-as-asias-leading-integrated-oncology-platform-302584618.html)。Solis（11人）・Novena Heart（5人）は姉妹文書 `sg-specialist-groups-succession-design.md`・`sg-specialist-network-business-models.md` による。
 
 ### 二次情報（検索エンジン経由で要旨確認・B）
 - [Mount Elizabeth Medical Centre「Our History」（17階建、分譲232ユニット）](https://www.memc.com.sg/our-history/)
