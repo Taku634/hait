@@ -294,3 +294,118 @@
 37. (A) Allen & Gledhill「Health Information Bill passed to establish framework for the safe collection and sharing of health information」(2026年。2026年1月12日可決、2027年初施行予定、NEHR寄与義務) — https://www.allenandgledhill.com/sg/publication/articles/32164/health-information-bill-passed-to-establish-framework-for-the-safe-collection-and-sharing-of-health-information ／ IHH Healthcare「Proudly the First: IHH Healthcare Singapore Achieves Full NEHR Participation」(2025年11月25日) — https://www.ihhhealthcare.com/newsroom/care-in-action/proudly-the-first-ihh-healthcare-singapore-achieves-full-nehr-participation
 
 **姉妹文書(本リポジトリ)**: ihh-sg-inpatient-loyalty-asc-payor-strategy.md(2026年10月14日。5つの見立ての検証と4層の戦略再構成)、sg-insurer-panel-accessibility.md、sg-four-specialist-groups-incentives-growth.md、sg-specialist-groups-succession-design.md、ihh-sg-medical-suite-specialists.md、sg-specialist-group-typology.md、sg-specialist-network-business-models.md、ihh-mitsui-specialist-network-acquisition.md、parkwayshenton-divestment-strategy.md、ihh-sg-growth-strategy.md、sg-asc-acc-market-report.md、bor-decline-countermeasures.md、us-out-of-hospital-strategy-cases-v3.md
+
+---
+
+## ⑫ 補遺(2026年10月19日): 追加の5論点
+
+### 12-1. 過去10年のパネル医師比率の推移(2016〜2025年)
+
+**前提**: 「パネル医師の割合」には2つの定義がある。(a) **各保険者のパネルに入っている私立専門医の比率**(保険者ごと)、(b) **少なくとも1社のパネルに入っている私立専門医の比率**。分母も「SMC登録の民間専門医」(2,278人〔2023年末〕→2,325人〔2024年末〕→2,426人〔2025年末〕)と「稼働中の私立開業専門医」(SMA推計約1,500人〔2020年〕、MOH 1,235人〔2021年11月〕)で異なり、比率は分母で5割近く変わる【確認/算出】。
+
+| 時期 | 事実【確認】 | (a) 各社パネルの比率 | (b) 1社以上 | 出典 |
+|---|---|---|---|---|
+| 2016年 | HITF報告(10月)がパネル採用を勧告。MOH「IP保険者は2016年にパネルを導入」「2019年にMOH料金ベンチマークを参照し始めるまでパネルは小規模にとどまった」 | — | — | HITF 2016、MOH 2026年5月6日答弁 |
+| 2017〜2019年 | 「導入当初は各社200〜300人で、私立専門医全体の約20%」(SMA会長、2023年6月) | **約20%** | — | SMA 2023年6月会長フォーラム |
+| 2020年 | AMS調査(6月): 「多くのIP保険者で各パネルに私立専門医の約21%しか入っていない」。SMA論説(11月): 私立開業専門医1,500人弱、IPパネルに入るのは約20%、老年科・婦人科・内科・小児科・小児外科・形成外科・精神科は10%以下。SMA専門医調査(9〜10月、333人): パネル在籍はRHI 12%〜Income 39% | **約20〜21%**(科により10%以下) | — | SMA立場表明2021年3月、SMA 2020年11月、SMA 2021年4月 |
+| 2021年5月 | AIA 380人超、Aviva 300人超、AXA 300人超、GE 300人超、Income 400人超、Prudential 700人超、RHI 150人超。MOH「私立専門医の70%超が少なくとも1社のパネルに所属」 | 約20〜47%(1,500人分母) | **70%超** | AsiaOne 2021年5月、MOH 2021年5月10日 |
+| 2021年11月 | MOH「2021年初以降、各社パネルは最大63%拡大」「稼働中の私立専門医1,235人の約80%が1社以上に所属」「大半の保険者は年末までに500人以上を約束」 | — | **約80%**(稼働ベース) | MOH 2021年11月9日 |
+| 2022年 | 5月末時点で7社のパネルは「200人未満〜約750人」。4月にExtended Panel導入で「1,000人超の専門医から選べる」 | 約10〜33%(2,278人分母) | — | Asia Advisers Network 2022年7月 |
+| 2023年 | AIA 607、GE 831、HSBC Life 751、Income 598、Prudential 676、RHI 206、Singlife 594 | **26〜36%**(RHI 9%) | — | MOH IPパネル統計 |
+| 2024年 | AIA 594、GE 779、HSBC Life 807、Income 637、Prudential 814、RHI 206、Singlife 654。MOH「2024年時点で大半の保険者は600人以上」 | **26〜35%** | — | 同上、MOH 2026年5月6日答弁 |
+| 2025年 | AIA 684、GE 814、HSBC Life 894、Income 648、Prudential 957、RHI 198、Singlife 705。7社の新規加入は延べ642人、離脱は延べ232人 | **27〜39%**(2,426人分母。前節は2,325人分母で28〜41%) | 2026年10月のIHH認定医では、パネル対象科1,106人のうち約84%(グループ医95%、独立医80%)が6社のうち1社以上に掲載 | 同上、本リポジトリ一次データ |
+
+**読み取り**【分析】
+- 10年間で、各社パネルの比率は**約20%(2017〜2020年)から27〜39%(2025年)へ**上がり、「1社以上」は70%超(2021年)から約80%(2021年末、2026年のIHH認定医でも同水準)へ上がった。
+- 拡大は2021年(SMAの立場表明とMOHの関与)と2024〜2025年(新規専門医の加入、Thomson・Rafflesの一括加入)の2段階で起き、2022年のExtended Panelは「主パネル外でも給付を維持する」迂回路として機能した。
+- 一方、「主要7社すべてに入る」医師は依然少数で、IHH認定医では6社全てに入るのはグループ医43%・独立医9%にとどまる。2026年4月以降は自己負担上限がパネル/事前承認に限られるため、比率の上昇以上に「パネル外でいることのコスト」が上がっている。
+- MOHは2026年の統計をまだ公表していない(IPページの最終更新は2026年4月30日で2025年分まで)。
+
+### 12-2. IHH専門医の数・専門科別比率のソース
+
+| 項目 | ソース | 内容 |
+|---|---|---|
+| IHH公表の総数 | [Mount Elizabeth「IHH in Numbers」](https://www.mountelizabeth.com.sg/aoe/)、[IHH Healthcare Singapore会社概要](https://www.ihhhealthcare.com/our-reach/singapore) | 「1,800+ Medical / Surgical Specialists」、「1,500+ Accredited Specialists」。専門科別の内訳はIHHから公表されていない【確認】 |
+| 本シリーズの一次データ(1,295人) | 本リポジトリ `data/ihh-sg-specialists-directory-2026-10.csv`(1,295人×26項目)、`data/ihh-sg-specialists-summary-2026-10.json`、収集スクリプト `data/scripts/crawl_list.py`・`crawl_profiles.py`、集計 `analyze.py` | IHH SG 4病院の公式「Find a Doctor」ディレクトリ([Mount Elizabeth](https://www.mountelizabeth.com.sg/patient-services/specialists)〔Orchard・Novenaを1サイトで掲載〕、[Gleneagles](https://www.gleneagles.com.sg/patient-services/specialists)、[Parkway East](https://www.parkwayeast.com.sg/patient-services/specialists))を2026年10月8日に悉皆収集。一覧を頭文字×診療科×性別×病院で10件以下になるまで分割して全プロファイルURLを列挙し(各頭文字の件数と収集数が一致)、1,295人中1,289人のプロファイル(専門科・資格取得年・診療所名と住所・入院権限を持つ病院・保険パネル欄)を構造化した。詳細はihh-sg-medical-suite-specialists.md §調査手順・§2 |
+| 専門科別の分母(浸透率) | [SMC Annual Report 2025](https://file.go.gov.sg/smc-annual-report-2025.pdf) Table 3-2 | 2025年12月末の専門科別・部門別(公立/民間)専門医数。民間2,426人 |
+| グループ側の人数 | [Foundation Healthcare目論見書](https://links.sgx.com/FileOpen/Foundation_Healthcare_Holdings_Limited_-_Final_Prospectus_dated_1_July_2026.ashx?App=IPO&FileID=6749) Appendix C(Frost & Sullivan)、各グループ公式名簿(`data/sg-specialist-group-doctor-lists-2026-10.json`) | 主要グループの専門医数・科別人数 |
+
+**専門科別の人数と比率(1,295人中、第1専門科ベース)**【算出】: 一般外科147人(11.4%)、整形外科144人(11.1%)、眼科98人(7.6%)、産婦人科95人(7.3%)、循環器79人(6.1%)、消化器68人(5.3%)、ENT 65人(5.0%)、麻酔科50人(3.9%)、腫瘍内科48人(3.7%)、小児科46人(3.6%)、泌尿器43人(3.3%)、皮膚科37人(2.9%)、集中治療33人(2.5%)、形成外科32人(2.5%)、画像診断31人(2.4%)。科別の民間専門医に占める浸透率(脳外96%、消化器93%、整形89%、腫瘍内科84%、泌尿器77%、一般外科72%、循環器72%、眼科70%、産婦人科39%、小児科26%、麻酔科23%)はihh-sg-medical-suite-specialists.md §5-1の表を参照。
+
+**限界**【確認】: (1) ディレクトリ掲載医のみで、病院雇用医(救急・病理等)や非掲載の認定医は含まない。「1,800+」は4病院の認定延べ数(1,949件)に近く、「1,500+」は非掲載を含む固有数と解釈される。(2) 専門科は各医師の第1専門科で、歯科専門医50人を含む。(3) 年齢は卒業年からの推計(651人で判明)。(4) グループ所属は診療所名・公式名簿との照合による下限値。(5) 保険パネル欄はIHH側が管理する表示で、Prudentialは「ポリシーによってはExtended Panel給付対象」の注記付き。
+
+### 12-3. 「著名医師がパネル料金を受け入れず加入しない」状況は2026年でも続いているか
+
+**結論**: 構造は残っているが、「パネル外でいることのコスト」は2026年に上がった。行動変化の有無は2026年の公式統計が未公表で検証できない【分析】。
+
+**2026年10月時点の一次データ(IHH認定医、パネル対象科1,105人)**【算出】
+
+| 区分 | 人数 | 平均パネル数(6社中) | パネル0社 | 4社以上 |
+|---|---|---|---|---|
+| 独立・卒後15〜24年(推定40代) | 161 | 3.60 | 7% | 58% |
+| 独立・卒後25〜34年(推定50代) | 151 | 3.42 | 14% | 56% |
+| **独立・卒後35年超(推定60代以上)** | **128** | **2.45** | **33%** | **34%** |
+| グループ所属・卒後35年超 | 30 | 4.83 | 10% | 87% |
+
+保険者別(独立・卒後35年超): GE 27%、Singlife 35%、AIA 37%、HSBC Life 40%、Income 41%、Prudential 65%(EP表示を含む)。同じ独立医でも卒後15〜24年ではGE 59%、Prudential 93%である。
+
+**解釈**【分析】
+- 「著名医師」を年齢(卒後35年超)で近似すると、2026年時点でもシニアの独立医は3人に1人が6社のどのパネルにも入っておらず、平均パネル数は若手の7割にとどまる。グループに所属するシニア医(平均4.83社)との差が大きいことは、年齢そのものではなく「個人で申請し料金を受け入れるかどうか」が分かれ目であることを示す。
+- データからは「本人が加入を望まない」と「保険者が入れない(定員・請求パターン・料金超過での除外)」を区別できない。前者を支持する資料はSMA 2020年調査(「加入を希望しない」35〜71%)、SMA論説(2020年11月、「料金が低く縛られたくないので避けた」)、SMA会長(2023年6月、「一部保険者はベンチマーク下限に料金を固定」)であり、後者を支持する資料はMOH(2025年10月、「料金レンジを大幅に上回る医師の除外」を容認)、GEの2024年見直し(126人離脱)である【確認】。両方の機構が同時に働いていると見るのが整合的。
+- SMAのランキング調査は2022年分(2023年公表)が最後で、2024年9月に参加を呼びかけた後の公表は確認できない。MOHは2026年5月、「2019年から保険者と提供者がMOH料金ベンチマークを参照し始めた」「2019〜24年に医師の専門職報酬は請求額の約40%を占め年9%で増加、病院関連費用は60%を占め年15%で増加」と答弁しており、料金上昇の主因が医師報酬ではないことを政府が認めた形である【確認】。
+- 2026年に変わったのは環境である。(i) 4月以降の新ライダーは自己負担上限をパネル/事前承認に限定、(ii) GEのMount Elizabeth PAC停止が継続、(iii) Prudentialは施設単位、(iv) ライダー解約年約10万人と公立への流出、(v) Foundation「加入者はパネル医を受診する傾向が強い」。自費・法人・外国人患者で診療所を維持できるシニア医ほどパネル外に留まる余地があるが、その患者層自体が縮んでいる。2025年の新規加入延べ642人の大半は新規専門医(MOH)であり、シニアが加入に転じた証拠は現時点で確認できない【確認/分析】。
+
+### 12-4. 「外科医の日帰り部分は自社ASCへ、入院部分は保険者のLOGが通る病院へ」の意味
+
+**用語**【確認】: LOG(Letter of Guarantee、支払保証書)は保険者が病院に対して支払いを保証する文書で、患者は入院時に現金を預けずに済む(キャッシュレス)。GEはPAC(Pre-Authorisation Certificate、事前承認証明書)、Prudentialは電子LOG(eLOG、提携病院S$30,000・日帰り手術センターS$15,000)と呼ぶ。2026年4月以降の新ライダーでは、自己負担上限(年S$6,000)が「パネル医または事前承認の請求」にのみ適用され、免責額(私立A/プライベートS$3,500)はカバーされない。
+
+**一人の外科医の症例ミックス**【分析、数値は一次データ】: 例えばMount Elizabeth Medical Centreに診療所を持つ一般外科医(IHH認定の一般外科医は147人)の症例は、(a) 大腸内視鏡・ヘルニア・痔・乳腺良性腫瘍など**日帰りで完結する手技**と、(b) 大腸切除・胃切除・肝胆膵手術など**入院を要する手術**に分かれる。整形外科(144人)なら(a)関節鏡・手の手術、(b)人工関節・脊椎固定、泌尿器(43人)なら(a)膀胱鏡・結石砕石、(b)前立腺全摘、である。従来はこの両方をMount Elizabethの手術室・内視鏡室・病床で行い、IHHは施設料(MOH答弁では民間病院請求額の約60%が施設・病棟・薬剤・インプラント等の病院関連費用)を両方から得ていた。
+
+**何が起きるか**【確認→分析】
+
+| 症例 | 患者の保険 | 従来の行き先 | 現在の行き先 | 根拠 |
+|---|---|---|---|---|
+| (a) 日帰り手技 | 全保険者 | Mount Elizabethの日帰り手術室・内視鏡室 | 医師(のグループ)が持分を持つASC: FAC Novena/Orchard(Foundation)、HMI Medical Centre、Novena Surgery等。PrudentialのPPCはこれらを日帰り手術センターとして提携し、eLOG S$15,000と自己負担上限が適用される | Foundation「医療センターを増やし第三者施設の施設料を取り込む」「報酬は自社医療センター利用を促す設計」、Prudential PPC施設一覧 |
+| (b) 入院手術 | GE加入者 | Mount Elizabeth | Mount Alvernia・Farrer Park・Thomson等、PACが発行される病院。Mount Elizabeth 2病院では2025年6月17日以降PACが出ない | GE Health Connectページ、Foundation「GEのLOGがMount Eで出なければ他院に入院させる」 |
+| (b) 入院手術 | Prudential加入者 | Mount Elizabeth | Mount Alvernia・Raffles・Thomson(PPC提携病院)。IHH病院では非パネル扱いになり自己負担上限・eLOGが使えない | Prudential PPC FAQ |
+| (b) 入院手術 | AIA・Income・HSBC Life・Singlife加入者 | Mount Elizabeth | 医師単位のパネルなので病院は問われず、Mount Elizabethに残り得る。ただし定額パッケージ・事前承認の通りやすさで施設が選ばれる | LIA比較表、MOH IP比較表 |
+
+**なぜ「同じ外科医」なのか**【分析】: 眼科医や皮膚科医はもともと病床をほとんど使わないため、彼らがASCへ移ってもIHHが失うのは外来手術の施設料だけである。これに対し一般外科・整形・泌尿器の外科医は、日帰り手技と入院手術の両方を持つ。その医師が(a)をグループのASCへ移し、(b)を保険者の都合で他院へ振り向ければ、IHHは**手術室・内視鏡室の稼働と病床の稼働を同時に失う**。一方で医師の診療所はMEMCに残り(診療所の93%がIHHキャンパス内)、医師の手技料はMOHベンチマーク連動で施設によらないため、医師の側には移す不利益がほとんどない。これを可能にしているのが「1つの外来クリニック+複数病院の入院権限」という標準形で、IHH認定医の33%は2病院以上のIHH認定、15%は診療所のないIHH病院の入院権限、19%はThomsonの名簿にも掲載されており、Farrer Parkは外部開業医の入院権限申請を公募している【算出/確認】。
+
+**Foundationの「日帰り化は入院を減らさない」との関係**【分析】: 医師から見れば、日帰りか入院かは臨床で決まるので日帰りの拡大は入院件数を減らさない(Foundation最高商務責任者の説明は医師側では正しい)。しかしIHHから見れば、同じ医師の日帰り部分がFACへ、入院部分がLOGの通る病院へ移るという二重の流出であり、Foundation自身が「保険者がLOGを特定病院に限定しても当社には重要な影響がない」と述べているのはこの構造を指す。したがってIHHの対応は、(a)を自社ASC(Royal Square型、医師持分付き)で受け止め、(b)をGEのPAC再開とPrudentialのHI-led参加で取り戻す、という2本立てになる(ihh-sg-inpatient-loyalty-asc-payor-strategy.md 層A・層B)。
+
+### 12-5. がん診療の手術・薬物治療の収益をIHHが取り込むには
+
+**がんの収益がどこで発生し、現在IHH SGで誰が取っているか**【確認/分析】
+
+| 収益源 | 発生場所 | IHH SGでの現状 |
+|---|---|---|
+| 腫瘍内科の診察・外来化学療法・免疫療法・標的療法(薬剤費+点滴施設料) | 外来(デイ・オンコロジー)。CDL(がん薬剤リスト)でMediShield Lifeは2022年9月、IPは2023年4月から薬剤ごとの請求上限が設定 | **Parkway Cancer Centre(PCC)**はParkway Hospitals Singaporeの一部門で、施設・薬剤の収入はIHH側に立ち、運営するTalkMed(2025年9月からTamarind傘下)にはPCCの収入・利益に連動するコンサルタンシー・フィーを支払う(TalkMed売上の約9割)。**Icon**(Mount Elizabeth・Gleneagles・Novenaの医療センター内7センター、常勤13人)、**OncoCare**(Tamarind)、**Curie**は自前のクリニックで外来治療を行い、薬剤・点滴の収入はIHHを経由しない。IconはPrudentialの「外来腫瘍センター」としてキャッシュレス治療(2024年11月) |
+| 放射線治療 | 遮蔽室・リニアックが必要で病院キャンパス内が基本。民間の放射線腫瘍医は22人、IHH認定は9人 | PCC(Mount Elizabeth・Gleneagles)の放射線治療はIHH施設。IconはMount Alverniaに放射線治療つき統合センターを建設・運営。AAROはAdam Roadに自前施設 |
+| 外科腫瘍(大腸・乳腺・肝胆膵・婦人科)+入院 | 病院 | 独立外科医と、Foundation(Colorectal Clinic Associates、PanAsia Surgery等)、Tamarind(Solis乳腺、外科医7人)の所属医。入院部分は12-4の構造でLOGの通る病院へ移り得る |
+| 画像・PET・病理・ゲノム | 病院・画像センター | Parkway Radiology、Parkway Laboratory、Angsana Molecular(IHH系)。Foundation Imaging、RadLink(Fullerton)、HK画像(Tamarind)が競合 |
+| 治験・細胞治療 | — | TalkMedの細胞・遺伝子治療(CellVec・BioCell)、Curie Research |
+
+**CDLの影響**【確認】: TalkMedは2024年度に売上▲6.7%で、独立財務アドバイザーは主因を「CDL導入に伴う自己負担増で国内患者が減少」と説明した。がんの薬物治療は保険者の給付上限が薬剤単位で固定されるため、単価ではなく「症例をエコシステム内に留める」ことでしか収益を守れない領域である【分析】。
+
+**取り込みの打ち手(既存レポートの推奨を統合)**【分析】
+
+1. **PCC契約の精査と再設計(最優先)**: TalkMedとのConsultancy Restatement Agreement(2013年締結、2016年に2021年まで更新、以後の期限・専属条項・支配権変更条項は非公開)の現行条件を確認し、Tamarindによる支配権変更がIHH側の解約・再交渉権を生じていないかを確かめる。PCCの薬剤・点滴・放射線治療の収入が病院部門に残る構造を維持し、TalkMed(Tamarind)がOncoCare網へ症例を移す動機を契約で抑える。創業医が65〜69歳であるため、PCC医師団の後継(非創業医9人)の確保条項を更改に組み込む(ihh-sg-growth-strategy.md §A3)。
+2. **館内第二アンカー(Icon)の資本化**: 既に館内3拠点とマレーシアのIHH病院2院(Island・Prince Court)でパートナーであるIconと、施設内JV→SG/ASEANカーブアウト共同保有(三井過半・IHH少数+施設契約)へ段階的に進む。放射線治療と調剤コンパウンディング(Slade/Epic、年100万件超の輸液)を内製化し、Prudentialの外来腫瘍ネットワークを経済圏に取り込む。EQT取得倍率16.5倍の追認とTLB承継は避け、Farrer Park・Mount Alverniaとの既存契約維持を条件にする(parkwayshenton-divestment-strategy.md §6①、§9-3)。
+3. **IHH保有のデイ・オンコロジー(ACC)**: 外来化学療法・免疫療法・標的療法を、Royal Square型のACCに「腫瘍内科医の持分30〜49%付き施設SPC」として置き、6保険者すべてのパネル(Prudentialは「外来腫瘍センター」区分、eLOG S$15,000)に接続する。CDL上限内で完結する定額サイクル価格を保険者に提示し、院内薬局・無菌調製を自前で持って薬剤マージンを施設側に残す。病院本館に外来化学療法を抱え込む配置は保険者の誘導に逆らう(ihh-mitsui-specialist-network-acquisition.md §5.2)。
+4. **病院キャンパスは放射線治療・入院化学療法・複雑手術・合併症管理に集中**: 放射線治療は資本集約的(リニアック約US$4百万超、施設約US$6百万超)で民間の放射線腫瘍医も22人しかいないため、IHHが装置を保有し、PCC・Icon・OncoCare・Curieのいずれの医師にも同一条件で開放する「中立施設」として運営するのが場所貸しモデルと整合する。
+5. **外科腫瘍の入口を握る**: 大腸がん(国内最多、検診受診率44.9%)は内視鏡→ポリープ切除→大腸切除→化学療法の連鎖であり、Royal Squareの内視鏡室とgutCARE/HC Surgical型JVがその起点になる。乳腺は画像(マンモグラフィ・MRI)→乳腺外科→化学療法で、Solis(Tamarind)が乳腺外科を押さえているため、IHH側は画像・病理・MDTを握る。キャンサーボード(MDT)と腫瘍登録をIHHが主催し、全テナントの腫瘍医に同一条件で開く。
+6. **保険者商品**: がんのエピソード定額(化学療法1サイクル、放射線治療1コース、大腸切除1件)を主要保険者に提示し、GEのPAC再開・PrudentialのHI-led参加の交渉材料にする。IHHは2026年7月に循環器で構造化パッケージを先行させており、同型をがんへ広げる。
+7. **国際患者と高難度**: 中東情勢で医療ツーリストが減る中、がんはインドの大手病院で収入の17〜25%を占める入院アンカーであり、IconのマレーシアJVが示す通り越境の受け皿になる。細胞治療・治験(TalkMedのCellVec/BioCell、Curie Research型)は腫瘍医を引き付ける非金銭的価値でもある。
+
+**制約**【確認/分析】: SMC倫理規程により紹介連動の対価は不可で、取り込みは施設持分・パネル接続・定額商品・MDT等の役務で設計する。民間がん市場はTamarindとIconの複占に近く、IHHによる一角取得はCCCS審査の対象になる。館内にPCC・Icon・OncoCare・Curieが併存する以上、特定グループへの優遇は他グループの症例を他院へ移す。CDLは単価上昇を封じるため、評価指標は症例のグループ内完結率(診断→治療→入院)に置く。
+
+### 12-6. 補遺の出典
+
+- (A) [MOH「Data on Private Hospital Bill Increases That Can Be Attributed to Doctors' Professional Fees Rather Than Facility Fees」国会答弁、2026年5月6日](https://www.moh.gov.sg/newsroom/data-on-private-hospital-bill-increases-that-can-be-attributed-to-doctors--professional-fees-rather-than-facility-fees/) — パネル導入2016年、ベンチマーク参照2019年、2024年に大半が600人以上、請求額年+13%、医師報酬40%・年+9%、病院関連60%・年+15%
+- (A) [MOH「About Integrated Shield Plans」パネル統計(2026年4月30日更新)](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/about-integrated-shield-plans/)
+- (A) [SMA News President's Forum「Implementation of IP Panels: Has It Improved?」2023年6月](https://www.sma.org.sg/UploadedImg/1689740650_2023JunPF.pdf)、[SMA「Panel Doctors: Perspectives from a Specialist」2020年11月](https://www.sma.org.sg/news/year/month/panel-doctors-perspectives-from-a-specialist)、[SMA立場表明2021年3月25日](https://www.sma.org.sg/UploadedImg/PositionAdvisories/14052021_11345_PM_SMA%20Council%20-%20Position%20Statement%20on%20Integrated%20Shield%20Plans.pdf)、[SMA専門医調査2021年4月](https://www.sma.org.sg/UploadedImg/1621775810_2021AprSurvey.pdf)、[SMA「SMA Surveys: A Call to Participate」2024年9月](https://www.sma.org.sg/news/2024/September/SMA-Surveys--A-Call-to-Participate)
+- (A) [MOH「Ongoing Efforts to Ensure Patients' Interest in Healthcare」2021年5月10日](https://www.moh.gov.sg/newsroom/ongoing-efforts-to-ensure-patients-interest-in-healthcare/)、[MOH「New Clinical Claims Resolution Process…」2021年11月9日](https://www.moh.gov.sg/newsroom/new-clinical-claims-resolution-process-established-to-resolve-ip-claim-disputes/)、[AsiaOne 2021年5月15日](https://www.asiaone.com/lifestyle/panel-vs-non-panel-doctors-whats-difference-and-which-specialist-should-you-see)、[Asia Advisers Network 2022年7月11日](https://www.asiaadvisersnetwork.com/Article?aid=80989)
+- (A) [SMC Annual Report 2025](https://file.go.gov.sg/smc-annual-report-2025.pdf)、[Mount Elizabeth「IHH in Numbers」](https://www.mountelizabeth.com.sg/aoe/)、[IHH Healthcare Singapore](https://www.ihhhealthcare.com/our-reach/singapore)、本リポジトリ `data/` 一次データ(2026年10月8日取得)
+- (A) [TalkMed Composite Document 2025年6月30日](https://links.sgx.com/1.0.0/corporate-announcements/55PEO68YLXWC6SCL/850256_TalkMed%20-%20Composite%20Document.pdf)(PCC=Parkway Hospitals Singaporeの一部門、収入・利益連動のコンサルタンシー・フィー、CDLで売上▲6.7%)、[Prudential PRUPanel Connect施設一覧](https://www.prudential.com.sg/ppc)、[Prudential×Icon 2024年11月14日](https://www.prudentialplc.com/en/newsroom/company-news/2024/prudential-expands-preferred-healthcare-network-in-partnership-with-icon-cancer-centre/)、[MOH Cancer Drug List](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medishield-life/cancer-drug-list/)、[Foundation Healthcare 1H2026決算説明会スクリプト](https://links.sgx.com/1.0.0/corporate-announcements/W24OZ7ZOF8FK4CPV/901088_FHH%201H26%20Earnings%20Call%20Script.pdf)
+- (B) [MEMC「Parkway Cancer Centre」診療所一覧(化学療法・放射線治療・血液・乳腺)](https://www.memc.com.sg/clinic/parkway-cancer-centre/)、[Parkway Cancer Centre「Hospitals & Facilities」](https://www.parkwaycancercentre.com/sg/about-us/hospitals-facilities)(本環境からは403で取得不可、姉妹文書の要旨による)
