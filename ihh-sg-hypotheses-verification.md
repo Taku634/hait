@@ -622,3 +622,132 @@
 **未確認事項**: GEとの協議状況、PrudentialのHI-led参加条件、PCC契約条項、Thomson・Icon・Tamarind・HMIの売却意思と時期、IHH病院内でのAVA利用、三井の投資委員会の方針。
 
 出典: 本書⑤〜⑮の各節、ihh-sg-inpatient-loyalty-asc-payor-strategy.md §7〜§8、ihh-mitsui-specialist-network-acquisition.md §3〜§5、ihh-sg-growth-strategy.md §A8・§A9、bor-decline-countermeasures.md §5。Thomsonの持分(約89%)と病床数(187床)・私立病院の病床集計は検索エンジン経由(B): [The Edge Singapore(Peter Lim氏の持分)](https://www.theedgesingapore.com/capital/insider-moves/peter-lim-raises-stake-thomson-medical-res-boss-tatara-buys-more-shares)、[Wikipedia「List of hospitals in Singapore」](https://en.wikipedia.org/wiki/List_of_hospitals_in_Singapore)、[Tatler Asia(ジョホール開発S$55億)](https://www.tatlerasia.com/people/peter-lim)、Thomson FY2025決算(sg-specialist-group-typology.md 出典)。
+
+---
+
+## ⑰ 補遺6(2026年10月19日): 支払者対応・TPA・データ基盤、Icon全体取得、B2・M1の再評価
+
+### 17-1. 中立的な支払者対応・TPA・データ基盤への投資(三井物産)
+
+**(1) 現在のプレイヤー地図**【確認】
+
+| 基盤 | 所有者 | 規模・機能 | 保険者との接続 | 中立性 |
+|---|---|---|---|---|
+| **iXchange** | IHH(Parkway Holdings直下の兄弟会社) | 法人顧客2,000社超、パネル1,500クリニック、IHH認定専門医500〜700人超のネットワーク管理、資格確認・事前承認・請求・モニタリング。管理プログラムの平均請求額上昇率を7〜10%→「極めて低い一桁%」へ抑制(2026年7月) | AIA・GE・Income・Singlifeと提携。**SinglifeのIP専門医パネル申請窓口はixchange.com.sgドメイン**(LIA比較表2025年版)で、Singlifeのパネル管理を担う。Singlife CareCollab(事前承認なしの直接アクセス) | 病院保有(IHH) |
+| **Fullerton Health** | RRJ Capital・Far East Drug(過半)+**三菱商事**(2025年8月、少数) | 約550クリニック、1.8万プロバイダー網、450万カバーライフ、RadLink(画像)、The ENT Clinic(2026年1月) | **HSBC LifeのIPパネルはFullertonが窓口となり共同で選定**(LIA比較表)。法人TPA | 自社クリニック網を持つ提供者 |
+| **MHC Asia** | HMI(2023年取得) | 法人会員80万人、パネル1,500クリニック | 法人TPA | 病院・ASC・GPを持つ競合プラットフォーム |
+| **AVA** | Foundation Healthcare | 「全私立・公立病院に導入済み」と同社主張。保険者が電子契約を結ぶと医師を自動的にパネルへ追加(GEと2024年提携)、事前承認、予約、病院入院モジュール(地域の私立病院運営者とUAT完了)。サブスクリプション・従量・成果連動での外販を計画 | GEとの戦略提携、「6社中3社と直接取り決め」 | 国内最大の専門医グループが保有 |
+| **Doctor Anywhere / Adept Health** | 独立(株主にIHH、Novo Holdings、EDBI) | GEのパネル申請窓口ドメイン(2025年版はDoctor Anywhere、2022〜24年版はAdept Health) | GE | IHHが少数株主 |
+| **Prudential PRUPanel Connect** | Prudential自社 | 医療機関主導(HI-led)。請求は提携機関の事務所からe-file。指定クリニック(HC Surgical、Icon等)のみ例外 | 自社 | 保険者内製 |
+| AIA・Income | 自社 | 社内Provider Engagement、Incomeは「医療機関との戦略的提携」「臨床アウトカムの提出」を評価 | 自社 | 保険者内製 |
+
+**読み取り**【分析】: 専門医の支払者接続を担う基盤は、保険者の内製(Prudential・AIA・Income)を除くと、すべて**医療提供者グループ**(IHH、Far East Drug/Fullerton、HMI、Foundation)が保有している。保険者から見れば、各基盤は所有者の施設へ誘導する動機を持つ。Prudentialが医療機関単位で提携し、Singlifeが2023年にTPAを変更した際に78人の専門医がパネルを離脱した事実は、保険者が「誰の基盤に乗るか」を戦略的に選び、切り替えには医師の入替コストが伴うことを示す。**提供者から独立した基盤は市場に存在しない**。
+
+**(2) 基盤が担う機能(8つ)と、法的な線引き**【確認/分析】
+
+| 機能 | 内容 | 制約 |
+|---|---|---|
+| ① 加入経路 | 保険者別(Prudential=施設単位の推薦、HSBC Life=Fullerton、Singlife=iXchange、GE=Doctor Anywhere、AIA・Income=社内)の申請・資格書類・請求パターン整備・待機リスト対応 | 料金は保険者が設定し医師が個別に受諾。**料金の推奨・共同交渉はしない**(CCCSの2010年SMA料金ガイドライン決定、第34条) |
+| ② 資格・信用情報 | SMC登録・専門医認定・懲戒歴・賠償保険・入院権限の一元管理 | PDPA |
+| ③ e-filing・請求 | CPF e-file設備(HSBC Life・Singlifeの加入要件)、請求代行、支払追跡 | HCSA下でTPA手数料は患者の明細に**独立項目**として表示(MOH 2021年5月) |
+| ④ 事前承認・LOG | 各社フォームの標準化、提出・追跡 | — |
+| ⑤ 定額パッケージ運用 | 施設+医師+薬剤の束ねた価格の登録・請求 | 施設側が契約主体、医師は公表料金で個別参加 |
+| ⑥ 成果データ | PROM/PREM、合併症、再入院(Incomeは臨床アウトカムを評価、Foundationは2027年から収集) | **Health Information法(2027年初施行予定)はNEHRデータの保険目的の利用を禁止**。請求・成果データはNEHRとは別経路で、患者同意に基づき収集する |
+| ⑦ 患者ナビゲーション | パネル別ディレクトリ、費用案内、予約 | HCSA広告規則(割引・特典の表示禁止) |
+| ⑧ 法人・国際PMI | 法人給付管理、国際私的医療保険との接続 | — |
+
+**料金の取り方**: 医師から徴収する対価は**固定の事務手数料**に限る。SMC倫理規程H3は、医師がTPA・保険者・紹介サービスへ支払う手数料を「実際の事務作業に見合う額」に限定し、医師の報酬比例を禁じた(2017年7月までに既存契約を解消)。保険者・法人からは加入者当たり・請求当たりの固定料金を取る。TPAはMOHの免許対象外(「直接の患者ケアを伴わない」、2021年5月)で参入障壁は低いが、SMAは2023年にTPAの手数料・解約条項・支払遅延への不満を公表しており、評判が参入条件になる【確認】。
+
+**(3) なぜ(a)(c)に効き、IHHの中立性問題を避けられるか**【分析】
+- (a) 給付条件: 独立医の「1社以上」在籍率は80%(グループ医95%)、6社全ては9%(同43%)で、差の大半は申請経路と請求実績の整備で埋まる。基盤が加入経路を開けば、IHH認定医の独立医989人の集患力が上がり、IHHの施設に来る保険患者が増える。
+- (c) グループの優位の削減: グループが医師に与える8つのメリット(⑧節)のうち第1位の「支払者接続」を、グループに入らずに得られるようにする。Foundationの訴求は「保険者3社と直接取り決め、所属医の加入経路が簡素化」であり、同じ機能を中立基盤が提供すれば、診療法人の60%を手放す必要がなくなる。
+- 中立性: IHHがiXchangeを自ら拡張すると「病院が自院へ誘導する基盤」と見られ、Prudentialの機関主導モデルやGEのPAC停止のような保険者の警戒を解きにくい。**病院でも専門医グループでもない株主**が持ち、独立した取締役会と医師評議会、保険者の参加で統治すれば、IHHの施設は「多数の参加施設の一つ」として乗れる。ただし三井はIHHの筆頭株主(32.8%)であり完全中立とは見なされないため、保険者または政府系(Temasek系)の共同出資が中立性の担保になる。
+- 三井の表明との整合: 三井のCEOは「病院だけでなく、保険会社・製薬会社とのデータを使った新事業を作りたい」と述べたと報じられている(The Edge Malaysia、日付は要確認〔B〕)。三菱商事(Fullerton)、双日(Royal Healthcare)に続く商社の医療参入の中で、三井だけが支払者側の基盤を持っていない。
+
+**(4) 経済性と実現可能性**【確認→分析】
+- 単体の収益性は薄い。Fullertonは550クリニック・450万カバーライフで約US$10億(2021年、EBITDA約9倍、COVID検査で嵩上げ)、Medinexの支援サービスは利益率7割超でも売上S$13百万で横ばい、AVAは外販収入をまだ計上していない。価値は収益ではなく、**症例の行き先データ、定額商品の原価、パネル加入の入口**という戦略資産にある。
+- iXchangeの独立化はIHHの取締役会決議(関連当事者取引)を要し、IHHが支払者接点の支配を手放すかは不確実。現実的な形は、IHHがiXchangeを現物出資して少数株主となり、三井が過半、保険者または政府系が参加する新会社。
+- 競争: AVAは既に病院内に導入済みと主張し、Foundationは上場資金を持つ。Fullertonは三菱商事の資本を得た。保険者は既存TPAからの切替に消極的(Singlifeの前例)。窓は狭く、Singlife(iXchange)とGE(Doctor Anywhere=IHH出資先)の2社を起点に、HIA施行(2027年初)前の12〜24か月が勝負になる。
+- 判定: **合理性○、実現可能性△**。IHH単独で行うより三井主導の方が保険者に受け入れられやすいが、AVAとの先行差と保険者の切替コストが障壁。
+- リスク: MHICのパネル作業部会(2025年10月設置)が加入手続きの標準化を進めれば基盤の価値が下がる。基盤が「料金の収斂点」を作ると見られればCCCSの対象。NEHRデータの保険目的利用の禁止を破れば制裁。
+
+### 17-2. Icon Groupの全体取得+SG/ASEANのIHHとのJV(三井物産)
+
+**(1) Iconの現状**【確認(A/B)】
+- 豪州最大の統合がん医療事業者。放射線治療・腫瘍内科(デイ化学療法)・血液内科に、調剤・無菌調製(Slade/Epic: 薬局74〜75拠点、年100万件超の輸液調製)を垂直統合。豪州34センター超(2026年にSt John of God Subiaco〔パース〕へ放射線治療を開設予定)、NZ、英国(St John & St Elizabeth病院と2027年開院のがんセンター、2026年8月に英国3センター追加を発表)、シンガポール7センター(常勤医13人+客員約85人)、マレーシア(SunsuriaとのJVでIHH傘下Island Hospital・Prince Court内)。香港資産は2024年10月にTemplewater(Tamarind)へ売却。Greater China事業のカーブアウト売却プロセス(AIAがショートリスト)は既存レポートで確認したが、完了は未確認。2026年10月12日に供給業者経由の患者データ侵害を公表。
+- 資本: EQT Infrastructure Vが2021年11月に取得(A$23億、直近12カ月利益の16.5倍、EQT 70%・Goldman Sachs 17%・経営陣と医師13%)。豪州初のA$10億超のコベナントライト・タームローンBで調達。2026年10月時点で売却・借換えの公開情報はない。EQTの保有は5年目。
+- SG: Prudentialの優先ネットワーク(外来腫瘍センター9クリニック、キャッシュレス、2024年11月)、Mount Alverniaに放射線治療・PET-CT・薬局を備えた統合センターを建設・運営、Mount Elizabeth・Gleneagles・Novenaの医療センター内に拠点。IHH認定医10人は全員6社のパネルに在籍(平均6.00社)。
+
+**(2) GenesisCareの教訓**【確認】: KKR系のGenesisCare(豪)は2020年に米21st Century Oncologyを買収、負債約US$17億を抱えて2023年6月に米連邦破産法第11章を申請し、2024年2月に4事業へ分割して再建した。放射線治療は装置(リニアック約US$4百万超)・遮蔽施設(約US$6百万超)の資本集約と償還改定リスクを持ち、**レバレッジと過大払いで死ぬ業態**である。三井がIconを取得する場合、(i) 16.5倍を追認しない(償還感応度を織り込んだ正常化EBITDAで値付け)、(ii) TLBを承継せず三井の信用で借り換えて一部を返済する、(iii) 経営陣・医師の持分(13%)を残しベスティングを付ける、が規律になる。
+
+**(3) 構造(3層)**【分析、ihh-sg-growth-strategy.md §A8の構造1を具体化】
+
+| 層 | 内容 | 三井の役割 | IHHの役割 |
+|---|---|---|---|
+| 第1層: グループ取得 | EQT 70%+GS 17%を取得、経営陣・医師は再投資。豪州・NZ・英国は三井の単独保有 | 器(持株会社)と資本。運営はIcon経営陣に委ね、三井は取締役会・資本配分・コンプライアンス(データ侵害対応を含む) | 関与なし(豪州の放射線治療事業を病院会社が抱える合理性はない) |
+| 第2層: SG/ASEANのJV | Icon SG・マレーシアJV・(ベトナム等)を三井過半・IHH少数(30〜49%)のJVに切り出す。条件: Farrer Park・Mount Alvernia等の非IHH施設との契約維持、IHH施設(放射線治療・カテ室・ICU)の同一条件での開放、医師持分の残置 | 過半株主として「IHHの子会社ではない」外形を維持 | 施設・薬局・画像・国際患者チャネルを提供し、少数持分と施設契約で経済を取り込む。館内でPCC(Tamarind)に対する第二アンカーを得る |
+| 第3層: IHH網への展開 | マレーシア(IHHの病院群。Island・Prince Courtでは稼働済)、インド(Fortis・Gleneagles Indiaのがん需要。Iconは未進出)、香港(Gleneagles HK。Iconは香港資産を売却済みのため再参入の可否は要確認) | 地域展開の資本 | 病院キャンパスと患者基盤 |
+
+**(4) 三井がIHH単独取得より優れる点**【分析】
+- 中立性: 病院が買えばIconの多病院モデル(Farrer Park旗艦、Mount Alvernia)が崩れ、館内の他腫瘍医(PCC、OncoCare、Curie)が離反する。三井保有なら「IHHの親密株主」にとどまり、既存契約を維持しやすい。
+- 競争法: 民間がん市場はTamarindとIconの複占に近く、病院最大手による取得はCCCSの精査対象。三井過半・IHH少数の方が審査は軽い(Tamarind/TalkMedの承認理由は「保険者の役割」)。
+- B/S: IHHはFY26設備投資をRM35億→約25億へ削減中で、A$20億超の案件を抱えにくい。三井は2018年にIHH株16%をRM84億で取得した実績があり、規模は既往の範囲内。
+- 分散: 豪州・英国の収益はSGの保険者圧縮と無関係で、SGの戦略的便益(第二アンカー、Prudentialの外来腫瘍経路、調剤コンパウンディングの内製化)を「大きな取引の一部」として得られる。
+- 三井の表明(製薬会社とのデータ新事業)との整合: Iconの薬局・無菌調製・治験(Icon Research)は製薬との接点を持つ【分析、三井の意向は未確認】。
+
+**(5) 弱点と代替案**【分析】
+- 三井にはがん医療の運営能力がなく、Icon経営陣への依存が前提。豪州Medicareの償還改定、装置更新、為替、データ侵害の後処理がリスク。
+- EQTが「SGを別に切り出す買い手」を好むとは限らず、IPOや同業への一括売却と競合する。Icon SG(常勤13人)はグループ価値の小さな部分で、SGの便益だけでは大型チェックを正当化できない。
+- 館内の第二アンカー化は、PCC契約(TalkMed/Tamarind)の期限・専属条項・支配権変更条項の精査が先決。
+- 代替: (a) EQTの継続ファンドへの少数共同出資+SG/ASEANのJV権、(b) SG/ASEANのカーブアウトのみの取得(EQTが応じるかは不確実)、(c) 出資なしの施設内JV(Sunsuria型)。既存レポートは(c)→(b)の段階戦略を推奨しており、全体取得は「EQTが出口を求め、価格規律が守れる場合」に限る。
+- 判定: **合理性○(条件付き)、実現可能性△(EQTの出口時期と価格次第)**。
+
+### 17-3. B2の再評価: 目的が「診療科mixをより入院依存の科へ変えること」である場合
+
+**目的の妥当性**【分析】: 病院の収益は病床・手術室・ICUの稼働で決まるため、「入院を生む医師の比重を上げる」目的自体は正しい。ただし達成すべきは**入院件数と症例の重症度(ALOS・ケースミックス)**であり、医師の科別構成比はその手段にすぎない。
+
+**現状**【算出】: IHH認定医1,295人の構成は、入院依存度「高」(一般外科・整形・産婦人科・循環器・腫瘍内科・泌尿器・脳外科等)666人=51%、「中」104人=8%、「低」(眼科・消化器・ENT・皮膚科等)443人=34%、随伴(麻酔・画像)82人=6%。医師の頭数では既に入院依存科が過半であり、問題は構成比ではなく**入院依存科の医師1人当たりの入院件数がIHHの外へ出ていること**である(54%がMount Elizabethにしか認定を持たず、GE・Prudentialの誘導を直接受ける)。
+
+**「低依存科の外出し」が目的に効かない理由**【確認/分析】
+1. 算術: 低依存科の医師を外に出しても入院件数は増えない。構成比は上がるが病床は埋まらない。
+2. 所有: 診療所の93%はIHHキャンパス内の分譲・賃貸スイートにあり、分譲ユニット(MEMC 232戸、Novena 250戸超)は医師の所有物で、IHHは移転を強制できない。IHHが持つ手段は入院権限の付与、Annexe・病院保有区画の賃貸、手術枠の配分だけである。
+3. 収益: 低依存科の日帰り手技はIHHの手術室・内視鏡室で施設料を生んでおり、消化器内視鏡は大腸外科・腫瘍内科の入口である。IHH経済圏の外へ出せば施設料と入口を同時に失う。
+4. 供給: 入院依存科の医師を「増やす」余地は小さい(IHHは外科系民間専門医の72〜96%を既に認定、民間新規専門医は年35人)。
+
+**目的に効く方法(B2の修正版)**【分析】
+1. **外出し先をIHH保有のASC/ACCにする**: 低依存科と外科系の日帰り部分を、医師持分付きのIHH保有ASCへ移す。施設料はIHHに残り、病院の手術室・病床は入院症例に集中できる。「外出し」が「IHH経済圏の外」を意味するなら×、「IHHの別施設」を意味するなら○。
+2. **承継で構成比を変える**: 卒後35年超の医師が26〜28%おり、今後10年で空くスイートと入院権限を、心臓外科・脊椎・肝胆膵・移植・複雑がん外科・脳神経外科の後継者(公的部門の上級コンサルタント)へ、Annexe・病院保有スイート・立上げ支援・パネル加入支援の組合せで誘導する。認定(入院権限)の新規付与で入院依存のサブスペシャリティを優先する。
+3. **入院を生む設備とサービスを先に置く**: ハイブリッド手術室・ロボット・ICU/HDU(Mount Alverniaは16室へ倍増)・ホスピタリスト・麻酔・術後管理を病院が提供し、独立外科医が入院を自院に置く負担を下げる。
+4. **入院依存科の医師のロイヤルティ**: GEのPAC再開、PrudentialのHI-led参加、入院の定額パッケージ(循環器→整形・外科・泌尿器・産科)。
+5. **高acuityの需要を外から連れてくる**: 国際患者(がん・心臓・移植)、公立の待機手術・逼迫時の受入契約。
+6. **それでも空く病床は機能転換**: ステップダウン・リハ・緩和(TCFの前例)。
+
+判定: **目的○、方法(IHH外への外出し)×、修正版(IHH内ASCへの移動+承継+設備+支払者)○**。
+
+### 17-4. M1の再評価: 三井がIHHを売却して専門医グループへ張り替える場合
+
+**規模の不一致**【確認/算出】
+- IHHの時価総額は2026年にRM739〜789億(US$188〜190億)〔B〕。三井の32.8%は約RM240〜260億(約US$55〜60億)に相当する【算出】。
+- シンガポールの専門医グループの価値は、Foundation約S$10億(上場時)、Tamarind S$14〜15億(第三者評価)、Icon A$23億(豪州・英国を含む)、HMIは非開示で、合計しても三井のIHH持分に遠く及ばない。SG市場に同規模の受け皿はなく、張替えはアジア各国の医師グループへ分散投資することになる。
+- IHHのSG事業はグループ売上の約25%(FY2024: RM61.3億/RM244億)にすぎず、FY2025のコア売上はRM262億(+18%)、2Q26はコア売上+19%・コアPATMI+30%で、成長はマレーシア・インド・トルコが牽引している。
+
+**論理の範囲**【分析】
+- 本書で確認した「プロフィットプールが医師側の低コスト施設へ移る」現象は、保険者のSteerageが制度化されたシンガポールに固有の、かつ民間入院の高単価部分に限った現象である。IHHを売ってSGの専門医グループを買うことは、**最も分散されたアジアの病院プラットフォームを、保険者の圧縮が最も強い単一市場の、最も契約依存の高い資産へ集中させる**取引になる。
+- 専門医グループの価値は、医師のロックイン契約(Foundationのモラトリアムは2027〜36年、Tamarindのベスティングは2031年)、「hospital-agnostic」の立場、保険者の嗜好に依存する。Foundationの調整後EBITDAマージンは37%→31%へ低下し有機成長は低〜中一桁%、HC Surgicalは5年横ばい、米国ではPE売却後2年の医師残留率が44%である。一方、病院の高acuity機能は代替されない。
+- 低コスト施設の優位は病院側も複製できる(Royal Square、Mount Alvernia新DSC、Thomson Woodleigh)。保険者は病院が持つASCとも組む(Prudential×Royal Square)。
+- 米国の前例: Tenetは病院を段階売却しASCプラットフォーム(USPI)へ資本を集中させた。これは「医師グループ」ではなく「医師が持分を持つ施設」への張替えであり、三井はIHHを通じて(A3・M3)同じことができる。Hirslanden(Mediclinic)は病院を保持したまま施設型資産だけを買った。
+
+**実現可能性**【確認/分析】
+- 約RM250億のブロックの買い手(Khazanah 26%、国富ファンド、PE)と、マレーシアの政策的配慮が要る。
+- 三井自身は2024年に「バリュエーションが低いので49%への引上げを検討」と報じられ、2026年にはIHHの対第一三共紛争の仲介役を求められるなど、戦略的な結び付きを深めている。低い評価で売ることは自らの判断と矛盾する。
+
+**判定**: **全面的な張替えは合理性×・実現可能性×**。意味があるのは「IHHを保持したまま、新規資本をアウト・オブ・ホスピタル(ASC JV、支払者基盤、Icon)へ振り向ける」部分的な張替えであり、それがM2・M3・追加1〜4である。IHH持分の一部売却で原資を作る変種は、影響力(取締役席、関連当事者としての共同投資の容易さ)を損なうため、49%引上げの意向とは両立しない。
+
+### 17-5. 補遺6の出典
+- (A) LIA「Insurance Panel of IP Insurers」2025年2月版(Singlife=ixchange.com.sg、HSBC Life=Fullerton、GE=Doctor Anywhere) — https://www.lia.org.sg/media/4476/insurance-panel-of-ip-insurers_application-process-requirements-and-consideration_20250225.pdf
+- (A) [MOH「Regulation of Third Party Administrators」2021年5月11日](https://www.moh.gov.sg/newsroom/regulation-of-third-party-administrators/) — TPAは免許対象外、HCSA下で明細にTPA手数料を独立表示、SMC規程の手数料規律
+- (A) [IHH「IHH Singapore Collaborates with Insurers…」2026年7月10日](https://www.ihhhealthcare.com/newsroom/care-in-action/ihh-singapore-collaborates-with-insurers-to-improve-affordability-of-private-hospital-care)、[Foundation 1H2026決算説明会](https://links.sgx.com/1.0.0/corporate-announcements/W24OZ7ZOF8FK4CPV/901088_FHH%201H26%20Earnings%20Call%20Script.pdf)、[Allen & Gledhill: Health Information Bill](https://www.allenandgledhill.com/sg/publication/articles/32164/health-information-bill-passed-to-establish-framework-for-the-safe-collection-and-sharing-of-health-information)、[CCCS 2010年決定](https://www.ccs.gov.sg/media-and-consultation/newsroom/media-releases/ccs-decides-against-singapore-medical-association-sma-guidelines-on-fees)
+- (B) [The Edge Malaysia「Mitsui sees more value in its IHH Healthcare stake」](https://theedgemalaysia.com/article/mitsui-sees-more-value-its-ihh-healthcare-stake)(保険会社・製薬会社とのデータ新事業の発言。本環境から原文取得不可、日付未確認)、[Business Today 2024年9月30日](https://www.businesstoday.com.my/2024/09/30/mitsuis-eyes-bigger-stake-in-ihh-as-valuation-remains-low/)(49%検討)、[Baker McKenzie 2016年(TPA手数料8〜25%の慣行)](https://www.bakermckenzie.com/-/media/files/locations/singapore/nl_singapore_healthcare_oct16.pdf)
+- (B) Icon: [EQTポートフォリオ](https://eqtgroup.com/about/current-portfolio/icon-group)、[Subiaco放射線治療(2025年6月)](https://icongroup.global/en/news/2025-06-19/icon-cancer-centre-radiation-therapy-subiaco/)、[St John & St Elizabeth提携(LaingBuisson)](https://www.laingbuissonnews.com/healthcare-markets-content/st-john-st-elizabeth-and-icon-agree-london-cancer-centre-partnership/)、[Austrade: Icon東南アジア](https://www.austrade.gov.au/en/news-and-analysis/news/icon-group-brings-cancer-care-closer-to-home-for-patients-in-southeast-asia)、[データ侵害(2026年10月12日、Cyber Daily)](https://www.cyberdaily.au/security/14285-exclusive-australian-patient-data-compromised-in-icon-cancer-centre-hack)、[AVCJ(2021年取引)](https://www.avcj.com/avcj/news/3025541/eqt-buys-australia-cancer-care-business-from-pe-consortium)
+- (B) IHH時価総額: [Trading Economics](https://tradingeconomics.com/ihh:mk:market-capitalization)、[iSaham](https://www.isaham.my/stock/ihh/faq)、[Companies Market Cap](https://companiesmarketcap.com/ihh-healthcare/marketcap/)。FY2025: [MedTech Spectrum(AGM、コア売上RM262億)](https://medtechspectrum.com/news/1/25611/ihh-healthcare-further-advances-transformation-journey-in-fy2025-all-resolutions-passed-at-16th-agm.html)。SG比率はIHH AR2024(RM61.3億/RM244億、healthcaremarketstructure.md)
+- 姉妹文書: ihh-sg-growth-strategy.md §A8、parkwayshenton-divestment-strategy.md §6・§9-3、sg-specialist-network-business-models.md §2、ihh-sg-inpatient-loyalty-asc-payor-strategy.md §7、bor-decline-countermeasures.md §3
