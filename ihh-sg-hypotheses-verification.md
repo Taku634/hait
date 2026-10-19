@@ -409,3 +409,91 @@
 - (A) [SMC Annual Report 2025](https://file.go.gov.sg/smc-annual-report-2025.pdf)、[Mount Elizabeth「IHH in Numbers」](https://www.mountelizabeth.com.sg/aoe/)、[IHH Healthcare Singapore](https://www.ihhhealthcare.com/our-reach/singapore)、本リポジトリ `data/` 一次データ(2026年10月8日取得)
 - (A) [TalkMed Composite Document 2025年6月30日](https://links.sgx.com/1.0.0/corporate-announcements/55PEO68YLXWC6SCL/850256_TalkMed%20-%20Composite%20Document.pdf)(PCC=Parkway Hospitals Singaporeの一部門、収入・利益連動のコンサルタンシー・フィー、CDLで売上▲6.7%)、[Prudential PRUPanel Connect施設一覧](https://www.prudential.com.sg/ppc)、[Prudential×Icon 2024年11月14日](https://www.prudentialplc.com/en/newsroom/company-news/2024/prudential-expands-preferred-healthcare-network-in-partnership-with-icon-cancer-centre/)、[MOH Cancer Drug List](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/medishield-life/cancer-drug-list/)、[Foundation Healthcare 1H2026決算説明会スクリプト](https://links.sgx.com/1.0.0/corporate-announcements/W24OZ7ZOF8FK4CPV/901088_FHH%201H26%20Earnings%20Call%20Script.pdf)
 - (B) [MEMC「Parkway Cancer Centre」診療所一覧(化学療法・放射線治療・血液・乳腺)](https://www.memc.com.sg/clinic/parkway-cancer-centre/)、[Parkway Cancer Centre「Hospitals & Facilities」](https://www.parkwaycancercentre.com/sg/about-us/hospitals-facilities)(本環境からは403で取得不可、姉妹文書の要旨による)
+
+---
+
+## ⑬ 補遺2(2026年10月19日): 「1社以上」の推移と解釈、シニア医の加入動向、IHHの競争力低下の要因、Web上で確認できない重要事項
+
+### 13-1. 1社以上のパネルに参加する専門医の割合(2016〜2026年)
+
+| 時点 | 1社以上に参加する比率 | 分母・注記 | 出典 |
+|---|---|---|---|
+| 2016年 | — | パネル導入年。「2019年にベンチマークを参照し始めるまで小規模」(MOH)。比率の公表なし | MOH 2026年5月6日答弁 |
+| 2020年9〜10月 | **公表なし**。保険者別の在籍率は12%(RHI)〜39%(Income)、「申請したが不成功・待機」10〜34%、「加入を希望しない」35〜71% | SMA調査(333人、97%が私立)。「少なくとも1社」の集計は報告書に含まれない【確認(A)】 | SMA News 2021年4月 |
+| 2021年5月 | **70%超** | MOH答弁。分母は稼働中の私立専門医と解される | MOH 2021年5月10日 |
+| 2021年11月 | **約80%** | 稼働中の私立専門医1,235人が分母 | MOH 2021年11月9日 |
+| 2022年4月〜 | Extended Panel導入で「主パネル外でも給付維持」の迂回路が追加 | 「1社以上」の公表なし | Asia Advisers Network 2022年7月 |
+| 2023〜2025年 | **公表なし**(MOHは保険者別の人数のみ公表) | 各社27〜39%(2025年、2,426人分母) | MOH IPパネル統計 |
+| 2026年10月 | **約84%**(IHH認定医、パネル対象科1,106人)。独立医80%、グループ医95% | IHH 4病院ディレクトリの表示(6社、RHI除く、PrudentialはEP表示を含む)。IHH認定医のみ | 本リポジトリ一次データ【算出】 |
+
+**読み取り**【分析】: 「1社以上」は2021年に7〜8割へ達した後は横ばいで、2026年のIHH認定医でも同水準である。10年で起きた変化は「1社以上」の比率ではなく、(i) 各社パネルの比率が約20%から27〜39%へ上がったこと、(ii) 2026年4月からパネル外・事前承認外の請求に自己負担上限が効かなくなったこと、(iii) Prudential・GEが「施設」を条件に加えたこと、である。MOHは2021年以降「1社以上」を公表しておらず、全国値の時系列は存在しない【未検証】。
+
+**ご提示の解釈(「病院にクリニックを構えることが集患の要だったが、パネル医であることが前提に加わった」)の検証**【分析】
+- **「加わった」(置き換えではない)は妥当である。** 立地が依然重要であることは、診療所の93%がIHHキャンパス内にあること、Foundation所属医もMEMCに診療所を残すこと、Novena・Gleneaglesの分譲スイートが高値で取引されていること(売り出し例でS$8〜11百万)で裏付けられる【確認】。パネルが前提に加わったことは、2020年時点で53%の専門医が「患者の4分の1超をパネル外で失った」こと、MOHの「私立の請求の80〜90%はパネル提供者由来」、Foundation「加入者はパネル医を受診する傾向が強い」、IHH自身の「Find a Doctor」が各医師のパネル所属を患者向けに表示していることで裏付けられる【確認】。
+- **ただし「立地」の意味が変わった。** 従来の立地は「患者が来る病院の隣にいること」だったが、Prudential(医師×施設)やGE(PAC・Prime系)の下では「保険者が給付を認める施設で手術できること」へ変わった。Foundationが「hospital-agnostic」を強みと呼ぶのは、立地を1病院に固定しないことが集患の条件になったためである【確認/分析】。
+- **効果は2026〜2028年に段階的に強まる。** 新ライダーの条件は2026年4月以降の新規契約に適用され、既存契約は2028年4月以降の更新で移行するため、「パネル医であることが前提」になる患者の比率はこれから上がる【確認】。
+- **留意点**: SMAの2020年調査でも「加入を希望しない」医師が35〜71%いた。パネルが前提になるのはIP加入者(居住者の約7割)の市場であり、自費・法人・外国人患者を主とする医師にはこの前提が効きにくい【分析】。
+
+### 13-2. シニアの専門医でパネルに参加する医師は増えているか
+
+**結論: 公開情報では判定できない。** 年齢・経験年数別のパネル参加率の時系列は、MOH・LIA・SMAのいずれも公表していない【未検証】。確認できるのは次の3点である。
+1. MOHは2023〜2025年のパネル拡大を「主に新規専門医の加入による」と説明している。2025年の新規加入延べ642人にはThomson(約100人)・Raffles(90人超)の機関単位の一括加入が含まれ、そこにはシニア医も含まれ得るが、内訳は非公開【確認/分析】。
+2. 2026年10月の断面データ(IHH認定医)では、独立医の平均パネル数は卒後15〜24年3.60社、25〜34年3.42社、35年超2.45社で、パネル0社の比率は7%、14%、33%と年齢とともに上がる。グループ所属のシニア医(4.83社、0社は10%)との差は大きい【算出】。これは「年齢効果」(加入したくない・待機中に引退が近づく)と「コホート効果」(パネル制度が定着した後に開業した世代ほど初めから加入する)のどちらでも説明でき、断面データでは区別できない【分析】。
+3. SMAの2020年調査報告は年齢・経験年数別の内訳を載せていない。2021年分・2022年分のランキング調査も回答者属性は「専門医か」「私立か」のみである【確認(A)】。
+
+**検証の方法**【分析】: 本リポジトリの収集手順で2027年以降にIHHディレクトリを再取得し、同一医師のパネル表示の変化を追えば、シニア医の加入・離脱を直接観察できる。保険者・TPAが持つ申請者の登録年別データ、SMAによる年齢別の追加調査も代替手段になる。
+
+### 13-3. なぜIHH SGは競争力を失い、プロフィットプールが医師側へ移っているのか
+
+**前提の整理**【確認】: シンガポールの私立入院1件の請求額は、医師の専門職報酬(手術・麻酔・入院診察)が約40%、病院関連費用(施設・病棟・薬剤・インプラント)が約60%で、2019〜24年に前者は年9%、後者は年15%で増えた(MOH 2026年5月)。IHH SGの入院単価はFY2023 RM54,994→FY2024 RM61,528(+12%)、GEは「同種手技で他の私立病院より20〜30%高い」と指摘した。IHH SGの2Q26 EBITDAマージンは29%であり、収益性が崩れたのではなく「症例の取り分」を失っている段階である。
+
+| 要因 | 内容【確認】 | プロフィットプール移動の機構【分析】 |
+|---|---|---|
+| ① 価格ポジション | 民間請求額の増加は病院関連費用(年+15%)が主因で、IHHは最高単価の施設。MOH料金ベンチマーク(2018年〜、2023年に2,100手技へ拡大)は医師報酬を抑えたが、施設料は対象外だった | 保険者が圧縮できる部分は施設料であり、最も高い施設(Mount Elizabeth)が最初の標的になった。GEのPAC停止、Prudentialの提携外はその帰結 |
+| ② 固定費と不動産 | 3病院(Mount Elizabeth・Gleneagles・Parkway East)はParkway Life REITからのマスターリースで、2022年8月からの新契約(約20.4年)の初年度賃料はS$97.2百万(旧契約最終年比+36.9%)。REITがS$150百万の改装資本を投じ、IHHは期間中S$60.9百万の賃料リベートを受ける。Mount Elizabeth OrchardはSG病床容量の42%を占め、改装中はFY25の約半分の病床を閉鎖 | 賃料と病床という固定費を抱えたまま稼働率が50%へ落ちると、単価を下げる余地が狭い(豪Healthscope型の構造)。固定費を持たない日帰り手術センターは同じ手技を安く提供でき、保険者の誘導先になる |
+| ③ 医師側の経済 | 医師の手技料はベンチマークで頭打ち。HCSAのASC免許(2023年)で商業ビル内のASC開設が容易になり、民間独立型ASCは2025年9施設→2030年40施設の予測。Foundationは「第三者施設の施設料を取り込む」と明言し、売却医に60%の現金と上場株を渡す | 医師は自分の手技料を増やせないため、施設料(請求額の60%)を自分(のグループ)で取りに行く。民間の新規専門医は年35人で医師が希少資源、IHHは外科系民間専門医の72〜96%を既に認定しており「認定」は希少でなくなった。希少な側(医師)に取り分が移る |
+| ④ 保険者の道具 | パネル(2016年)、ベンチマーク参照(2019年)、事前承認、機関主導パネル(Prudential)、PAC停止(GE、2025年6月)、新ライダー(2026年4月)。Foundation「保険者は当社の医療センターがコストを管理していることを評価する」 | 保険者は「医師+低コスト施設+定額」を持つ相手と組む。IHHはPrudentialの病院区分に入れず(Royal Squareのみ2026年8月)、GEのPACも止まったままで、誘導の受け手ではなく誘導される側に置かれた |
+| ⑤ 需要の縮小 | 民間:公立は15:85→10:90、ライダー解約年約10万人、公立は2025〜30年に13,600床増、SGH Elective Care Centre(2027年、300床)、中東情勢と為替で医療ツーリスト減、量ではマレーシア・タイに劣後 | 民間入院のパイ自体が縮む中で、縮むパイの高単価部分を持つIHHの減少幅が最大になる |
+| ⑥ IHH自身の対応の遅れ | 場所貸しモデルで医師との資本関係がなく、分譲スイートは医師所有でテナントの入替を制御できない。自前ASCはRoyal Square(手術室2・内視鏡室4)のみでFAC Novena(手術室4)より小さい。PCCの運営者TalkMedはTamarind傘下へ移り、腫瘍の運営主体を競合資本が握った。グループ全体の資本はインド・トルコ・マレーシアの成長へ向かい、SGはグループ最弱市場 | 症例の行き先を決める主体(医師・保険者)との結び付きを「立地」にしか持たなかったため、立地の意味が変わった局面で対抗手段が少なかった |
+
+**要約**【分析】: プロフィットプールは「医師個人」へというより、**「医師が持分を持つ低コスト施設」と「それを束ねるグループ・PE・保険者」**へ移っている。医師の手技料はベンチマークで固定され、施設料の圧縮分は保険者(保険料)と低コスト施設の所有者で分け合い、医師はその施設の株主として、また売却対価(現金・上場株)として取り分を得る。IHHが失ったのは単価ではなく、症例の配分を決める立場である。
+
+### 13-4. Webからは確認できないが、仮説検証に重要な事項
+
+| 区分 | 事項 | なぜ重要か | 入手経路 |
+|---|---|---|---|
+| **A. IHH社内データ** | 認定医ごとの入院症例のうちIHH 4病院に置かれた比率(ロイヤルティ)の推移 | 「入居医の院外治療が入院減の何割を説明するか」を分解できる唯一の指標 | 請求・入院データ(C+、iXchange) |
+| | 施設別・術式別の日帰り手術件数の推移(病院内日帰り手術室、Royal Square、第三者ASCへの流出推計) | 仮説①②の「流出症例」の規模を確定する | 社内MIS、保険者の請求データ |
+| | 支払者構成(自費・IP・法人・外国人)の病院別・年別推移 | 主張A2(自費→保険)の検証と、パネル条件が効く患者比率の確定 | 社内MIS |
+| | GE加入者のMount Elizabeth入院件数のPAC停止前後の変化、Prudential加入者の比率 | 保険者の実力行使の実害と、層A(支払者修復)の優先度 | 社内MIS |
+| | 入院単価の内訳(病室・手術室・薬剤・インプラント・看護)と、他の私立病院比で20〜30%高い理由 | 定額パッケージで埋めるべき差額の特定 | 原価計算、保険者との照合 |
+| | PLife REIT賃料の売上比、改装後の病床数・稼働率、Mount Elizabeth Novena(自社保有)との収益性差 | 固定費構造と「高acuity特化」の採算 | 社内財務 |
+| | Royal Squareの稼働率・第三者医師比率・リース条件・増床余地、追加ASC候補地 | 層B(ASC面展開)の実行可能性 | 社内、Hoi Hup–Sunway |
+| | Parkway Shentonの事業別P&L、GP・健診・UCC発の専門医初診・入院への転換率、UCC医師の雇用主体 | GP網の扱い(パートナーシップ移管)の判断 | 社内MIS、法人登記 |
+| | iXchangeの契約条件・手数料・データ範囲、C+外来モジュールの開発状況、Foundation AVAのIHH病院内利用の有無 | 層D(提携専門医プログラム)の基盤選択 | 社内、契約 |
+| | 国際患者の専門医割当ルール、手術枠・ICU配分の現行基準 | 患者融通をSMC規程に整合させる設計の出発点 | 社内規程 |
+| **B. 契約** | PCC(TalkMed)のConsultancy Restatement Agreementの期限・専属条項・支配権変更条項・フィー算式、ISECとのAsia Pacific Eye Centre契約 | がん・眼科の運営主体が競合資本に移った影響の確定 | 契約原本 |
+| | Icon・Curie・OncoCare・Foundation所属医のIHH医療センター内の賃貸借条件(期間・更新・用途) | テナントの離反可能性と家主としての影響力 | 契約原本 |
+| | Singlife CareCollab、保険者別パッケージ契約の条件、Doctor Anywhereへの出資条件 | 保険者戦略の現在地 | 契約原本 |
+| **C. 保険者・TPA** | 保険者別・専門科別の申請数・採択率・待機人数、パネル料金表のベンチマーク上の位置 | 主張B1・C1(入れないのか入らないのか)の判定 | 保険者・TPAへのヒアリング(LIA比較表は手続きのみ) |
+| | GEとの協議状況(PAC再開条件)、PrudentialのIHH病院HI-led参加の可否、MHICパネル作業部会(2025年10月設置)の成果物 | 層Aの成立可能性 | 保険者・MOH |
+| | 保険者の施設別誘導実績(どの施設へ何件流れたか) | 流出先の確定 | 保険者・TPA |
+| **D. 医師** | 認定医の引退予定・後継の有無、グループからの買収提案の有無と条件、Foundation Health Connectiveへの加入状況 | 仮説②の「先回り」の対象と時間軸 | 医師調査・面談(SMA型) |
+| | 分譲スイートの所有者(医師本人か・年齢・担保)、空室・売却の動向 | 世代交代とスイートの受け皿設計 | 土地登記(SLA)・URA Realisの区分所有記録 |
+| | 医師が競合ASC・グループに持つ持分(患者への開示義務はあるが公開されない) | 症例流出の動機の把握 | 医師面談、ACRA株主情報(Pte Ltdの株主は登記で確認可能) |
+| | 医師別の自費・法人・外国人患者比率 | パネル外で診療を維持できる層の特定 | 医師面談・社内請求データ |
+| **E. 競合** | Foundationの2026年下期の買収対象、Tamarindの PCC方針と非創業医への持分配分、HMI/Apollo・Icon/EQTの出口時期、HC Surgical創業医の承継、Thomson・Mount Alverniaの価格と容量 | 争奪の時間軸と価格規律 | 相手方との対話、ACRAの決算書(非上場の非免除私会社は提出義務あり)、報道 |
+| | 各グループの医師の定着率・離脱率(ベスティング期間中) | グループ型の持続性 | 名簿の継続観測(本リポジトリで可能) |
+| **F. 規制** | MOHの病院主導の医師JV・パネル入替規制への姿勢、CCCSの病院と医師の財務統合への見解、SMCの施設持分配当の解釈、HCSAのASC免許申請状況、CDL改定 | 層B〜Dの法的設計 | 法律助言、当局との事前相談 |
+| **G. 株主** | 三井物産の専門医グループ・Iconへの関心と、IHH取締役会での関連当事者取引の扱い | 命題Fの前提 | 当事者 |
+
+**補足**【分析】: 上記のうち、A(社内データ)とB(契約)が揃えば、本書の判定のうち「△」「?」とした主張A2・D2・E・仮説①の市場規模は確定できる。C(保険者)とD(医師)は外部ヒアリングを要し、特にC1(著名医師が入らないのか入れないのか)はSMA型の医師調査を年齢別に設計すれば1回の調査で答えが出る。
+
+### 13-5. 補遺2の出典
+
+- (A) [SMA News「Survey on Integrated Shield Plan Providers」2021年4月](https://www.sma.org.sg/UploadedImg/1621775810_2021AprSurvey.pdf) — 333人、保険者別在籍率、「加入を希望しない」35〜71%、「申請したが不成功・待機」10〜34%、53%が患者の4分の1超を流出、受容可能な最低報酬(中間点64%・上限22%・下限13%)。年齢別・「1社以上」の集計なし
+- (A) [SMA News「IP Providers' Ranking Survey 2021」2022年4月](https://www.sma.org.sg/UploadedImg/1652236283_2022AprSurvey.pdf)、[同2022年分、2023年6月](https://www.sma.org.sg/UploadedImg/1689741887_2023JunSurvey.pdf) — 回答者属性は専門医比率・私立比率のみ
+- (A) [MOH「Data on Private Hospital Bill Increases…」2026年5月6日](https://www.moh.gov.sg/newsroom/data-on-private-hospital-bill-increases-that-can-be-attributed-to-doctors--professional-fees-rather-than-facility-fees/)、[MOH IPパネル統計](https://www.moh.gov.sg/managing-expenses/schemes-and-subsidies/integrated-shield-plans/about-integrated-shield-plans/)、[MOH 2021年5月10日](https://www.moh.gov.sg/newsroom/ongoing-efforts-to-ensure-patients-interest-in-healthcare/)、[MOH 2021年11月9日](https://www.moh.gov.sg/newsroom/new-clinical-claims-resolution-process-established-to-resolve-ip-claim-disputes/)
+- (A) [Parkway Life REIT「Project Blossom」News Release 2021年7月14日](https://links.sgx.com/1.0.0/corporate-announcements/PLVEOW0O76D8KR43/674663_2.%20Project%20Blossom%20-%20News%20Release%2014.07.21%20FINAL.pdf) — 新マスターリース約20.4年(2022年8月23日〜2042年12月31日)、更新オプション10年、S$150百万の改装資本、Mount Elizabeth NovenaのROFR。(B) [PLife REIT Circular(2021年)](https://links.sgx.com/1.0.0/corporate-announcements/J067PGV2LK154L0H/682830_Circular.pdf)・[The Edge Singapore](https://www.theedgesingapore.com/capital/reits/parkwaylife-reits-new-master-lease-means-sustainable-rents-ihh-healthcare) — 初年度賃料S$97.2百万(+36.9%)、賃料リベートS$60.9百万
+- (B) Mount Elizabeth Novenaスイートの売り出し例(SRX、S$8.15百万/570 sq ft、S$10.85百万/775 sq ft) — https://www.srx.com.sg/listings/117827601/for-sale-mount-elizabeth-novena-hospital
+- (A) [Foundation Healthcare 1H2026決算説明会スクリプト](https://links.sgx.com/1.0.0/corporate-announcements/W24OZ7ZOF8FK4CPV/901088_FHH%201H26%20Earnings%20Call%20Script.pdf)、本リポジトリ一次データ(`data/ihh-sg-specialists-directory-2026-10.csv`)、姉妹文書(ihh-sg-growth-strategy.md §2、parkwayshenton-divestment-strategy.md §9、bor-decline-countermeasures.md §3-4、sg-asc-acc-market-report.md)
