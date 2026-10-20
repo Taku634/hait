@@ -751,3 +751,16 @@
 - (B) Icon: [EQTポートフォリオ](https://eqtgroup.com/about/current-portfolio/icon-group)、[Subiaco放射線治療(2025年6月)](https://icongroup.global/en/news/2025-06-19/icon-cancer-centre-radiation-therapy-subiaco/)、[St John & St Elizabeth提携(LaingBuisson)](https://www.laingbuissonnews.com/healthcare-markets-content/st-john-st-elizabeth-and-icon-agree-london-cancer-centre-partnership/)、[Austrade: Icon東南アジア](https://www.austrade.gov.au/en/news-and-analysis/news/icon-group-brings-cancer-care-closer-to-home-for-patients-in-southeast-asia)、[データ侵害(2026年10月12日、Cyber Daily)](https://www.cyberdaily.au/security/14285-exclusive-australian-patient-data-compromised-in-icon-cancer-centre-hack)、[AVCJ(2021年取引)](https://www.avcj.com/avcj/news/3025541/eqt-buys-australia-cancer-care-business-from-pe-consortium)
 - (B) IHH時価総額: [Trading Economics](https://tradingeconomics.com/ihh:mk:market-capitalization)、[iSaham](https://www.isaham.my/stock/ihh/faq)、[Companies Market Cap](https://companiesmarketcap.com/ihh-healthcare/marketcap/)。FY2025: [MedTech Spectrum(AGM、コア売上RM262億)](https://medtechspectrum.com/news/1/25611/ihh-healthcare-further-advances-transformation-journey-in-fy2025-all-resolutions-passed-at-16th-agm.html)。SG比率はIHH AR2024(RM61.3億/RM244億、healthcaremarketstructure.md)
 - 姉妹文書: ihh-sg-growth-strategy.md §A8、parkwayshenton-divestment-strategy.md §6・§9-3、sg-specialist-network-business-models.md §2、ihh-sg-inpatient-loyalty-asc-payor-strategy.md §7、bor-decline-countermeasures.md §3
+
+---
+
+## ⑱ 補遺7(2026年10月20日): M1・M2のアクションプラン精緻化(別冊)
+
+三井物産が主体として実行する前提で、§16-3のM1(専門医グループへの張替え)とM2(IHHを保有したまま専門医グループを買収)を、変種別の判定・トリガー・対象別ディールカード・36か月ロードマップ・資本配分・KPIに落とした別冊を作成した: **ihh-mitsui-m1-m2-action-plan.md**。要点は次のとおり(詳細・出典は別冊)。
+
+1. **M1-a(全面張替え)の判定(合理性×・実現可能性×)は維持**。新たに確認した事実として、(i) 三井の中期経営計画2029(2026年5月1日)は「Wellness Ecosystem Creation 2.0」を病院事業中核・データで創薬支援へ拡張と掲げ、2026年にOncoshot提携・100万人データ網構想(日経アジア2026年9月10日)が続いた【確認(B)】、(ii) Foundationは2026年10月16日にS$0.54(時価総額約S$717.5百万、IPO比▲28.9%)【確認(B)】、(iii) 大手4社を全部買っても約S$50〜53億で三井のIHH持分(約US$55〜60億)に届かず、競争法上は同時保有できない組合せを含む【算出】。実行条件(4トリガー)と常備手順を別冊§4-2・4-3に置いた。
+2. **M1-c(新規資本での大手取得)はHMIのみ時宜を得ている**: EQTが2026年6月にHMI持分の売却を検討(評価額約US$600百万、初期段階)【確認(B)】。合理性○・実現可能性△で、2026年12月までに参加可否を決める判断期限を置いた。
+3. **M2は三井過半・IHH少数+施設契約の構造で、Icon SG/ASEAN→循環器(Asian Heart & Vascular)→整形(Orthopaedics International・Synergy)→消化器(gutCARE)→Curieの順**。Tamarindは【ご提示】の2025年業績(売上S$約500百万・EBITDA S$約130百万)からEV S$13〜16億と置けるが、TalkMedのPCC契約依存(売上約9割)により「IHHの発注先を筆頭株主が所有する」循環が生じるため、Templewater出口(2028年〜)まで監視対象(×→△の条件を明示)。
+4. **利益相反は3段階で処理**: 共同投資枠組み契約(IHH独立取締役承認)→Bursa第10章の比率処理(0.25%開示・5%株主承認・25%主幹アドバイザー)【確認(B)】→49%引上げ・非公開化(33%超で義務的公開買付が発動するためSC免除または公開買付が前提)【確認(B)】。
+5. **第一三共訴訟の更新**: §17-4で「2026年にIHHの対第一三共紛争の仲介役を求められる」と記したが、2026年9月10日に東京地裁はIHH子会社の約2,000億円の請求を全面棄却し、同社は控訴した【確認(B)】。仲介依頼の一次ソースは未確認。
+6. **3年間の資本(仮置き)**: 基本ケースS$約3.5〜9.5億(Icon JV+独立グループ3〜4件+ASC不動産)、上振れでIcon全体取得(自己資本A$15〜20億)またはHMI(約US$600百万)。
