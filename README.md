@@ -19,6 +19,7 @@ YYYYMMDD_<簡潔なレポート名>.md
 | 日付 | ファイル | 内容 |
 |---|---|---|
 | 2026-10-22 | `20261022_ihh-sg-ceo-review.md` | IHH Healthcare Singapore の現状整理と今後の経営方針（CEOメモ） |
+| 2026-10-22 | `20261022_ihh-sg-benchmark-vs-public-private.md` | IHH SG を公立病院・他私立病院と定量比較（病床・入院・患者属性・稼働率・MOH請求額データ・人材・財務）し、強み・特徴を整理 |
 
 ## 既存の調査資料（命名ルール適用前）
 
