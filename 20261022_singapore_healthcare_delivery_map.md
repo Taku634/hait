@@ -97,7 +97,7 @@ MOHは民間病院を9（うち非営利1）と数える [5]。統計上は急�
 
 ![シンガポール主要病院マップ](20261022_singapore_hospital_map.png)
 
-凡例: ●濃青＝公立急性期病院、●水色＝コミュニティ病院、■橙＝民間病院（営利）、◆紫＝民間病院（非営利）、◌破線＝計画・建設中。位置は政府のOneMap APIで取得した各施設住所の座標、海岸線はURAマスタープラン2014サブゾーン境界（data.gov.sg）由来のGeoJSONを簡略化 [23]。新・民間非営利病院は用地未公表のため東部に枠のみ表示 [4][18]。
+凡例: ●濃青＝公立急性期病院、●水色＝コミュニティ病院（CH）、■＝民間病院を運営事業者別に色分け（橙＝IHH Healthcare/Parkway 4院、赤＝Raffles Medical Group、緑＝Thomson Medical Group、黄土＝The Farrer Park Company、藍紫＝Crawfurd Medical）、◆紫＝民間非営利（Mount Alvernia）、◌破線＝計画・建設中。CH＝コミュニティ病院（Community Hospital）で、急性期治療後のリハビリ・亜急性期ケアを担う中間的入院施設 [6]。位置は政府のOneMap APIで取得した各施設住所の座標、海岸線はURAマスタープラン2014サブゾーン境界（data.gov.sg）由来のGeoJSONを簡略化 [23]。新・民間非営利病院は用地未公表のため東部に枠のみ表示 [4][18]。
 
 | No. | 区分 | 施設 | 運営 | 備考（出典） |
 |---|---|---|---|---|
@@ -112,17 +112,21 @@ MOHは民間病院を9（うち非営利1）と数える [5]。統計上は急�
 | 9 | 公立 | National University Hospital (NUH) | NUHS | Kent Ridge再開発：2033年までに1,200床の半分を建替え＋約100床、2038年に計1,500床 [7] |
 | 10 | 公立 | Ng Teng Fong General Hospital (NTFGH) | NUHS | 2015年開業 [16] |
 | 11 | 公立 | Alexandra Hospital (AH) | NUHS | 再開発後2028年から段階開業、計1,300床へ [5][7] |
-| 12〜19 | 民間 | 第5章の表を参照 | IHH／Raffles／Thomson／Farrer Park／Crawfurd | [15][16][17] |
+| 12〜15 | 民間（IHH） | Mount Elizabeth／Mount Elizabeth Novena／Gleneagles／Parkway East | IHH Healthcare（Parkway） | 4院で稼働床697（2024年） [15] |
+| 16 | 民間（Raffles） | Raffles Hospital | Raffles Medical Group | [16][20] |
+| 17 | 民間（Thomson） | Thomson Medical Centre | Thomson Medical Group | [16][22] |
+| 18 | 民間（Farrer Park） | Farrer Park Hospital | The Farrer Park Company | [16][21] |
+| 19 | 民間（Crawfurd） | Crawfurd Hospital | Crawfurd Medical | [17] |
 | 20 | 非営利 | Mount Alvernia Hospital | 非営利 | 350床超 [4] |
-| 21 | CH | Outram Community Hospital | SingHealth | SGH併設 [16] |
-| 22 | CH | Sengkang Community Hospital | SingHealth | SKH併設 [16] |
-| 23 | CH | Yishun Community Hospital | NHG Health | KTPH併設 [16] |
-| 24 | CH | Jurong Community Hospital | NUHS | NTFGH併設 [16] |
-| 25 | CH | Ang Mo Kio-Thye Hua Kwan Hospital | 非営利 | [16] |
-| 26 | CH | Ren Ci Community Hospital | 非営利 | Novena [16] |
-| 27 | CH | St Andrew's Community Hospital（Simei） | 非営利 | CGH隣接 [16] |
-| 28 | CH | St Andrew's Community Hospital（Bedok） | 非営利 | 2025年開設、240床 [7] |
-| 29 | CH | St Luke's Hospital | 非営利 | Bukit Batok [16] |
+| 21 | コミュニティ病院（CH） | Outram Community Hospital | SingHealth | SGH併設 [16] |
+| 22 | コミュニティ病院（CH） | Sengkang Community Hospital | SingHealth | SKH併設 [16] |
+| 23 | コミュニティ病院（CH） | Yishun Community Hospital | NHG Health | KTPH併設 [16] |
+| 24 | コミュニティ病院（CH） | Jurong Community Hospital | NUHS | NTFGH併設 [16] |
+| 25 | コミュニティ病院（CH） | Ang Mo Kio-Thye Hua Kwan Hospital | 非営利 | [16] |
+| 26 | コミュニティ病院（CH） | Ren Ci Community Hospital | 非営利 | Novena [16] |
+| 27 | コミュニティ病院（CH） | St Andrew's Community Hospital（Simei） | 非営利 | CGH隣接 [16] |
+| 28 | コミュニティ病院（CH） | St Andrew's Community Hospital（Bedok） | 非営利 | 2025年開設、240床 [7] |
+| 29 | コミュニティ病院（CH） | St Luke's Hospital | 非営利 | Bukit Batok [16] |
 | 30 | 計画 | Eastern General Hospital Campus（急性期＋コミュニティ） | SingHealth（公立） | Bedok North駅隣接。2024年4月20日起工、2029年から段階開業、全面開業時約1,400床 [7][8][9] |
 | 31 | 計画 | Tengah General and Community Hospital | NUHS（公立） | Tengah Garden Avenue沿い。2030年代初頭完成目標 [7][8] |
 | 32 | 計画 | SGH Elective Care Centre＋新National Dental Centre | SingHealth（公立） | Second Hospital Avenue。2027年までに300床 [7][8] |

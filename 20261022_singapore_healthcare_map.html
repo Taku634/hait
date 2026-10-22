@@ -7,7 +7,11 @@
   --bg:#f7f8f6; --fg:#1c2320; --muted:#5b6660; --line:#d8ddd9; --panel:#ffffff; --panel2:#eef2ef;
   --pub:#1f6f8b;   /* 公立急性期 */
   --com:#6fb3c4;   /* コミュニティ病院 */
-  --prv:#d9822b;   /* 民間（営利） */
+  --ihh:#d9822b;   /* IHH Healthcare (Parkway) */
+  --raf:#b3261e;   /* Raffles Medical Group */
+  --tho:#2e7d4f;   /* Thomson Medical Group */
+  --far:#8c6d1f;   /* The Farrer Park Company */
+  --cra:#5c4a8a;   /* Crawfurd Medical */
   --nfp:#8a4b9c;   /* 民間非営利 */
   --plan:#4b5b55;  /* 計画・建設中 */
   --land:#e9eee9; --landline:#9fb0a6; --sea:#f7f8f6;
@@ -16,11 +20,11 @@
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
   --bg:#141917; --fg:#e8ece9; --muted:#a5b0aa; --line:#2d3733; --panel:#1c2320; --panel2:#232c28;
-  --pub:#5fb0cc; --com:#8fcad8; --prv:#f0a452; --nfp:#c48ad4; --plan:#aab6b0;
+  --pub:#5fb0cc; --com:#8fcad8; --ihh:#f0a452; --raf:#f07a70; --tho:#6cc695; --far:#d4b45a; --cra:#a996d9; --nfp:#c48ad4; --plan:#aab6b0;
   --land:#242d29; --landline:#6f8178; --sea:#141917; color-scheme:dark } }
 :root[data-theme="dark"]{
   --bg:#141917; --fg:#e8ece9; --muted:#a5b0aa; --line:#2d3733; --panel:#1c2320; --panel2:#232c28;
-  --pub:#5fb0cc; --com:#8fcad8; --prv:#f0a452; --nfp:#c48ad4; --plan:#aab6b0;
+  --pub:#5fb0cc; --com:#8fcad8; --ihh:#f0a452; --raf:#f07a70; --tho:#6cc695; --far:#d4b45a; --cra:#a996d9; --nfp:#c48ad4; --plan:#aab6b0;
   --land:#242d29; --landline:#6f8178; --sea:#141917; color-scheme:dark }
 body{background:var(--bg);color:var(--fg);font-family:var(--body);line-height:1.7;font-size:15px;
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 48px}
@@ -40,7 +44,7 @@ li{margin-bottom:4px}
 .kpi span{font-size:12px;color:var(--muted)}
 .flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:14px 0}
 .flow .box{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--pub);border-radius:4px;padding:10px 12px;font-size:13px;min-width:0}
-.flow .box.prv{border-left-color:var(--prv)}
+.flow .box.prv{border-left-color:var(--ihh)}
 .flow .box.com{border-left-color:var(--com)}
 .flow .box.mix{border-left-color:var(--nfp)}
 .flow .box strong{display:block;font-family:var(--display);font-size:14px;margin-bottom:4px}
@@ -56,7 +60,11 @@ figure .frame{background:var(--sea);border:1px solid var(--line);border-radius:6
 .sgmap .m circle,.sgmap .m rect{stroke:var(--sea);stroke-width:1.5}
 .sgmap .pub circle{fill:var(--pub)}
 .sgmap .com circle{fill:var(--com)}
-.sgmap .prv rect{fill:var(--prv)}
+.sgmap .ihh rect{fill:var(--ihh)}
+.sgmap .raf rect{fill:var(--raf)}
+.sgmap .tho rect{fill:var(--tho)}
+.sgmap .far rect{fill:var(--far)}
+.sgmap .cra rect{fill:var(--cra)}
 .sgmap .nfp rect{fill:var(--nfp)}
 .sgmap .plan circle{fill:var(--plan)}
 .sgmap .plan .ring{fill:none;stroke:var(--plan);stroke-width:1.5;stroke-dasharray:3 2}
@@ -78,7 +86,7 @@ th,td{border-bottom:1px solid var(--line);padding:7px 8px;text-align:left;vertic
 th{background:var(--panel2);font-weight:700;font-family:var(--display);white-space:nowrap}
 td.n{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
 td .tag{display:inline-block;font-size:11px;padding:1px 6px;border-radius:3px;color:#fff;margin-right:4px;white-space:nowrap}
-.tag.pub{background:var(--pub)} .tag.com{background:var(--com);color:#1c2320} .tag.prv{background:var(--prv)} .tag.nfp{background:var(--nfp)} .tag.plan{background:var(--plan)}
+.tag.pub{background:var(--pub)} .tag.com{background:var(--com);color:#1c2320} .tag.prv{background:var(--ihh)} .tag.ihh{background:var(--ihh)} .tag.raf{background:var(--raf)} .tag.tho{background:var(--tho)} .tag.far{background:var(--far)} .tag.cra{background:var(--cra)} .tag.nfp{background:var(--nfp)} .tag.plan{background:var(--plan)}
 .note{background:var(--panel2);border-left:4px solid var(--nfp);padding:10px 12px;font-size:13px;margin:12px 0}
 .src{font-size:12.5px;color:var(--muted)}
 .src li{margin-bottom:5px;word-break:break-all}
@@ -146,15 +154,15 @@ sup a{text-decoration:none;font-size:11px}
 <p>MOHは民間病院を9（うち非営利1）と数えています [5]。統計上は急性期病院20のうち公立11、非営利1、民間8です [2]。</p>
 <div class="tablewrap"><table>
 <tr><th>地図番号</th><th>病院</th><th>運営主体</th><th>所在</th><th>病床（出典）</th><th>備考</th></tr>
-<tr><td class="n">12</td><td>Mount Elizabeth Hospital</td><td>IHH Healthcare（Parkway）</td><td>Orchard</td><td class="n">IHH 4院計 697（稼働床、2024年）[15]</td><td>1979年開業 [16]</td></tr>
-<tr><td class="n">13</td><td>Mount Elizabeth Novena Hospital</td><td>IHH Healthcare（Parkway）</td><td>Novena</td><td class="n">同上</td><td>2012年開業。2008年の用地入札で建設（直近の民間病院用地放出）[4][16]</td></tr>
-<tr><td class="n">14</td><td>Gleneagles Hospital</td><td>IHH Healthcare（Parkway）</td><td>Tanglin（Napier Rd）</td><td class="n">同上</td><td>1957年開業 [16]</td></tr>
-<tr><td class="n">15</td><td>Parkway East Hospital</td><td>IHH Healthcare（Parkway）</td><td>Joo Chiat</td><td class="n">同上</td><td>東部唯一のIHH病院 [15]</td></tr>
-<tr><td class="n">16</td><td>Raffles Hospital</td><td>Raffles Medical Group</td><td>Bugis（585 North Bridge Rd）</td><td class="n">380（Wikipedia）[16]</td><td>グループの旗艦病院 [20]</td></tr>
-<tr><td class="n">17</td><td>Thomson Medical Centre</td><td>Thomson Medical Group（SGX上場）</td><td>Thomson Rd</td><td class="n">187（Wikipedia）[16]</td><td>産科・小児中心。グループ創業1979年 [22]</td></tr>
-<tr><td class="n">18</td><td>Farrer Park Hospital</td><td>The Farrer Park Company</td><td>Farrer Park駅上 Connexion</td><td class="n">121（Wikipedia）[16]</td><td>ホテル一体型の複合開発 [21]</td></tr>
-<tr><td class="n">19</td><td>Crawfurd Hospital</td><td>Crawfurd Medical</td><td>Adam Rd</td><td class="n">31（Wikipedia）[17]</td><td>2012年Fortis Colorectal→2015年Concord International→2021年現名称 [17]</td></tr>
-<tr><td class="n">20</td><td>Mount Alvernia Hospital（非営利）</td><td>フランシスコ会系の非営利法人</td><td>Thomson Rd</td><td class="n">350超 [4]</td><td>1961年60床で開院。唯一の民間非営利急性期病院 [4]</td></tr>
+<tr><td class="n">12</td><td><span class="tag ihh">IHH</span>Mount Elizabeth Hospital</td><td>IHH Healthcare（Parkway）</td><td>Orchard</td><td class="n">IHH 4院計 697（稼働床、2024年）[15]</td><td>1979年開業 [16]</td></tr>
+<tr><td class="n">13</td><td><span class="tag ihh">IHH</span>Mount Elizabeth Novena Hospital</td><td>IHH Healthcare（Parkway）</td><td>Novena</td><td class="n">同上</td><td>2012年開業。2008年の用地入札で建設（直近の民間病院用地放出）[4][16]</td></tr>
+<tr><td class="n">14</td><td><span class="tag ihh">IHH</span>Gleneagles Hospital</td><td>IHH Healthcare（Parkway）</td><td>Tanglin（Napier Rd）</td><td class="n">同上</td><td>1957年開業 [16]</td></tr>
+<tr><td class="n">15</td><td><span class="tag ihh">IHH</span>Parkway East Hospital</td><td>IHH Healthcare（Parkway）</td><td>Joo Chiat</td><td class="n">同上</td><td>東部唯一のIHH病院 [15]</td></tr>
+<tr><td class="n">16</td><td><span class="tag raf">Raffles</span>Raffles Hospital</td><td>Raffles Medical Group</td><td>Bugis（585 North Bridge Rd）</td><td class="n">380（Wikipedia）[16]</td><td>グループの旗艦病院 [20]</td></tr>
+<tr><td class="n">17</td><td><span class="tag tho">Thomson</span>Thomson Medical Centre</td><td>Thomson Medical Group（SGX上場）</td><td>Thomson Rd</td><td class="n">187（Wikipedia）[16]</td><td>産科・小児中心。グループ創業1979年 [22]</td></tr>
+<tr><td class="n">18</td><td><span class="tag far">Farrer Park</span>Farrer Park Hospital</td><td>The Farrer Park Company</td><td>Farrer Park駅上 Connexion</td><td class="n">121（Wikipedia）[16]</td><td>ホテル一体型の複合開発 [21]</td></tr>
+<tr><td class="n">19</td><td><span class="tag cra">Crawfurd</span>Crawfurd Hospital</td><td>Crawfurd Medical</td><td>Adam Rd</td><td class="n">31（Wikipedia）[17]</td><td>2012年Fortis Colorectal→2015年Concord International→2021年現名称 [17]</td></tr>
+<tr><td class="n">20</td><td><span class="tag nfp">非営利</span>Mount Alvernia Hospital</td><td>フランシスコ会系の非営利法人</td><td>Thomson Rd</td><td class="n">350超 [4]</td><td>1961年60床で開院。唯一の民間非営利急性期病院 [4]</td></tr>
 </table></div>
 <ul>
   <li><strong>IHH（Parkway）</strong>は4病院で2024年に稼働床697、入院61,909件、稼働率66%（2023年61%）。病床拡張が制約されるため低重症度ケアを外来センターへ移し、東部で200床の移行期ケア施設（TCF@East）を着工しました [15]。</li>
@@ -203,14 +211,14 @@ sup a{text-decoration:none;font-size:11px}
 <g class="m com" tabindex="0"><title>27. セント・アンドリュース・コミュニティ病院（シメイ） / St Andrew's Community Hospital</title><circle cx="707.6" cy="276.6" r="5.5"/><text x="721.6" y="284.6" text-anchor="start">27</text></g>
 <g class="m com" tabindex="0"><title>28. セント・アンドリュース・コミュニティ病院（ベドック） / St Andrew's Community Hospital (Bedok)</title><circle cx="673.2" cy="329.3" r="5.5"/><text x="687.2" y="337.3" text-anchor="start">28</text></g>
 <g class="m com" tabindex="0"><title>29. セント・ルークス病院 / St Luke's Hospital</title><circle cx="294.4" cy="260.8" r="5.5"/><text x="286.4" y="250.8" text-anchor="end">29</text></g>
-<g class="m prv" tabindex="0"><title>12. マウント・エリザベス病院 / Mount Elizabeth Hospital</title><rect x="473.9" y="342.2" width="14" height="14" rx="1.5"/><text x="496.9" y="353.2" text-anchor="start">12</text></g>
-<g class="m prv" tabindex="0"><title>13. マウント・エリザベス・ノビナ病院 / Mount Elizabeth Novena Hospital</title><rect x="491.4" y="308.7" width="14" height="14" rx="1.5"/><text x="512.4" y="307.7" text-anchor="start">13</text></g>
-<g class="m prv" tabindex="0"><title>14. グレンイーグルス病院 / Gleneagles Hospital</title><rect x="442.2" y="338.1" width="14" height="14" rx="1.5"/><text x="435.2" y="361.1" text-anchor="end">14</text></g>
-<g class="m prv" tabindex="0"><title>15. パークウェイ・イースト病院 / Parkway East Hospital</title><rect x="620.5" y="322.8" width="14" height="14" rx="1.5"/><text x="641.5" y="339.8" text-anchor="start">15</text></g>
-<g class="m prv" tabindex="0"><title>16. ラッフルズ病院 / Raffles Hospital</title><rect x="517.9" y="350.6" width="14" height="14" rx="1.5"/><text x="540.9" y="363.6" text-anchor="start">16</text></g>
-<g class="m prv" tabindex="0"><title>17. トムソン・メディカル・センター / Thomson Medical Centre</title><rect x="485.9" y="302.3" width="14" height="14" rx="1.5"/><text x="458.9" y="313.3" text-anchor="end">17</text></g>
-<g class="m prv" tabindex="0"><title>18. ファラー・パーク病院 / Farrer Park Hospital</title><rect x="510.70000000000005" y="327.5" width="14" height="14" rx="1.5"/><text x="533.7" y="336.5" text-anchor="start">18</text></g>
-<g class="m prv" tabindex="0"><title>19. クロフォード病院 / Crawfurd Hospital</title><rect x="429.6" y="299.4" width="14" height="14" rx="1.5"/><text x="422.6" y="298.4" text-anchor="end">19</text></g>
+<g class="m ihh" tabindex="0"><title>12. マウント・エリザベス病院 / Mount Elizabeth Hospital</title><rect x="473.9" y="342.2" width="14" height="14" rx="1.5"/><text x="496.9" y="353.2" text-anchor="start">12</text></g>
+<g class="m ihh" tabindex="0"><title>13. マウント・エリザベス・ノビナ病院 / Mount Elizabeth Novena Hospital</title><rect x="491.4" y="308.7" width="14" height="14" rx="1.5"/><text x="512.4" y="307.7" text-anchor="start">13</text></g>
+<g class="m ihh" tabindex="0"><title>14. グレンイーグルス病院 / Gleneagles Hospital</title><rect x="442.2" y="338.1" width="14" height="14" rx="1.5"/><text x="435.2" y="361.1" text-anchor="end">14</text></g>
+<g class="m ihh" tabindex="0"><title>15. パークウェイ・イースト病院 / Parkway East Hospital</title><rect x="620.5" y="322.8" width="14" height="14" rx="1.5"/><text x="641.5" y="339.8" text-anchor="start">15</text></g>
+<g class="m raf" tabindex="0"><title>16. ラッフルズ病院 / Raffles Hospital</title><rect x="517.9" y="350.6" width="14" height="14" rx="1.5"/><text x="540.9" y="363.6" text-anchor="start">16</text></g>
+<g class="m tho" tabindex="0"><title>17. トムソン・メディカル・センター / Thomson Medical Centre</title><rect x="485.9" y="302.3" width="14" height="14" rx="1.5"/><text x="458.9" y="313.3" text-anchor="end">17</text></g>
+<g class="m far" tabindex="0"><title>18. ファラー・パーク病院 / Farrer Park Hospital</title><rect x="510.70000000000005" y="327.5" width="14" height="14" rx="1.5"/><text x="533.7" y="336.5" text-anchor="start">18</text></g>
+<g class="m cra" tabindex="0"><title>19. クロフォード病院 / Crawfurd Hospital</title><rect x="429.6" y="299.4" width="14" height="14" rx="1.5"/><text x="422.6" y="298.4" text-anchor="end">19</text></g>
 <g class="m nfp" tabindex="0"><title>20. マウント・アルバーニア病院（非営利） / Mount Alvernia Hospital</title><rect x="478.2" y="269.4" width="14" height="14" transform="rotate(45 485.2 276.4)"/><text x="501.2" y="272.4" text-anchor="start">20</text></g>
 <g class="m pub" tabindex="0"><title>1. シンガポール総合病院 (SGH) / Singapore General Hospital</title><circle cx="481.1" cy="400.7" r="7"/><text x="467.1" y="416.7" text-anchor="end">1</text></g>
 <g class="m pub" tabindex="0"><title>2. チャンギ総合病院 (CGH) / Changi General Hospital</title><circle cx="708.9" cy="278.3" r="7"/><text x="722.9" y="270.3" text-anchor="start">2</text></g>
@@ -232,12 +240,16 @@ sup a{text-decoration:none;font-size:11px}
   </div>
   <div class="legend">
     <span><i class="sw c" style="background:var(--pub)"></i>公立急性期病院</span>
-    <span><i class="sw c" style="background:var(--com)"></i>コミュニティ病院</span>
-    <span><i class="sw" style="background:var(--prv)"></i>民間病院（営利）</span>
-    <span><i class="sw d" style="background:var(--nfp)"></i>民間病院（非営利）</span>
+    <span><i class="sw c" style="background:var(--com)"></i>コミュニティ病院（CH：急性期後のリハビリ・亜急性期）</span>
+    <span><i class="sw" style="background:var(--ihh)"></i>民間：IHH Healthcare（Parkway）</span>
+    <span><i class="sw" style="background:var(--raf)"></i>民間：Raffles Medical Group</span>
+    <span><i class="sw" style="background:var(--tho)"></i>民間：Thomson Medical Group</span>
+    <span><i class="sw" style="background:var(--far)"></i>民間：The Farrer Park Company</span>
+    <span><i class="sw" style="background:var(--cra)"></i>民間：Crawfurd Medical</span>
+    <span><i class="sw d" style="background:var(--nfp)"></i>民間非営利：Mount Alvernia</span>
     <span><i class="sw p"></i>計画・建設中</span>
   </div>
-  <figcaption>位置は政府のOneMap APIで取得した各施設住所の座標、海岸線はURAマスタープラン2014サブゾーン境界（data.gov.sg）由来のGeoJSONを簡略化したものです [23]。新・民間非営利病院は用地未公表のため東部に枠のみ表示しています [4][18]。番号にカーソルを合わせると名称が表示されます。</figcaption>
+  <figcaption>民間病院は運営事業者ごとに色分けしています（IHH Healthcareは4院）。CH＝コミュニティ病院（Community Hospital：急性期治療後のリハビリ・亜急性期ケアを担う中間的入院施設 [6]）。位置は政府のOneMap APIで取得した各施設住所の座標、海岸線はURAマスタープラン2014サブゾーン境界（data.gov.sg）由来のGeoJSONを簡略化したものです [23]。新・民間非営利病院は用地未公表のため東部に枠のみ表示しています [4][18]。番号にカーソルを合わせると名称が表示されます。</figcaption>
 </figure>
 
 <h3>地図番号と施設一覧</h3>
@@ -254,17 +266,21 @@ sup a{text-decoration:none;font-size:11px}
 <tr><td class="n">9</td><td><span class="tag pub">公立</span></td><td>National University Hospital (NUH)</td><td>NUHS</td><td>Kent Ridge再開発：2033年までに1,200床の半分を建替え＋約100床、2038年に計1,500床 [7]</td></tr>
 <tr><td class="n">10</td><td><span class="tag pub">公立</span></td><td>Ng Teng Fong General Hospital (NTFGH)</td><td>NUHS</td><td>2015年開業、Jurong Community Hospitalと一体 [16]</td></tr>
 <tr><td class="n">11</td><td><span class="tag pub">公立</span></td><td>Alexandra Hospital (AH)</td><td>NUHS</td><td>再開発後2028年から段階開業、計1,300床へ。24時間EDなし（Urgent Care Centre） [5][7]</td></tr>
-<tr><td class="n">12〜19</td><td><span class="tag prv">民間</span></td><td>第5章の表を参照</td><td>IHH／Raffles／Thomson／Farrer Park／Crawfurd</td><td>[15][16][17]</td></tr>
+<tr><td class="n">12〜15</td><td><span class="tag ihh">民間</span></td><td>Mount Elizabeth／Mount Elizabeth Novena／Gleneagles／Parkway East</td><td>IHH Healthcare（Parkway）</td><td>4院で稼働床697（2024年） [15]</td></tr>
+<tr><td class="n">16</td><td><span class="tag raf">民間</span></td><td>Raffles Hospital</td><td>Raffles Medical Group</td><td>[16][20]</td></tr>
+<tr><td class="n">17</td><td><span class="tag tho">民間</span></td><td>Thomson Medical Centre</td><td>Thomson Medical Group</td><td>[16][22]</td></tr>
+<tr><td class="n">18</td><td><span class="tag far">民間</span></td><td>Farrer Park Hospital</td><td>The Farrer Park Company</td><td>[16][21]</td></tr>
+<tr><td class="n">19</td><td><span class="tag cra">民間</span></td><td>Crawfurd Hospital</td><td>Crawfurd Medical</td><td>[17]</td></tr>
 <tr><td class="n">20</td><td><span class="tag nfp">非営利</span></td><td>Mount Alvernia Hospital</td><td>非営利</td><td>350床超 [4]</td></tr>
-<tr><td class="n">21</td><td><span class="tag com">CH</span></td><td>Outram Community Hospital</td><td>SingHealth</td><td>SGH併設 [16]</td></tr>
-<tr><td class="n">22</td><td><span class="tag com">CH</span></td><td>Sengkang Community Hospital</td><td>SingHealth</td><td>SKH併設 [16]</td></tr>
-<tr><td class="n">23</td><td><span class="tag com">CH</span></td><td>Yishun Community Hospital</td><td>NHG Health</td><td>KTPH併設 [16]</td></tr>
-<tr><td class="n">24</td><td><span class="tag com">CH</span></td><td>Jurong Community Hospital</td><td>NUHS</td><td>NTFGH併設 [16]</td></tr>
-<tr><td class="n">25</td><td><span class="tag com">CH</span></td><td>Ang Mo Kio-Thye Hua Kwan Hospital</td><td>非営利</td><td>[16]</td></tr>
-<tr><td class="n">26</td><td><span class="tag com">CH</span></td><td>Ren Ci Community Hospital</td><td>非営利</td><td>Novena [16]</td></tr>
-<tr><td class="n">27</td><td><span class="tag com">CH</span></td><td>St Andrew's Community Hospital（Simei）</td><td>非営利</td><td>CGH隣接 [16]</td></tr>
-<tr><td class="n">28</td><td><span class="tag com">CH</span></td><td>St Andrew's Community Hospital（Bedok）</td><td>非営利</td><td>2025年開設、240床 [7]</td></tr>
-<tr><td class="n">29</td><td><span class="tag com">CH</span></td><td>St Luke's Hospital</td><td>非営利</td><td>Bukit Batok [16]</td></tr>
+<tr><td class="n">21</td><td><span class="tag com">コミュニティ病院</span></td><td>Outram Community Hospital</td><td>SingHealth</td><td>SGH併設 [16]</td></tr>
+<tr><td class="n">22</td><td><span class="tag com">コミュニティ病院</span></td><td>Sengkang Community Hospital</td><td>SingHealth</td><td>SKH併設 [16]</td></tr>
+<tr><td class="n">23</td><td><span class="tag com">コミュニティ病院</span></td><td>Yishun Community Hospital</td><td>NHG Health</td><td>KTPH併設 [16]</td></tr>
+<tr><td class="n">24</td><td><span class="tag com">コミュニティ病院</span></td><td>Jurong Community Hospital</td><td>NUHS</td><td>NTFGH併設 [16]</td></tr>
+<tr><td class="n">25</td><td><span class="tag com">コミュニティ病院</span></td><td>Ang Mo Kio-Thye Hua Kwan Hospital</td><td>非営利</td><td>[16]</td></tr>
+<tr><td class="n">26</td><td><span class="tag com">コミュニティ病院</span></td><td>Ren Ci Community Hospital</td><td>非営利</td><td>Novena [16]</td></tr>
+<tr><td class="n">27</td><td><span class="tag com">コミュニティ病院</span></td><td>St Andrew's Community Hospital（Simei）</td><td>非営利</td><td>CGH隣接 [16]</td></tr>
+<tr><td class="n">28</td><td><span class="tag com">コミュニティ病院</span></td><td>St Andrew's Community Hospital（Bedok）</td><td>非営利</td><td>2025年開設、240床 [7]</td></tr>
+<tr><td class="n">29</td><td><span class="tag com">コミュニティ病院</span></td><td>St Luke's Hospital</td><td>非営利</td><td>Bukit Batok [16]</td></tr>
 <tr><td class="n">30</td><td><span class="tag plan">計画</span></td><td>Eastern General Hospital Campus（急性期＋コミュニティ）</td><td>SingHealth（公立）</td><td>Bedok North駅隣接。2024年4月20日起工、2029年から段階開業、全面開業時約1,400床 [7][8][9]</td></tr>
 <tr><td class="n">31</td><td><span class="tag plan">計画</span></td><td>Tengah General and Community Hospital</td><td>NUHS（公立）</td><td>Tengah Garden Avenue沿い。2030年代初頭完成目標 [7][8]</td></tr>
 <tr><td class="n">32</td><td><span class="tag plan">計画</span></td><td>SGH Elective Care Centre＋新National Dental Centre</td><td>SingHealth（公立）</td><td>Second Hospital Avenue。2027年までに300床 [7][8]</td></tr>
