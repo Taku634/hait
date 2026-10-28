@@ -143,6 +143,7 @@ Outram（SGHキャンパス）からOrchard、Novena、Caldecottまでの約10km
 
 - 道路・海岸線・水域・公園: SLA "National Map Line" / "National Map Polygon"（data.gov.sg、Singapore Open Data Licence）: https://data.gov.sg/datasets/d_10480c0b59e65663dfae1028ff4aa8bb/view ／ https://data.gov.sg/datasets/d_29f066d67df3eae91df8a42f443863c8/view
 - 病院・MRT駅の座標: SLA OneMap Search API: https://www.onemap.gov.sg/apidocs/
+- 位置の検証: 各病院の公式住所（例: SGH 1 Hospital Crescent S169608 → 1.27964, 103.83554）をOneMapで座標化し、同じWGS84座標系のSLA道路データに重ねている。住所と座標の対照表はHTML版に掲載。道路はSLA分類のExpressway／Expressway Sliproad／Major Roadのみを描画しており、Tanglin RoadやGrange Roadなど同分類外の道路は表示されない。
 
 ## 8. 2030年までの供給拡大計画（MOH、2025年3月7日）[7]
 
