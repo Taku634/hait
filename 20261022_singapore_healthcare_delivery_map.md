@@ -6,6 +6,7 @@
 - インタラクティブ版（白地図＋番号にカーソルで名称表示）: `20261022_singapore_healthcare_map.html`
 - 白地図画像: `20261022_singapore_hospital_map.png` ／ SVG: `20261022_singapore_hospital_map.svg`
 - 施設座標データ（OneMap API取得）: `20261022_singapore_hospitals_coords.json`
+- 中部中心地の拡大図（主要道路・MRT駅付き）: `20261028_singapore_central_hospital_map.html` ／ `20261028_singapore_central_hospital_map.png`
 
 ---
 
@@ -133,6 +134,15 @@ MOHは民間病院を9（うち非営利1）と数える [5]。統計上は急�
 | — | 計画（民間非営利） | 新・民間非営利急性期病院（東部） | 入札で選定（未定） | 300〜400床。2026年後半に入札判断、用地は未公表 [4][18] |
 
 **予定地に関する注記**: 「計画」マーカーはMOHの「2026年以降の施設」ページに記載の住所・位置説明をOneMapで座標化したもので、敷地の正確な範囲ではない [8][23]。Alexandra病院再開発(11)、NUH Kent Ridge再開発(9)、TTSH Medical Tower(5)は既存病院の敷地内のため既存マーカーに含めた。
+
+## 7-2. 中部中心地の拡大図（主要道路・MRT駅付き、2026年10月28日追加）
+
+![シンガポール中部中心地の病院マップ](20261028_singapore_central_hospital_map.png)
+
+Outram（SGHキャンパス）からOrchard、Novena、Caldecottまでの約10km四方を拡大し、SLA（シンガポール土地管理局）の国家地図データによる高速道路（太線）・主要道路（細線）・水域・公園と、MRT駅（白丸）を重ねた。民間病院は運営事業者別に色分け（橙＝IHH、赤＝Raffles、緑＝Thomson、黄土＝Farrer Park、藍紫＝Crawfurd、紫◆＝非営利Mount Alvernia）。小さな白抜き丸は国立専門センター（Outram：NCCS・NHCS・SNEC・NDCS、Novena：NSC・NNI）。インタラクティブ版は `20261028_singapore_central_hospital_map.html`。
+
+- 道路・海岸線・水域・公園: SLA "National Map Line" / "National Map Polygon"（data.gov.sg、Singapore Open Data Licence）: https://data.gov.sg/datasets/d_10480c0b59e65663dfae1028ff4aa8bb/view ／ https://data.gov.sg/datasets/d_29f066d67df3eae91df8a42f443863c8/view
+- 病院・MRT駅の座標: SLA OneMap Search API: https://www.onemap.gov.sg/apidocs/
 
 ## 8. 2030年までの供給拡大計画（MOH、2025年3月7日）[7]
 
