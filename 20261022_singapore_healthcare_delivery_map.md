@@ -7,6 +7,7 @@
 - 白地図画像: `20261022_singapore_hospital_map.png` ／ SVG: `20261022_singapore_hospital_map.svg`
 - 施設座標データ（OneMap API取得）: `20261022_singapore_hospitals_coords.json`
 - 中部中心地の拡大図（主要道路・MRT駅付き）: `20261028_singapore_central_hospital_map.html` ／ `20261028_singapore_central_hospital_map.png`
+- 中部・東部の広域図: `20261030_singapore_central_east_hospital_map.html` ／ `20261030_singapore_central_east_hospital_map.png`
 
 ---
 
@@ -144,6 +145,12 @@ Outram（SGHキャンパス）からOrchard、Novena、Caldecottまでの約10km
 - 道路・海岸線・水域・公園: SLA "National Map Line" / "National Map Polygon"（data.gov.sg、Singapore Open Data Licence）: https://data.gov.sg/datasets/d_10480c0b59e65663dfae1028ff4aa8bb/view ／ https://data.gov.sg/datasets/d_29f066d67df3eae91df8a42f443863c8/view
 - 病院・MRT駅の座標: SLA OneMap Search API: https://www.onemap.gov.sg/apidocs/
 - 位置の検証: 各病院の公式住所（例: SGH 1 Hospital Crescent S169608 → 1.27964, 103.83554）をOneMapで座標化し、同じWGS84座標系のSLA道路データに重ねている。住所と座標の対照表はHTML版に掲載。道路はSLA分類のExpressway／Expressway Sliproad／Major Roadのみを描画しており、Tanglin RoadやGrange Roadなど同分類外の道路は表示されない。
+
+## 7-3. 中部・東部の広域図（2026年10月30日追加）
+
+![シンガポール中部・東部の病院マップ](20261030_singapore_central_east_hospital_map.png)
+
+7-2の中部中心地に東部を加え、西はAlexandra病院から東はChangi General Hospital・Simeiまで（東西約21km・南北約10km）を対象とした。追加した施設は、Changi General Hospital（公立、Simei）、St Andrew's Community Hospital（Simei：CGH隣接／Bedok：2025年開設・240床）、Parkway East Hospital（IHH、Joo Chiat）、Eastern General Hospital Campus（建設中、Bedok North駅隣接、2029年から段階開業・全面開業時約1,400床）。道路・水域・公園はSLA国家地図データ、座標はOneMap APIによる（出典は7-2と同じ）。インタラクティブ版は `20261030_singapore_central_east_hospital_map.html`。
 
 ## 8. 2030年までの供給拡大計画（MOH、2025年3月7日）[7]
 
